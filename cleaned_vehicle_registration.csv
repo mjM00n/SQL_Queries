@@ -1,0 +1,481 @@
+Municipality,Year,Vehicle_Type,Registration_Count
+Red Deer,2005,Total Motorized Vehicles,69394
+Red Deer,2006,Total Motorized Vehicles,73309
+Red Deer,2007,Total Motorized Vehicles,77226
+Red Deer,2008,Total Motorized Vehicles,78857
+Red Deer,2009,Total Motorized Vehicles,79679
+Red Deer,2010,Total Motorized Vehicles,79679
+Red Deer,2011,Total Motorized Vehicles,83466
+Red Deer,2012,Total Motorized Vehicles,86641
+Red Deer,2013,Total Motorized Vehicles,89627
+Red Deer,2014,Total Motorized Vehicles,93030
+Red Deer,2015,Total Motorized Vehicles,92096
+Red Deer,2016,Total Motorized Vehicles,86902
+Red Deer,2017,Total Motorized Vehicles,85220
+Red Deer,2018,Total Motorized Vehicles,85721
+Red Deer,2019,Total Motorized Vehicles,83801
+Red Deer,2020,Total Motorized Vehicles,84098
+Fort Saskatchewan,2005,Total Motorized Vehicles,14909
+Fort Saskatchewan,2006,Total Motorized Vehicles,15631
+Fort Saskatchewan,2007,Total Motorized Vehicles,16841
+Fort Saskatchewan,2008,Total Motorized Vehicles,17514
+Fort Saskatchewan,2009,Total Motorized Vehicles,19124
+Fort Saskatchewan,2010,Total Motorized Vehicles,19124
+Fort Saskatchewan,2011,Total Motorized Vehicles,20073
+Fort Saskatchewan,2012,Total Motorized Vehicles,20691
+Fort Saskatchewan,2013,Total Motorized Vehicles,21513
+Fort Saskatchewan,2014,Total Motorized Vehicles,22517
+Fort Saskatchewan,2015,Total Motorized Vehicles,23324
+Fort Saskatchewan,2016,Total Motorized Vehicles,23466
+Fort Saskatchewan,2017,Total Motorized Vehicles,23652
+Fort Saskatchewan,2018,Total Motorized Vehicles,24389
+Fort Saskatchewan,2019,Total Motorized Vehicles,24681
+Fort Saskatchewan,2020,Total Motorized Vehicles,25313
+Edmonton,2005,Total Motorized Vehicles,492890
+Edmonton,2006,Total Motorized Vehicles,524847
+Edmonton,2007,Total Motorized Vehicles,554714
+Edmonton,2008,Total Motorized Vehicles,567745
+Edmonton,2009,Total Motorized Vehicles,585765
+Edmonton,2010,Total Motorized Vehicles,585765
+Edmonton,2011,Total Motorized Vehicles,602783
+Edmonton,2012,Total Motorized Vehicles,629350
+Edmonton,2013,Total Motorized Vehicles,656563
+Edmonton,2014,Total Motorized Vehicles,685437
+Edmonton,2015,Total Motorized Vehicles,694584
+Edmonton,2016,Total Motorized Vehicles,679558
+Edmonton,2017,Total Motorized Vehicles,690375
+Edmonton,2018,Total Motorized Vehicles,707769
+Edmonton,2019,Total Motorized Vehicles,704657
+Edmonton,2020,Total Motorized Vehicles,712934
+Lethbridge,2005,Total Motorized Vehicles,60133
+Lethbridge,2006,Total Motorized Vehicles,63433
+Lethbridge,2007,Total Motorized Vehicles,67641
+Lethbridge,2008,Total Motorized Vehicles,70104
+Lethbridge,2009,Total Motorized Vehicles,72486
+Lethbridge,2010,Total Motorized Vehicles,72486
+Lethbridge,2011,Total Motorized Vehicles,74064
+Lethbridge,2012,Total Motorized Vehicles,75670
+Lethbridge,2013,Total Motorized Vehicles,77446
+Lethbridge,2014,Total Motorized Vehicles,80013
+Lethbridge,2015,Total Motorized Vehicles,81494
+Lethbridge,2016,Total Motorized Vehicles,81615
+Lethbridge,2017,Total Motorized Vehicles,80797
+Lethbridge,2018,Total Motorized Vehicles,82195
+Lethbridge,2019,Total Motorized Vehicles,81915
+Lethbridge,2020,Total Motorized Vehicles,82863
+Newell County,2005,Total Motorized Vehicles,2943
+Newell County,2006,Total Motorized Vehicles,3032
+Newell County,2007,Total Motorized Vehicles,3116
+Newell County,2008,Total Motorized Vehicles,3203
+Newell County,2009,Total Motorized Vehicles,3180
+Newell County,2010,Total Motorized Vehicles,3180
+Newell County,2011,Total Motorized Vehicles,3393
+Newell County,2012,Total Motorized Vehicles,3506
+Newell County,2013,Total Motorized Vehicles,3522
+Newell County,2014,Total Motorized Vehicles,3631
+Newell County,2015,Total Motorized Vehicles,3729
+Newell County,2016,Total Motorized Vehicles,3650
+Newell County,2017,Total Motorized Vehicles,3617
+Newell County,2018,Total Motorized Vehicles,3668
+Newell County,2019,Total Motorized Vehicles,3652
+Newell County,2020,Total Motorized Vehicles,3654
+Caroline,2005,Total Motorized Vehicles,2091
+Caroline,2006,Total Motorized Vehicles,2227
+Caroline,2007,Total Motorized Vehicles,2387
+Caroline,2008,Total Motorized Vehicles,2409
+Caroline,2009,Total Motorized Vehicles,2480
+Caroline,2010,Total Motorized Vehicles,2480
+Caroline,2011,Total Motorized Vehicles,2545
+Caroline,2012,Total Motorized Vehicles,2601
+Caroline,2013,Total Motorized Vehicles,2586
+Caroline,2014,Total Motorized Vehicles,2626
+Caroline,2015,Total Motorized Vehicles,2678
+Caroline,2016,Total Motorized Vehicles,2613
+Caroline,2017,Total Motorized Vehicles,2584
+Caroline,2018,Total Motorized Vehicles,2649
+Caroline,2019,Total Motorized Vehicles,2659
+Caroline,2020,Total Motorized Vehicles,2703
+Airdrie,2005,Total Motorized Vehicles,24609
+Airdrie,2006,Total Motorized Vehicles,27288
+Airdrie,2007,Total Motorized Vehicles,30095
+Airdrie,2008,Total Motorized Vehicles,32293
+Airdrie,2009,Total Motorized Vehicles,36368
+Airdrie,2010,Total Motorized Vehicles,36368
+Airdrie,2011,Total Motorized Vehicles,38999
+Airdrie,2012,Total Motorized Vehicles,42381
+Airdrie,2013,Total Motorized Vehicles,46233
+Airdrie,2014,Total Motorized Vehicles,50069
+Airdrie,2015,Total Motorized Vehicles,52552
+Airdrie,2016,Total Motorized Vehicles,53988
+Airdrie,2017,Total Motorized Vehicles,55749
+Airdrie,2018,Total Motorized Vehicles,56348
+Airdrie,2019,Total Motorized Vehicles,56471
+Airdrie,2020,Total Motorized Vehicles,58437
+Medicine Hat,2005,Total Motorized Vehicles,49411
+Medicine Hat,2006,Total Motorized Vehicles,51960
+Medicine Hat,2007,Total Motorized Vehicles,54275
+Medicine Hat,2008,Total Motorized Vehicles,55828
+Medicine Hat,2009,Total Motorized Vehicles,55662
+Medicine Hat,2010,Total Motorized Vehicles,55662
+Medicine Hat,2011,Total Motorized Vehicles,57383
+Medicine Hat,2012,Total Motorized Vehicles,58493
+Medicine Hat,2013,Total Motorized Vehicles,59498
+Medicine Hat,2014,Total Motorized Vehicles,60988
+Medicine Hat,2015,Total Motorized Vehicles,60995
+Medicine Hat,2016,Total Motorized Vehicles,60173
+Medicine Hat,2017,Total Motorized Vehicles,59515
+Medicine Hat,2018,Total Motorized Vehicles,60465
+Medicine Hat,2019,Total Motorized Vehicles,59821
+Medicine Hat,2020,Total Motorized Vehicles,60072
+"Taber, M.D.",2005,Total Motorized Vehicles,2311
+"Taber, M.D.",2006,Total Motorized Vehicles,2337
+"Taber, M.D.",2007,Total Motorized Vehicles,2480
+"Taber, M.D.",2008,Total Motorized Vehicles,2570
+"Taber, M.D.",2009,Total Motorized Vehicles,2715
+"Taber, M.D.",2010,Total Motorized Vehicles,2715
+"Taber, M.D.",2011,Total Motorized Vehicles,2822
+"Taber, M.D.",2012,Total Motorized Vehicles,2876
+"Taber, M.D.",2013,Total Motorized Vehicles,2943
+"Taber, M.D.",2014,Total Motorized Vehicles,3056
+"Taber, M.D.",2015,Total Motorized Vehicles,3038
+"Taber, M.D.",2016,Total Motorized Vehicles,2991
+"Taber, M.D.",2017,Total Motorized Vehicles,3046
+"Taber, M.D.",2018,Total Motorized Vehicles,3086
+"Taber, M.D.",2019,Total Motorized Vehicles,3119
+"Taber, M.D.",2020,Total Motorized Vehicles,3081
+Foothills County,2005,Total Motorized Vehicles,10169
+Foothills County,2006,Total Motorized Vehicles,10729
+Foothills County,2007,Total Motorized Vehicles,11550
+Foothills County,2008,Total Motorized Vehicles,12150
+Foothills County,2009,Total Motorized Vehicles,12643
+Foothills County,2010,Total Motorized Vehicles,12643
+Foothills County,2011,Total Motorized Vehicles,13038
+Foothills County,2012,Total Motorized Vehicles,13367
+Foothills County,2013,Total Motorized Vehicles,13756
+Foothills County,2014,Total Motorized Vehicles,14367
+Foothills County,2015,Total Motorized Vehicles,14732
+Foothills County,2016,Total Motorized Vehicles,15346
+Foothills County,2017,Total Motorized Vehicles,15305
+Foothills County,2018,Total Motorized Vehicles,15353
+Foothills County,2019,Total Motorized Vehicles,15074
+Foothills County,2020,Total Motorized Vehicles,15132
+Calgary,2005,Total Motorized Vehicles,743767
+Calgary,2006,Total Motorized Vehicles,789347
+Calgary,2007,Total Motorized Vehicles,829030
+Calgary,2008,Total Motorized Vehicles,843825
+Calgary,2009,Total Motorized Vehicles,867376
+Calgary,2010,Total Motorized Vehicles,867376
+Calgary,2011,Total Motorized Vehicles,895357
+Calgary,2012,Total Motorized Vehicles,934296
+Calgary,2013,Total Motorized Vehicles,972193
+Calgary,2014,Total Motorized Vehicles,1005109
+Calgary,2015,Total Motorized Vehicles,1007399
+Calgary,2016,Total Motorized Vehicles,990144
+Calgary,2017,Total Motorized Vehicles,1000567
+Calgary,2018,Total Motorized Vehicles,1021618
+Calgary,2019,Total Motorized Vehicles,1015104
+Calgary,2020,Total Motorized Vehicles,1006510
+Northern Sunrise County,2005,Total Motorized Vehicles,508
+Northern Sunrise County,2006,Total Motorized Vehicles,540
+Northern Sunrise County,2007,Total Motorized Vehicles,576
+Northern Sunrise County,2008,Total Motorized Vehicles,568
+Northern Sunrise County,2009,Total Motorized Vehicles,616
+Northern Sunrise County,2010,Total Motorized Vehicles,616
+Northern Sunrise County,2011,Total Motorized Vehicles,627
+Northern Sunrise County,2012,Total Motorized Vehicles,655
+Northern Sunrise County,2013,Total Motorized Vehicles,696
+Northern Sunrise County,2014,Total Motorized Vehicles,727
+Northern Sunrise County,2015,Total Motorized Vehicles,731
+Northern Sunrise County,2016,Total Motorized Vehicles,727
+Northern Sunrise County,2017,Total Motorized Vehicles,718
+Northern Sunrise County,2018,Total Motorized Vehicles,685
+Northern Sunrise County,2019,Total Motorized Vehicles,674
+Northern Sunrise County,2020,Total Motorized Vehicles,691
+Grande Prairie,2005,Total Motorized Vehicles,46120
+Grande Prairie,2006,Total Motorized Vehicles,50480
+Grande Prairie,2007,Total Motorized Vehicles,52439
+Grande Prairie,2008,Total Motorized Vehicles,53918
+Grande Prairie,2009,Total Motorized Vehicles,55384
+Grande Prairie,2010,Total Motorized Vehicles,55384
+Grande Prairie,2011,Total Motorized Vehicles,59298
+Grande Prairie,2012,Total Motorized Vehicles,58514
+Grande Prairie,2013,Total Motorized Vehicles,59379
+Grande Prairie,2014,Total Motorized Vehicles,62542
+Grande Prairie,2015,Total Motorized Vehicles,60912
+Grande Prairie,2016,Total Motorized Vehicles,58216
+Grande Prairie,2017,Total Motorized Vehicles,59514
+Grande Prairie,2018,Total Motorized Vehicles,62153
+Grande Prairie,2019,Total Motorized Vehicles,60866
+Grande Prairie,2020,Total Motorized Vehicles,59869
+Brazeau County,2005,Total Motorized Vehicles,1525
+Brazeau County,2006,Total Motorized Vehicles,1612
+Brazeau County,2007,Total Motorized Vehicles,1729
+Brazeau County,2008,Total Motorized Vehicles,1739
+Brazeau County,2009,Total Motorized Vehicles,1804
+Brazeau County,2010,Total Motorized Vehicles,1804
+Brazeau County,2011,Total Motorized Vehicles,1872
+Brazeau County,2012,Total Motorized Vehicles,1984
+Brazeau County,2013,Total Motorized Vehicles,2029
+Brazeau County,2014,Total Motorized Vehicles,2112
+Brazeau County,2015,Total Motorized Vehicles,2050
+Brazeau County,2016,Total Motorized Vehicles,1970
+Brazeau County,2017,Total Motorized Vehicles,1951
+Brazeau County,2018,Total Motorized Vehicles,1939
+Brazeau County,2019,Total Motorized Vehicles,1898
+Brazeau County,2020,Total Motorized Vehicles,1895
+Parkland County,2005,Total Motorized Vehicles,7318
+Parkland County,2006,Total Motorized Vehicles,8587
+Parkland County,2007,Total Motorized Vehicles,9382
+Parkland County,2008,Total Motorized Vehicles,9740
+Parkland County,2009,Total Motorized Vehicles,10011
+Parkland County,2010,Total Motorized Vehicles,10011
+Parkland County,2011,Total Motorized Vehicles,10512
+Parkland County,2012,Total Motorized Vehicles,10660
+Parkland County,2013,Total Motorized Vehicles,11941
+Parkland County,2014,Total Motorized Vehicles,12822
+Parkland County,2015,Total Motorized Vehicles,12908
+Parkland County,2016,Total Motorized Vehicles,19894
+Parkland County,2017,Total Motorized Vehicles,22034
+Parkland County,2018,Total Motorized Vehicles,23687
+Parkland County,2019,Total Motorized Vehicles,24214
+Parkland County,2020,Total Motorized Vehicles,24428
+Strathcona County,2005,Total Motorized Vehicles,68391
+Strathcona County,2006,Total Motorized Vehicles,72184
+Strathcona County,2007,Total Motorized Vehicles,76554
+Strathcona County,2008,Total Motorized Vehicles,79727
+Strathcona County,2009,Total Motorized Vehicles,82926
+Strathcona County,2010,Total Motorized Vehicles,82926
+Strathcona County,2011,Total Motorized Vehicles,84596
+Strathcona County,2012,Total Motorized Vehicles,86854
+Strathcona County,2013,Total Motorized Vehicles,89638
+Strathcona County,2014,Total Motorized Vehicles,92071
+Strathcona County,2015,Total Motorized Vehicles,92801
+Strathcona County,2016,Total Motorized Vehicles,91469
+Strathcona County,2017,Total Motorized Vehicles,91885
+Strathcona County,2018,Total Motorized Vehicles,92864
+Strathcona County,2019,Total Motorized Vehicles,91364
+Strathcona County,2020,Total Motorized Vehicles,92286
+Sturgeon County,2005,Total Motorized Vehicles,3118
+Sturgeon County,2006,Total Motorized Vehicles,3273
+Sturgeon County,2007,Total Motorized Vehicles,3438
+Sturgeon County,2008,Total Motorized Vehicles,3607
+Sturgeon County,2009,Total Motorized Vehicles,8830
+Sturgeon County,2010,Total Motorized Vehicles,8830
+Sturgeon County,2011,Total Motorized Vehicles,11036
+Sturgeon County,2012,Total Motorized Vehicles,13582
+Sturgeon County,2013,Total Motorized Vehicles,18411
+Sturgeon County,2014,Total Motorized Vehicles,20023
+Sturgeon County,2015,Total Motorized Vehicles,20566
+Sturgeon County,2016,Total Motorized Vehicles,20598
+Sturgeon County,2017,Total Motorized Vehicles,20935
+Sturgeon County,2018,Total Motorized Vehicles,21207
+Sturgeon County,2019,Total Motorized Vehicles,21094
+Sturgeon County,2020,Total Motorized Vehicles,21479
+St. Albert,2005,Total Motorized Vehicles,46297
+St. Albert,2006,Total Motorized Vehicles,48774
+St. Albert,2007,Total Motorized Vehicles,51332
+St. Albert,2008,Total Motorized Vehicles,52387
+St. Albert,2009,Total Motorized Vehicles,49195
+St. Albert,2010,Total Motorized Vehicles,49195
+St. Albert,2011,Total Motorized Vehicles,49572
+St. Albert,2012,Total Motorized Vehicles,50424
+St. Albert,2013,Total Motorized Vehicles,51944
+St. Albert,2014,Total Motorized Vehicles,53578
+St. Albert,2015,Total Motorized Vehicles,54445
+St. Albert,2016,Total Motorized Vehicles,55202
+St. Albert,2017,Total Motorized Vehicles,54088
+St. Albert,2018,Total Motorized Vehicles,55330
+St. Albert,2019,Total Motorized Vehicles,54621
+St. Albert,2020,Total Motorized Vehicles,55279
+Canmore,2005,Total Motorized Vehicles,9147
+Canmore,2006,Total Motorized Vehicles,9726
+Canmore,2007,Total Motorized Vehicles,10285
+Canmore,2008,Total Motorized Vehicles,10412
+Canmore,2009,Total Motorized Vehicles,10738
+Canmore,2010,Total Motorized Vehicles,10738
+Canmore,2011,Total Motorized Vehicles,10902
+Canmore,2012,Total Motorized Vehicles,11395
+Canmore,2013,Total Motorized Vehicles,11998
+Canmore,2014,Total Motorized Vehicles,12468
+Canmore,2015,Total Motorized Vehicles,12873
+Canmore,2016,Total Motorized Vehicles,12803
+Canmore,2017,Total Motorized Vehicles,12994
+Canmore,2018,Total Motorized Vehicles,13222
+Canmore,2019,Total Motorized Vehicles,13205
+Canmore,2020,Total Motorized Vehicles,13292
+Grande Prairie County No. 1,2005,Total Motorized Vehicles,3973
+Grande Prairie County No. 1,2006,Total Motorized Vehicles,4408
+Grande Prairie County No. 1,2007,Total Motorized Vehicles,4764
+Grande Prairie County No. 1,2008,Total Motorized Vehicles,4794
+Grande Prairie County No. 1,2009,Total Motorized Vehicles,5354
+Grande Prairie County No. 1,2010,Total Motorized Vehicles,5354
+Grande Prairie County No. 1,2011,Total Motorized Vehicles,5902
+Grande Prairie County No. 1,2012,Total Motorized Vehicles,10329
+Grande Prairie County No. 1,2013,Total Motorized Vehicles,13116
+Grande Prairie County No. 1,2014,Total Motorized Vehicles,14265
+Grande Prairie County No. 1,2015,Total Motorized Vehicles,14340
+Grande Prairie County No. 1,2016,Total Motorized Vehicles,14006
+Grande Prairie County No. 1,2017,Total Motorized Vehicles,14664
+Grande Prairie County No. 1,2018,Total Motorized Vehicles,14867
+Grande Prairie County No. 1,2019,Total Motorized Vehicles,14775
+Grande Prairie County No. 1,2020,Total Motorized Vehicles,15058
+Cold Lake,2005,Total Motorized Vehicles,11410
+Cold Lake,2006,Total Motorized Vehicles,12143
+Cold Lake,2007,Total Motorized Vehicles,12841
+Cold Lake,2008,Total Motorized Vehicles,13574
+Cold Lake,2009,Total Motorized Vehicles,14693
+Cold Lake,2010,Total Motorized Vehicles,14693
+Cold Lake,2011,Total Motorized Vehicles,15380
+Cold Lake,2012,Total Motorized Vehicles,16104
+Cold Lake,2013,Total Motorized Vehicles,17146
+Cold Lake,2014,Total Motorized Vehicles,17333
+Cold Lake,2015,Total Motorized Vehicles,17269
+Cold Lake,2016,Total Motorized Vehicles,16721
+Cold Lake,2017,Total Motorized Vehicles,16686
+Cold Lake,2018,Total Motorized Vehicles,16916
+Cold Lake,2019,Total Motorized Vehicles,16563
+Cold Lake,2020,Total Motorized Vehicles,16691
+Bonnyville No. 87,2005,Total Motorized Vehicles,2393
+Bonnyville No. 87,2006,Total Motorized Vehicles,2513
+Bonnyville No. 87,2007,Total Motorized Vehicles,2696
+Bonnyville No. 87,2008,Total Motorized Vehicles,2830
+Bonnyville No. 87,2009,Total Motorized Vehicles,3010
+Bonnyville No. 87,2010,Total Motorized Vehicles,3010
+Bonnyville No. 87,2011,Total Motorized Vehicles,3168
+Bonnyville No. 87,2012,Total Motorized Vehicles,3316
+Bonnyville No. 87,2013,Total Motorized Vehicles,3572
+Bonnyville No. 87,2014,Total Motorized Vehicles,3723
+Bonnyville No. 87,2015,Total Motorized Vehicles,3592
+Bonnyville No. 87,2016,Total Motorized Vehicles,3474
+Bonnyville No. 87,2017,Total Motorized Vehicles,3451
+Bonnyville No. 87,2018,Total Motorized Vehicles,3505
+Bonnyville No. 87,2019,Total Motorized Vehicles,3447
+Bonnyville No. 87,2020,Total Motorized Vehicles,3495
+St. Paul County No. 19,2005,Total Motorized Vehicles,3596
+St. Paul County No. 19,2006,Total Motorized Vehicles,4476
+St. Paul County No. 19,2007,Total Motorized Vehicles,3928
+St. Paul County No. 19,2008,Total Motorized Vehicles,3960
+St. Paul County No. 19,2009,Total Motorized Vehicles,4203
+St. Paul County No. 19,2010,Total Motorized Vehicles,4203
+St. Paul County No. 19,2011,Total Motorized Vehicles,4366
+St. Paul County No. 19,2012,Total Motorized Vehicles,4447
+St. Paul County No. 19,2013,Total Motorized Vehicles,4606
+St. Paul County No. 19,2014,Total Motorized Vehicles,4646
+St. Paul County No. 19,2015,Total Motorized Vehicles,4650
+St. Paul County No. 19,2016,Total Motorized Vehicles,4490
+St. Paul County No. 19,2017,Total Motorized Vehicles,4473
+St. Paul County No. 19,2018,Total Motorized Vehicles,4552
+St. Paul County No. 19,2019,Total Motorized Vehicles,4263
+St. Paul County No. 19,2020,Total Motorized Vehicles,4479
+Peace No. 135,2005,Total Motorized Vehicles,334
+Peace No. 135,2006,Total Motorized Vehicles,335
+Peace No. 135,2007,Total Motorized Vehicles,356
+Peace No. 135,2008,Total Motorized Vehicles,386
+Peace No. 135,2009,Total Motorized Vehicles,391
+Peace No. 135,2010,Total Motorized Vehicles,391
+Peace No. 135,2011,Total Motorized Vehicles,413
+Peace No. 135,2012,Total Motorized Vehicles,433
+Peace No. 135,2013,Total Motorized Vehicles,430
+Peace No. 135,2014,Total Motorized Vehicles,450
+Peace No. 135,2015,Total Motorized Vehicles,425
+Peace No. 135,2016,Total Motorized Vehicles,425
+Peace No. 135,2017,Total Motorized Vehicles,432
+Peace No. 135,2018,Total Motorized Vehicles,445
+Peace No. 135,2019,Total Motorized Vehicles,410
+Peace No. 135,2020,Total Motorized Vehicles,436
+Wood Buffalo,2005,Total Motorized Vehicles,39380
+Wood Buffalo,2006,Total Motorized Vehicles,43179
+Wood Buffalo,2007,Total Motorized Vehicles,48802
+Wood Buffalo,2008,Total Motorized Vehicles,53889
+Wood Buffalo,2009,Total Motorized Vehicles,59820
+Wood Buffalo,2010,Total Motorized Vehicles,59820
+Wood Buffalo,2011,Total Motorized Vehicles,62304
+Wood Buffalo,2012,Total Motorized Vehicles,66528
+Wood Buffalo,2013,Total Motorized Vehicles,70162
+Wood Buffalo,2014,Total Motorized Vehicles,71163
+Wood Buffalo,2015,Total Motorized Vehicles,67720
+Wood Buffalo,2016,Total Motorized Vehicles,65494
+Wood Buffalo,2017,Total Motorized Vehicles,64349
+Wood Buffalo,2018,Total Motorized Vehicles,64988
+Wood Buffalo,2019,Total Motorized Vehicles,64342
+Wood Buffalo,2020,Total Motorized Vehicles,64436
+Bruderheim,2005,Total Motorized Vehicles,1415
+Bruderheim,2006,Total Motorized Vehicles,1455
+Bruderheim,2007,Total Motorized Vehicles,1533
+Bruderheim,2008,Total Motorized Vehicles,1516
+Bruderheim,2009,Total Motorized Vehicles,1583
+Bruderheim,2010,Total Motorized Vehicles,1583
+Bruderheim,2011,Total Motorized Vehicles,1590
+Bruderheim,2012,Total Motorized Vehicles,1593
+Bruderheim,2013,Total Motorized Vehicles,1689
+Bruderheim,2014,Total Motorized Vehicles,1742
+Bruderheim,2015,Total Motorized Vehicles,1757
+Bruderheim,2016,Total Motorized Vehicles,1728
+Bruderheim,2017,Total Motorized Vehicles,1727
+Bruderheim,2018,Total Motorized Vehicles,1761
+Bruderheim,2019,Total Motorized Vehicles,1754
+Bruderheim,2020,Total Motorized Vehicles,1784
+Leduc County,2005,Total Motorized Vehicles,7639
+Leduc County,2006,Total Motorized Vehicles,7700
+Leduc County,2007,Total Motorized Vehicles,7551
+Leduc County,2008,Total Motorized Vehicles,7853
+Leduc County,2009,Total Motorized Vehicles,7869
+Leduc County,2010,Total Motorized Vehicles,7869
+Leduc County,2011,Total Motorized Vehicles,12165
+Leduc County,2012,Total Motorized Vehicles,13206
+Leduc County,2013,Total Motorized Vehicles,13969
+Leduc County,2014,Total Motorized Vehicles,14829
+Leduc County,2015,Total Motorized Vehicles,14786
+Leduc County,2016,Total Motorized Vehicles,15086
+Leduc County,2017,Total Motorized Vehicles,15601
+Leduc County,2018,Total Motorized Vehicles,19062
+Leduc County,2019,Total Motorized Vehicles,18336
+Leduc County,2020,Total Motorized Vehicles,17888
+Beaverlodge,2005,Total Motorized Vehicles,4086
+Beaverlodge,2006,Total Motorized Vehicles,4326
+Beaverlodge,2007,Total Motorized Vehicles,4509
+Beaverlodge,2008,Total Motorized Vehicles,4602
+Beaverlodge,2009,Total Motorized Vehicles,4740
+Beaverlodge,2010,Total Motorized Vehicles,4740
+Beaverlodge,2011,Total Motorized Vehicles,4923
+Beaverlodge,2012,Total Motorized Vehicles,5065
+Beaverlodge,2013,Total Motorized Vehicles,5281
+Beaverlodge,2014,Total Motorized Vehicles,5519
+Beaverlodge,2015,Total Motorized Vehicles,5552
+Beaverlodge,2016,Total Motorized Vehicles,5415
+Beaverlodge,2017,Total Motorized Vehicles,5461
+Beaverlodge,2018,Total Motorized Vehicles,5675
+Beaverlodge,2019,Total Motorized Vehicles,5514
+Beaverlodge,2020,Total Motorized Vehicles,5463
+Lamont County,2005,Total Motorized Vehicles,967
+Lamont County,2006,Total Motorized Vehicles,979
+Lamont County,2007,Total Motorized Vehicles,1031
+Lamont County,2008,Total Motorized Vehicles,1040
+Lamont County,2009,Total Motorized Vehicles,1075
+Lamont County,2010,Total Motorized Vehicles,1075
+Lamont County,2011,Total Motorized Vehicles,1113
+Lamont County,2012,Total Motorized Vehicles,590
+Lamont County,2013,Total Motorized Vehicles,1174
+Lamont County,2014,Total Motorized Vehicles,1171
+Lamont County,2015,Total Motorized Vehicles,636
+Lamont County,2016,Total Motorized Vehicles,603
+Lamont County,2017,Total Motorized Vehicles,607
+Lamont County,2018,Total Motorized Vehicles,608
+Lamont County,2019,Total Motorized Vehicles,578
+Lamont County,2020,Total Motorized Vehicles,605
+Yellowhead County,2005,Total Motorized Vehicles,5736
+Yellowhead County,2006,Total Motorized Vehicles,5866
+Yellowhead County,2007,Total Motorized Vehicles,6135
+Yellowhead County,2008,Total Motorized Vehicles,6191
+Yellowhead County,2009,Total Motorized Vehicles,6425
+Yellowhead County,2010,Total Motorized Vehicles,6425
+Yellowhead County,2011,Total Motorized Vehicles,8128
+Yellowhead County,2012,Total Motorized Vehicles,8960
+Yellowhead County,2013,Total Motorized Vehicles,9399
+Yellowhead County,2014,Total Motorized Vehicles,9882
+Yellowhead County,2015,Total Motorized Vehicles,9994
+Yellowhead County,2016,Total Motorized Vehicles,9840
+Yellowhead County,2017,Total Motorized Vehicles,10040
+Yellowhead County,2018,Total Motorized Vehicles,10262
+Yellowhead County,2019,Total Motorized Vehicles,10114
+Yellowhead County,2020,Total Motorized Vehicles,10278
