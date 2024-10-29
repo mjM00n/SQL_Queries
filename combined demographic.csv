@@ -1,0 +1,285 @@
+Unique CSD,Unique Year,Combined Key,Adjusted Air Quality Health Index,Both Sexes Life Expectancy (Years),Population
+Red Deer,2011,Red Deer2011,2.74906,79.96,75553
+Red Deer,2012,Red Deer2012,2.4325,80,77674
+Red Deer,2013,Red Deer2013,2.54466,80.17,79180
+Red Deer,2014,Red Deer2014,2.23417,80.2,80290
+Red Deer,2015,Red Deer2015,2.26231,80.37,80049
+Red Deer,2016,Red Deer2016,1.90006,80.61,79040
+Red Deer,2017,Red Deer2017,2.26275,80.7,78641
+Red Deer,2018,Red Deer2018,2.66485,80.74,78301
+Red Deer,2019,Red Deer2019,2.32946,80.83,77814
+Red Deer,2020,Red Deer2020,2.23237,80.8,76885
+Red Deer,2021,Red Deer2021,2.36964,80.67,75750
+Red Deer,2022,Red Deer2022,2.35551,80.58,75594
+Fort Saskatchewan,2011,Fort Saskatchewan2011,2.41379,81.15,15796
+Fort Saskatchewan,2012,Fort Saskatchewan2012,2.1828,81.22,16729
+Fort Saskatchewan,2013,Fort Saskatchewan2013,2.2322,81.26,17596
+Fort Saskatchewan,2014,Fort Saskatchewan2014,2.31395,81.16,18166
+Fort Saskatchewan,2015,Fort Saskatchewan2015,2.3068,81.23,18654
+Fort Saskatchewan,2016,Fort Saskatchewan2016,2.16759,81.38,19622
+Fort Saskatchewan,2017,Fort Saskatchewan2017,2.35769,81.57,20289
+Fort Saskatchewan,2018,Fort Saskatchewan2018,2.67891,81.7,20592
+Fort Saskatchewan,2019,Fort Saskatchewan2019,2.33533,81.99,20862
+Fort Saskatchewan,2020,Fort Saskatchewan2020,2.19004,81.94,20967
+Fort Saskatchewan,2021,Fort Saskatchewan2021,2.47241,81.94,21555
+Fort Saskatchewan,2022,Fort Saskatchewan2022,2.58471,81.71,21654
+Edmonton,2011,Edmonton2011,2.89097,80.89,667599
+Edmonton,2012,Edmonton2012,2.7252,81.04,680682
+Edmonton,2013,Edmonton2013,2.834,81.16,699930
+Edmonton,2014,Edmonton2014,2.66672,81.29,721455
+Edmonton,2015,Edmonton2015,2.68302,81.43,733854
+Edmonton,2016,Edmonton2016,2.48619,81.61,745502
+Edmonton,2017,Edmonton2017,2.68307,81.73,755132
+Edmonton,2018,Edmonton2018,2.88331,81.83,766512
+Edmonton,2019,Edmonton2019,2.58848,81.96,779839
+Edmonton,2020,Edmonton2020,2.42881,81.85,790344
+Edmonton,2021,Edmonton2021,2.67501,81.74,789317
+Edmonton,2022,Edmonton2022,2.67972,81.6,802850
+Lethbridge,2011,Lethbridge2011,2.49049,80.69,64751
+Lethbridge,2012,Lethbridge2012,2.4086,80.8,65725
+Lethbridge,2013,Lethbridge2013,2.38762,80.91,66344
+Lethbridge,2014,Lethbridge2014,2.38187,80.81,67905
+Lethbridge,2015,Lethbridge2015,2.50017,81.03,67729
+Lethbridge,2016,Lethbridge2016,2.15808,80.95,69049
+Lethbridge,2017,Lethbridge2017,2.46196,80.94,69669
+Lethbridge,2018,Lethbridge2018,2.60505,81.11,70721
+Lethbridge,2019,Lethbridge2019,2.2355,81.25,71752
+Lethbridge,2020,Lethbridge2020,2.23214,81.2,72695
+Lethbridge,2021,Lethbridge2021,2.43529,81.14,72036
+Lethbridge,2022,Lethbridge2022,2.29373,81.03,73181
+Newell County,2021,Newell County2021,2.11121,81.14,5410
+Newell County,2022,Newell County2022,2.04479,80.8,5402
+Caroline,2011,Caroline2011,2.10273,78.55,355
+Caroline,2012,Caroline2012,2.06554,78.46,340
+Caroline,2013,Caroline2013,2.12507,78.4,346
+Caroline,2014,Caroline2014,2.08402,78.52,343
+Caroline,2015,Caroline2015,2.08464,78.71,344
+Caroline,2016,Caroline2016,1.94013,78.81,349
+Caroline,2017,Caroline2017,2.27439,78.65,322
+Caroline,2018,Caroline2018,2.31931,78.63,301
+Caroline,2019,Caroline2019,2.02904,78.64,308
+Caroline,2020,Caroline2020,1.95468,78.68,287
+Caroline,2021,Caroline2021,2.19093,78.09,321
+Caroline,2022,Caroline2022,2.06001,77.82,333
+Airdrie,2017,Airdrie2017,2.3482,82.92,54254
+Airdrie,2018,Airdrie2018,2.61744,82.92,56072
+Airdrie,2019,Airdrie2019,2.25146,82.92,57768
+Airdrie,2020,Airdrie2020,2.16356,82.93,59083
+Airdrie,2021,Airdrie2021,2.36116,82.95,60610
+Airdrie,2022,Airdrie2022,2.28974,83.02,62505
+Medicine Hat,2011,Medicine Hat2011,2.56308,79.64,45471
+Medicine Hat,2012,Medicine Hat2012,2.53065,79.68,45810
+Medicine Hat,2013,Medicine Hat2013,2.53198,79.74,45898
+Medicine Hat,2014,Medicine Hat2014,2.18619,79.73,45859
+Medicine Hat,2015,Medicine Hat2015,2.30006,79.92,45618
+Medicine Hat,2016,Medicine Hat2016,2.04746,79.89,45234
+Medicine Hat,2017,Medicine Hat2017,2.40532,79.89,44905
+Medicine Hat,2018,Medicine Hat2018,2.52381,79.94,44670
+Medicine Hat,2019,Medicine Hat2019,2.33503,80.1,44206
+Medicine Hat,2020,Medicine Hat2020,2.25509,80.22,43773
+Medicine Hat,2021,Medicine Hat2021,2.44416,80.04,43166
+Medicine Hat,2022,Medicine Hat2022,2.28271,79.95,42726
+"Taber, M.D.",2021,"Taber, M.D.2021",2.44227,,5870
+"Taber, M.D.",2022,"Taber, M.D.2022",2.21306,,5866
+Foothills County,2019,Foothills County2019,2.08594,83.36,15621
+Foothills County,2021,Foothills County2021,2.14708,83.33,15249
+Calgary,2011,Calgary2011,2.91893,82.43,917179
+Calgary,2012,Calgary2012,2.73153,82.6,936483
+Calgary,2013,Calgary2013,2.80624,82.71,960801
+Calgary,2014,Calgary2014,2.54884,82.89,981947
+Calgary,2015,Calgary2015,2.42833,83.02,989641
+Calgary,2016,Calgary2016,2.37688,83.15,994348
+Calgary,2017,Calgary2017,2.79119,83.19,993824
+Calgary,2018,Calgary2018,2.98254,83.25,999411
+Calgary,2019,Calgary2019,2.66683,83.4,1010296
+Calgary,2020,Calgary2020,2.38823,83.37,1020222
+Calgary,2021,Calgary2021,2.75489,83.31,1016564
+Calgary,2022,Calgary2022,2.7279,83.22,1040633
+Northern Sunrise County,2019,Northern Sunrise County2019,1.48933,78.49,1292
+Northern Sunrise County,2020,Northern Sunrise County2020,1.57482,77.99,1237
+Northern Sunrise County,2021,Northern Sunrise County2021,1.75677,77.92,1174
+Spirit River No. 133,2016,Spirit River No. 1332016,1.61239,,501
+Spirit River No. 133,2017,Spirit River No. 1332017,1.8683,,434
+Spirit River No. 133,2018,Spirit River No. 1332018,2.13208,,441
+Grande Prairie,2011,Grande Prairie2011,2.42475,79.86,49769
+Grande Prairie,2012,Grande Prairie2012,2.3005,79.81,51571
+Grande Prairie,2013,Grande Prairie2013,2.39802,79.91,53481
+Grande Prairie,2014,Grande Prairie2014,2.48692,80.04,54669
+Grande Prairie,2015,Grande Prairie2015,2.31242,80.09,55146
+Grande Prairie,2016,Grande Prairie2016,2.09172,80.26,53957
+Grande Prairie,2017,Grande Prairie2017,2.3839,80.02,53889
+Grande Prairie,2018,Grande Prairie2018,2.56635,79.95,55183
+Grande Prairie,2019,Grande Prairie2019,2.35811,79.98,55424
+Grande Prairie,2020,Grande Prairie2020,2.19123,79.96,55050
+Grande Prairie,2021,Grande Prairie2021,2.34621,79.6,52931
+Grande Prairie,2022,Grande Prairie2022,2.44674,79.36,51731
+Brazeau County,2019,Brazeau County2019,2.05089,79.42,5600
+Brazeau County,2020,Brazeau County2020,2.27738,79.49,5507
+Brazeau County,2021,Brazeau County2021,2.46393,79.22,5088
+Brazeau County,2022,Brazeau County2022,2.44921,78.83,5044
+Parkland County,2011,Parkland County2011,2.12525,81.34,24405
+Parkland County,2012,Parkland County2012,2.04364,81.5,24323
+Parkland County,2013,Parkland County2013,2.10473,81.53,24446
+Parkland County,2014,Parkland County2014,2.05186,81.59,24656
+Parkland County,2015,Parkland County2015,2.05105,81.68,24273
+Parkland County,2016,Parkland County2016,1.8777,81.7,23636
+Parkland County,2017,Parkland County2017,2.01972,81.74,23458
+Parkland County,2018,Parkland County2018,2.26652,81.82,23120
+Parkland County,2019,Parkland County2019,2.02871,82.04,22795
+Parkland County,2020,Parkland County2020,1.90629,81.98,22439
+Parkland County,2021,Parkland County2021,2.18488,81.89,22049
+Parkland County,2022,Parkland County2022,2.07461,81.75,21930
+Strathcona County,2015,Strathcona County2015,2.30421,81.93,74131
+Strathcona County,2016,Strathcona County2016,2.13355,82.08,74185
+Strathcona County,2017,Strathcona County2017,2.38307,82.16,73842
+Strathcona County,2018,Strathcona County2018,2.57518,82.24,73301
+Strathcona County,2019,Strathcona County2019,2.34714,82.42,72911
+Strathcona County,2020,Strathcona County2020,2.26426,82.38,72206
+Strathcona County,2021,Strathcona County2021,2.35545,82.28,71127
+Strathcona County,2022,Strathcona County2022,2.33306,82.17,71041
+Sturgeon County,2016,Sturgeon County2016,1.94946,79.17,15819
+Sturgeon County,2017,Sturgeon County2017,2.26669,79.33,15616
+Sturgeon County,2018,Sturgeon County2018,2.59107,79.44,15432
+Sturgeon County,2019,Sturgeon County2019,2.29524,79.64,15039
+Sturgeon County,2020,Sturgeon County2020,2.04518,79.57,14756
+Sturgeon County,2021,Sturgeon County2021,2.27344,79.45,14528
+Sturgeon County,2022,Sturgeon County2022,2.29973,79.23,14378
+St. Albert,2016,St. Albert2016,2.13637,83.16,48518
+St. Albert,2017,St. Albert2017,2.39607,83.14,48565
+St. Albert,2018,St. Albert2018,2.72774,83.22,48490
+St. Albert,2019,St. Albert2019,2.44329,83.41,48213
+St. Albert,2020,St. Albert2020,2.33183,83.42,48048
+St. Albert,2021,St. Albert2021,2.57551,83.38,47725
+St. Albert,2022,St. Albert2022,2.4862,83.42,47444
+Canmore,2019,Canmore2019,2.06538,81.68,10650
+Canmore,2020,Canmore2020,2.37314,81.6,10698
+Canmore,2021,Canmore2021,2.80428,81.26,11474
+Grande Prairie County No. 1,2011,Grande Prairie County No. 12011,2.42475,81.15,16088
+Grande Prairie County No. 1,2012,Grande Prairie County No. 12012,2.3005,80.91,16564
+Grande Prairie County No. 1,2013,Grande Prairie County No. 12013,2.39802,80.76,16551
+Grande Prairie County No. 1,2014,Grande Prairie County No. 12014,2.33889,80.99,17012
+Grande Prairie County No. 1,2015,Grande Prairie County No. 12015,2.22043,80.85,17344
+Grande Prairie County No. 1,2016,Grande Prairie County No. 12016,2.09172,80.9,17469
+Grande Prairie County No. 1,2017,Grande Prairie County No. 12017,2.3839,81.01,17654
+Grande Prairie County No. 1,2018,Grande Prairie County No. 12018,2.46531,80.92,17626
+Grande Prairie County No. 1,2019,Grande Prairie County No. 12019,2.14207,80.88,17768
+Grande Prairie County No. 1,2020,Grande Prairie County No. 12020,1.99825,80.98,17669
+Grande Prairie County No. 1,2021,Grande Prairie County No. 12021,2.15263,80.62,17503
+Grande Prairie County No. 1,2022,Grande Prairie County No. 12022,2.22562,80.73,17859
+Cold Lake,2011,Cold Lake2011,1.98809,78.66,12424
+Cold Lake,2012,Cold Lake2012,2.08401,78.98,12687
+Cold Lake,2013,Cold Lake2013,2.2099,79.31,12809
+Cold Lake,2014,Cold Lake2014,2.00702,79.52,13079
+Cold Lake,2015,Cold Lake2015,2.02952,79.76,12908
+Cold Lake,2016,Cold Lake2016,1.84302,79.77,12920
+Cold Lake,2017,Cold Lake2017,1.88407,79.75,13048
+Cold Lake,2018,Cold Lake2018,2.03766,79.96,13009
+Cold Lake,2019,Cold Lake2019,1.81791,80.06,12988
+Cold Lake,2020,Cold Lake2020,1.85317,80.28,13012
+Cold Lake,2021,Cold Lake2021,2.09013,80.08,12885
+Cold Lake,2022,Cold Lake2022,2.04061,79.63,12829
+Bonnyville No. 87,2016,Bonnyville No. 872016,1.7422,79.11,9693
+Bonnyville No. 87,2017,Bonnyville No. 872017,2.1623,79.18,9716
+Bonnyville No. 87,2018,Bonnyville No. 872018,1.87872,79.31,9675
+Bonnyville No. 87,2019,Bonnyville No. 872019,2.04742,79.4,9580
+Bonnyville No. 87,2020,Bonnyville No. 872020,1.93693,79.66,9488
+Bonnyville No. 87,2021,Bonnyville No. 872021,2.05702,79.46,9294
+Bonnyville No. 87,2022,Bonnyville No. 872022,1.97188,79.23,9065
+St. Paul County No. 19,2011,St. Paul County No. 192011,2.00473,76.53,4150
+St. Paul County No. 19,2012,St. Paul County No. 192012,2.01573,76.46,4140
+St. Paul County No. 19,2013,St. Paul County No. 192013,2.28076,76.62,4189
+St. Paul County No. 19,2014,St. Paul County No. 192014,2.20704,76.22,4247
+St. Paul County No. 19,2015,St. Paul County No. 192015,2.12519,76.07,4193
+St. Paul County No. 19,2016,St. Paul County No. 192016,1.91129,76.14,4082
+St. Paul County No. 19,2017,St. Paul County No. 192017,1.95517,76.18,4119
+St. Paul County No. 19,2018,St. Paul County No. 192018,2.15398,76.24,4068
+St. Paul County No. 19,2019,St. Paul County No. 192019,2.08432,76.13,4035
+St. Paul County No. 19,2020,St. Paul County No. 192020,1.96188,76.13,3979
+St. Paul County No. 19,2021,St. Paul County No. 192021,2.13379,75.55,4054
+St. Paul County No. 19,2022,St. Paul County No. 192022,2.09194,75.33,3986
+Peace No. 135,2022,Peace No. 1352022,2.1128,77.84,1044
+Wood Buffalo,2011,Wood Buffalo2011,2.01029,81.1,62807
+Wood Buffalo,2012,Wood Buffalo2012,1.90835,81.68,65585
+Wood Buffalo,2013,Wood Buffalo2013,1.88526,81.7,68666
+Wood Buffalo,2014,Wood Buffalo2014,1.96434,81.91,70111
+Wood Buffalo,2015,Wood Buffalo2015,1.96218,82.36,68289
+Wood Buffalo,2016,Wood Buffalo2016,1.98952,82.57,64029
+Wood Buffalo,2017,Wood Buffalo2017,1.99402,82.71,62339
+Wood Buffalo,2018,Wood Buffalo2018,2.1081,83.08,62764
+Wood Buffalo,2019,Wood Buffalo2019,2.06923,83.27,63161
+Wood Buffalo,2020,Wood Buffalo2020,1.91905,82.63,63232
+Wood Buffalo,2021,Wood Buffalo2021,1.96973,82.32,62390
+Wood Buffalo,2022,Wood Buffalo2022,1.92585,82.09,61608
+Bruderheim,2011,Bruderheim2011,2.15788,76.86,939
+Bruderheim,2012,Bruderheim2012,2.08312,76.97,951
+Bruderheim,2013,Bruderheim2013,2.50353,77.15,988
+Bruderheim,2014,Bruderheim2014,2.2775,77.27,996
+Bruderheim,2015,Bruderheim2015,2.19839,77.46,1025
+Bruderheim,2016,Bruderheim2016,1.76119,77.56,1002
+Bruderheim,2017,Bruderheim2017,1.99173,77.8,992
+Bruderheim,2018,Bruderheim2018,2.43676,77.97,985
+Bruderheim,2019,Bruderheim2019,2.2965,78.17,942
+Bruderheim,2020,Bruderheim2020,2.30054,78.4,923
+Bruderheim,2021,Bruderheim2021,2.44526,78.13,969
+Bruderheim,2022,Bruderheim2022,2.42282,78.09,980
+Improvement District No. 13 Elk Island,2011,Improvement District No. 13 Elk Island2011,2.0254,,10
+Improvement District No. 13 Elk Island,2012,Improvement District No. 13 Elk Island2012,1.82976,,7
+Improvement District No. 13 Elk Island,2013,Improvement District No. 13 Elk Island2013,2.04608,,6
+Improvement District No. 13 Elk Island,2014,Improvement District No. 13 Elk Island2014,2.33431,,4
+Improvement District No. 13 Elk Island,2015,Improvement District No. 13 Elk Island2015,1.98537,,2
+Improvement District No. 13 Elk Island,2016,Improvement District No. 13 Elk Island2016,1.86185,,0
+Improvement District No. 13 Elk Island,2017,Improvement District No. 13 Elk Island2017,2.11249,,0
+Improvement District No. 13 Elk Island,2018,Improvement District No. 13 Elk Island2018,2.35041,,1
+Improvement District No. 13 Elk Island,2019,Improvement District No. 13 Elk Island2019,2.05603,,1
+Improvement District No. 13 Elk Island,2020,Improvement District No. 13 Elk Island2020,1.87712,,1
+Improvement District No. 13 Elk Island,2021,Improvement District No. 13 Elk Island2021,2.0062,,0
+Improvement District No. 13 Elk Island,2022,Improvement District No. 13 Elk Island2022,2.02113,,0
+Leduc County,2011,Leduc County2011,1.83527,81.86,10256
+Leduc County,2012,Leduc County2012,1.80207,82.04,10552
+Leduc County,2013,Leduc County2013,1.78677,82.09,10552
+Leduc County,2014,Leduc County2014,1.7022,82.03,10205
+Leduc County,2015,Leduc County2015,1.6457,82.08,10117
+Leduc County,2016,Leduc County2016,1.43779,82.31,9832
+Leduc County,2017,Leduc County2017,1.69285,82.4,9961
+Leduc County,2018,Leduc County2018,2.13562,82.48,9971
+Leduc County,2019,Leduc County2019,2.07923,82.6,9553
+Leduc County,2020,Leduc County2020,2.10832,82.55,9478
+Leduc County,2021,Leduc County2021,2.20099,82.55,9923
+Beaverlodge,2011,Beaverlodge2011,2.15788,79.59,1791
+Beaverlodge,2012,Beaverlodge2012,2.2209,79.91,1820
+Beaverlodge,2013,Beaverlodge2013,2.28351,79.88,1828
+Beaverlodge,2014,Beaverlodge2014,2.29177,80.06,1839
+Beaverlodge,2015,Beaverlodge2015,2.02767,79.92,1833
+Beaverlodge,2016,Beaverlodge2016,1.84395,79.66,1769
+Beaverlodge,2017,Beaverlodge2017,2.07755,79.91,1721
+Beaverlodge,2018,Beaverlodge2018,2.23132,79.92,1687
+Beaverlodge,2019,Beaverlodge2019,2.07676,80.16,1640
+Beaverlodge,2020,Beaverlodge2020,1.93311,80.1,1591
+Beaverlodge,2021,Beaverlodge2021,2.06923,79.55,1555
+Beaverlodge,2022,Beaverlodge2022,2.14188,79.55,1579
+Lamont County,2011,Lamont County2011,2.4421,76.86,2636
+Lamont County,2012,Lamont County2012,2.11309,76.97,2620
+Lamont County,2013,Lamont County2013,2.30644,77.15,2681
+Lamont County,2014,Lamont County2014,2.22331,77.27,2603
+Lamont County,2015,Lamont County2015,2.39835,77.46,2671
+Lamont County,2016,Lamont County2016,2.08328,77.56,2509
+Lamont County,2017,Lamont County2017,2.17021,77.8,2454
+Lamont County,2018,Lamont County2018,2.46103,77.97,2388
+Lamont County,2019,Lamont County2019,2.01701,78.17,2316
+Lamont County,2020,Lamont County2020,2.14517,78.4,2323
+Lamont County,2021,Lamont County2021,2.18325,78.13,2340
+Lamont County,2022,Lamont County2022,2.23621,78.09,2305
+Yellowhead County,2011,Yellowhead County2011,2.33337,78.99,7805
+Yellowhead County,2012,Yellowhead County2012,2.17638,79.18,8127
+Yellowhead County,2013,Yellowhead County2013,2.14528,79.16,8024
+Yellowhead County,2014,Yellowhead County2014,2.18073,79.13,7935
+Yellowhead County,2015,Yellowhead County2015,2.09958,79.01,7813
+Yellowhead County,2016,Yellowhead County2016,1.88063,79.07,7657
+Yellowhead County,2017,Yellowhead County2017,2.08025,79.22,7567
+Yellowhead County,2018,Yellowhead County2018,2.3344,79.55,7469
+Yellowhead County,2019,Yellowhead County2019,2.03625,79.82,7426
+Yellowhead County,2020,Yellowhead County2020,2.01085,79.7,7260
+Yellowhead County,2021,Yellowhead County2021,2.11912,79.25,6835
+Yellowhead County,2022,Yellowhead County2022,2.10516,79.07,6824
+Foothills County,2022,Foothills County2022,2.62938,83.2,15150
+Peace No. 135,2021,Peace No. 1352021,2.18622,77.92,1069
