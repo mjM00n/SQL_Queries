@@ -1,298 +1,298 @@
-Municipality,Year,Concat,Sum_firesize,Count_fires
-Athabasca County,2016,Kananaskis Improvement District 2016,10.1,2
-Big Lakes County,2017,Lac La Biche County 2017,12.4,1
-Brazeau County,2013,Mackenzie County 2013,14.7,3
-Census Division No. 9,2013,Municipal District of Lesser Slave River 2013,21,3
-Clear Hills County,2017,Municipal District of Pincher Creek No. 9 2017,21.9,5
-Clearwater County,2016,Mackenzie County 2016,23.8,3
-County of Grande Prairie,2016,Clear Hills County 2016,23.9,1
-County of Northern Lights,2012,Brazeau County 2012,25.11,1
-County of Wetaskiwin,2015,Municipal District of Greenview 2015,27.8,1
-Kananaskis Improvement District,2016,Municipal District of Greenview 2016,27.8,2
-Lac La Biche County,2014,Municipal District of Greenview 2014,43.4,1
-Mackenzie County,2012,Lac La Biche County 2012,48.5,0
-Mountain View County,2016,County of Grande Prairie 2016,66,2
-Municipal District of Bighorn,2016,County of Northern Lights 2016,66,2
-Municipal District of Bonnyville,2016,County of Wetaskiwin 2016,66,2
-Municipal District of Greenview,2015,Lac La Biche County 2015,66,3
-Municipal District of Lesser Slave River,2012,Municipal District of Greenview 2012,73.9,1
-Municipal District of Opportunity,2012,Wood Buffalo 2012,73.9,6
-Municipal District of Pincher Creek No. 9,2016,Brazeau County 2016,77.4,1
-Municipal District of Ranchland No. 66,2012,Saddle Hills County 2012,134.9,9
-Municipal District of Smoky River,2014,Ponoka County 2014,134.9,9
-Northern Sunrise County,2013,Municipal District of Greenview 2013,137.8,1
-Ponoka County,2012,Mackenzie County 2012,153,0
-Saddle Hills County,2014,Lac La Biche County 2014,157.8,1
-Wood Buffalo,2016,Municipal District of Lesser Slave River 2016,169.13,3
-Woodlands County,2014,Clearwater County 2014,223.2,2
-Yellowhead County,2014,Census Division No. 9 2014,244.2,1
-Athabasca County,2014,Clear Hills County 2014,244.2,1
-Big Lakes County,2015,Kananaskis Improvement District 2015,264.4,3
-Brazeau County,2012,Census Division No. 9 2012,357,1
-Census Division No. 9,2014,Mackenzie County 2014,705.8,1
-Clear Hills County,2015,Mackenzie County 2015,705.8,5
-Clearwater County,2017,Municipal District of Greenview 2017,755.6,1
-County of Grande Prairie,2015,Brazeau County 2015,759.2,1
-County of Northern Lights,2015,Census Division No. 9 2015,759.2,1
-County of Wetaskiwin,2012,Athabasca County 2012,1037.4,1
-Kananaskis Improvement District,2017,Mackenzie County 2017,1476.78,1
-Lac La Biche County,2012,County of Grande Prairie 2012,1610.5,2
-Mackenzie County,2013,County of Northern Lights 2013,1790.49,1
-Mountain View County,2012,County of Northern Lights 2012,2755.3,2
-Municipal District of Bighorn,2017,County of Grande Prairie 2017,2755.3,2
-Municipal District of Bonnyville,2017,County of Northern Lights 2017,2755.3,2
-Municipal District of Greenview,2013,Mountain View County 2013,2889.6,8
-Municipal District of Lesser Slave River,2013,Municipal District of Bighorn 2013,2889.6,8
-Municipal District of Opportunity,2016,Mountain View County 2016,2889.6,8
-Municipal District of Pincher Creek No. 9,2016,Municipal District of Bighorn 2016,2889.6,8
-Municipal District of Ranchland No. 66,2012,Municipal District of Bonnyville 2012,2889.6,23
-Municipal District of Smoky River,2012,County of Wetaskiwin 2012,5233.09,2
-Northern Sunrise County,2014,Kananaskis Improvement District 2014,5233.09,5
-Ponoka County,2013,Municipal District of Opportunity 2013,5817.4,3
-Saddle Hills County,2014,Municipal District of Opportunity 2014,5817.4,3
-Wood Buffalo,2015,Municipal District of Opportunity 2015,5817.4,3
-Woodlands County,2017,Municipal District of Opportunity 2017,5817.4,3
-Yellowhead County,2015,Municipal District of Pincher Creek No. 9 2015,6918.65,5
-Athabasca County,2013,County of Wetaskiwin 2013,8984.3,1
-Big Lakes County,2013,Kananaskis Improvement District 2013,8984.3,1
-Brazeau County,2013,Lac La Biche County 2013,8984.3,1
-Census Division No. 9,2016,Clearwater County 2016,8984.3,1
-Clear Hills County,2017,Kananaskis Improvement District 2017,8984.3,1
-Clearwater County,2016,Lac La Biche County 2016,11564.6,1
-County of Grande Prairie,2013,Clear Hills County 2013,13338.06,1
-County of Northern Lights,2017,Municipal District of Ranchland No. 66 2017,17250.6,5
-County of Wetaskiwin,2014,County of Northern Lights 2014,18189,0
-Kananaskis Improvement District,2015,County of Grande Prairie 2015,18189,0
-Lac La Biche County,2015,County of Northern Lights 2015,18189,0
-Mackenzie County,2012,Yellowhead County 2012,19754.98,3
-Mountain View County,2013,Yellowhead County 2013,19754.98,3
-Municipal District of Bighorn,2014,Yellowhead County 2014,19754.98,3
-Municipal District of Bonnyville,2015,Yellowhead County 2015,19754.98,3
-Municipal District of Greenview,2016,Yellowhead County 2016,19754.98,3
-Municipal District of Lesser Slave River,2017,Yellowhead County 2017,19754.98,3
-Municipal District of Opportunity,2016,Municipal District of Bonnyville 2016,22061.8,8
-Municipal District of Pincher Creek No. 9,2013,Municipal District of Bonnyville 2013,22061.8,27
-Municipal District of Ranchland No. 66,2014,Mountain View County 2014,22061.8,33
-Municipal District of Smoky River,2015,Clearwater County 2015,27031.45,0
-Northern Sunrise County,2014,County of Wetaskiwin 2014,32540.29,0
-Ponoka County,2015,County of Wetaskiwin 2015,32540.29,0
-Saddle Hills County,2013,Municipal District of Ranchland No. 66 2013,43940.8,1
-Wood Buffalo,2013,Municipal District of Smoky River 2013,43940.8,1
-Woodlands County,2012,Municipal District of Smoky River 2012,43940.8,4
-Yellowhead County,2012,Northern Sunrise County 2012,43940.8,4
-Athabasca County,2016,Municipal District of Pincher Creek No. 9 2016,43940.8,4
-Big Lakes County,2016,Municipal District of Ranchland No. 66 2016,43940.8,4
-Brazeau County,2012,Municipal District of Pincher Creek No. 9 2012,43940.8,5
-Census Division No. 9,2013,Municipal District of Pincher Creek No. 9 2013,43940.8,5
-Clear Hills County,2014,Municipal District of Pincher Creek No. 9 2014,43940.8,5
-Clearwater County,2014,Municipal District of Ranchland No. 66 2014,43940.8,5
-County of Grande Prairie,2014,Municipal District of Smoky River 2014,43940.8,5
-County of Northern Lights,2014,Northern Sunrise County 2014,43940.8,5
-County of Wetaskiwin,2016,Municipal District of Smoky River 2016,43940.8,5
-Kananaskis Improvement District,2016,Northern Sunrise County 2016,43940.8,5
-Lac La Biche County,2013,Northern Sunrise County 2013,43940.8,8
-Mackenzie County,2012,Municipal District of Ranchland No. 66 2012,43940.8,11
-Mountain View County,2012,Ponoka County 2012,51574.4,3
-Municipal District of Bighorn,2013,Ponoka County 2013,51574.4,3
-Municipal District of Bonnyville,2013,Saddle Hills County 2013,51574.4,3
-Municipal District of Greenview,2015,Saddle Hills County 2015,51574.4,3
-Municipal District of Lesser Slave River,2014,Saddle Hills County 2014,51574.4,9
-Municipal District of Opportunity,2015,Ponoka County 2015,51574.4,9
-Municipal District of Pincher Creek No. 9,2016,Ponoka County 2016,51574.4,9
-Municipal District of Ranchland No. 66,2016,Saddle Hills County 2016,51574.4,9
-Municipal District of Smoky River,2017,Ponoka County 2017,51574.4,9
-Northern Sunrise County,2017,Saddle Hills County 2017,51574.4,9
-Ponoka County,2017,County of Wetaskiwin 2017,55427.33,7
-Saddle Hills County,2017,Municipal District of Smoky River 2017,60193.44,5
-Wood Buffalo,2017,Northern Sunrise County 2017,60193.44,5
-Woodlands County,2017,Clear Hills County 2017,87618,3
-Yellowhead County,2015,Clear Hills County 2015,87618,0
-Athabasca County,2012,Municipal District of Lesser Slave River 2012,149898.15,11
-Big Lakes County,2014,Municipal District of Lesser Slave River 2014,149898.15,11
-Brazeau County,2015,Municipal District of Lesser Slave River 2015,149898.15,11
-Census Division No. 9,2017,Municipal District of Lesser Slave River 2017,149898.15,11
-Clear Hills County,2012,Municipal District of Opportunity 2012,224308.9,3
-Clearwater County,2012,Woodlands County 2012,371716.1,24
-County of Grande Prairie,2013,Woodlands County 2013,371716.1,24
-County of Northern Lights,2014,Woodlands County 2014,371716.1,24
-County of Wetaskiwin,2016,Woodlands County 2016,371716.1,24
-Kananaskis Improvement District,2017,Woodlands County 2017,371716.1,24
-Lac La Biche County,2015,Woodlands County 2015,371716.1,41
-Mackenzie County,2012,Mountain View County 2012,577721.79,23
-Mountain View County,2012,Municipal District of Bighorn 2012,577721.79,23
-Municipal District of Bighorn,2014,Municipal District of Bighorn 2014,577721.79,33
-Municipal District of Bonnyville,2014,Municipal District of Bonnyville 2014,577721.79,33
-Municipal District of Greenview,2015,Mountain View County 2015,577721.79,33
-Municipal District of Lesser Slave River,2015,Municipal District of Bighorn 2015,577721.79,33
-Municipal District of Opportunity,2015,Municipal District of Bonnyville 2015,577721.79,33
-Municipal District of Pincher Creek No. 9,2017,Mountain View County 2017,577721.79,33
-Municipal District of Ranchland No. 66,2017,Municipal District of Bighorn 2017,577721.79,33
-Municipal District of Smoky River,2017,Municipal District of Bonnyville 2017,577721.79,33
-Northern Sunrise County,2015,Municipal District of Ranchland No. 66 2015,1621.5900000000001,5
-Ponoka County,2015,Municipal District of Smoky River 2015,1621.5900000000001,5
-Saddle Hills County,2015,Northern Sunrise County 2015,1621.5900000000001,5
-Wood Buffalo,2013,County of Grande Prairie 2013,27.599999999999998,2
-Woodlands County,2016,Municipal District of Opportunity 2016,39.099999999999994,2
-Yellowhead County,2017,Clearwater County 2017,51.900000000000006,7
-Athabasca County,2015,Wood Buffalo 2015,57397.869999999995,3
-Big Lakes County,2013,Wood Buffalo 2013,57397.869999999995,6
-Brazeau County,2014,Wood Buffalo 2014,57397.869999999995,6
-Census Division No. 9,2016,Wood Buffalo 2016,57397.869999999995,6
-Clear Hills County,2017,Wood Buffalo 2017,57397.869999999995,6
-Clearwater County,2014,County of Grande Prairie 2014,0,1
-County of Grande Prairie,2015,Big Lakes County 2015,0,1
-County of Northern Lights,2012,Big Lakes County 2012,0,2
-County of Wetaskiwin,2013,Clearwater County 2013,0,2
-Kananaskis Improvement District,2013,Census Division No. 9 2013,0,3
-Lac La Biche County,2012,Clear Hills County 2012,0,4
-Mackenzie County,2012,Clearwater County 2012,0,0
-Mountain View County,2012,Kananaskis Improvement District 2012,0,0
-Municipal District of Bighorn,2013,Athabasca County 2013,0,0
-Municipal District of Bonnyville,2013,Big Lakes County 2013,0,0
-Municipal District of Greenview,2013,Brazeau County 2013,0,0
-Municipal District of Lesser Slave River,2014,Athabasca County 2014,0,0
-Municipal District of Opportunity,2014,Big Lakes County 2014,0,0
-Municipal District of Pincher Creek No. 9,2014,Brazeau County 2014,0,0
-Municipal District of Ranchland No. 66,2015,Athabasca County 2015,0,0
-Municipal District of Smoky River,2016,Athabasca County 2016,0,0
-Northern Sunrise County,2016,Big Lakes County 2016,0,0
-Ponoka County,2016,Census Division No. 9 2016,0,0
-Saddle Hills County,2017,Athabasca County 2017,0,0
-Wood Buffalo,2017,Big Lakes County 2017,0,0
-Woodlands County,2017,Brazeau County 2017,0,0
-Yellowhead County,2017,Census Division No. 9 2017,0,0
-Athabasca County,2018,Athabasca County 2018,0,0
-Big Lakes County,2018,Big Lakes County 2018,0,0
-Brazeau County,2018,Brazeau County 2018,0,0
-Census Division No. 9,2018,Census Division No. 9 2018,0,0
-Clear Hills County,2018,Clear Hills County 2018,0,0
-Clearwater County,2018,Clearwater County 2018,0,0
-County of Grande Prairie,2018,County of Grande Prairie 2018,0,0
-County of Northern Lights,2018,County of Northern Lights 2018,0,0
-County of Wetaskiwin,2018,County of Wetaskiwin 2018,0,0
-Kananaskis Improvement District,2018,Kananaskis Improvement District 2018,0,0
-Lac La Biche County,2018,Lac La Biche County 2018,0,0
-Mackenzie County,2018,Mackenzie County 2018,0,0
-Mountain View County,2018,Mountain View County 2018,0,0
-Municipal District of Bighorn,2018,Municipal District of Bighorn 2018,0,0
-Municipal District of Bonnyville,2018,Municipal District of Bonnyville 2018,0,0
-Municipal District of Greenview,2018,Municipal District of Greenview 2018,0,0
-Municipal District of Lesser Slave River,2018,Municipal District of Lesser Slave River 2018,0,0
-Municipal District of Opportunity,2018,Municipal District of Opportunity 2018,0,0
-Municipal District of Pincher Creek No. 9,2018,Municipal District of Pincher Creek No. 9 2018,0,0
-Municipal District of Ranchland No. 66,2018,Municipal District of Ranchland No. 66 2018,0,0
-Municipal District of Smoky River,2018,Municipal District of Smoky River 2018,0,0
-Northern Sunrise County,2018,Northern Sunrise County 2018,0,0
-Ponoka County,2018,Ponoka County 2018,0,0
-Saddle Hills County,2018,Saddle Hills County 2018,0,0
-Wood Buffalo,2018,Wood Buffalo 2018,0,0
-Woodlands County,2018,Woodlands County 2018,0,0
-Yellowhead County,2018,Yellowhead County 2018,0,0
-Athabasca County,2019,Athabasca County 2019,0,0
-Big Lakes County,2019,Big Lakes County 2019,0,0
-Brazeau County,2019,Brazeau County 2019,0,0
-Census Division No. 9,2019,Census Division No. 9 2019,0,0
-Clear Hills County,2019,Clear Hills County 2019,0,0
-Clearwater County,2019,Clearwater County 2019,0,0
-County of Grande Prairie,2019,County of Grande Prairie 2019,0,0
-County of Northern Lights,2019,County of Northern Lights 2019,0,0
-County of Wetaskiwin,2019,County of Wetaskiwin 2019,0,0
-Kananaskis Improvement District,2019,Kananaskis Improvement District 2019,0,0
-Lac La Biche County,2019,Lac La Biche County 2019,0,0
-Mackenzie County,2019,Mackenzie County 2019,0,0
-Mountain View County,2019,Mountain View County 2019,0,0
-Municipal District of Bighorn,2019,Municipal District of Bighorn 2019,0,0
-Municipal District of Bonnyville,2019,Municipal District of Bonnyville 2019,0,0
-Municipal District of Greenview,2019,Municipal District of Greenview 2019,0,0
-Municipal District of Lesser Slave River,2019,Municipal District of Lesser Slave River 2019,0,0
-Municipal District of Opportunity,2019,Municipal District of Opportunity 2019,0,0
-Municipal District of Pincher Creek No. 9,2019,Municipal District of Pincher Creek No. 9 2019,0,0
-Municipal District of Ranchland No. 66,2019,Municipal District of Ranchland No. 66 2019,0,0
-Municipal District of Smoky River,2019,Municipal District of Smoky River 2019,0,0
-Northern Sunrise County,2019,Northern Sunrise County 2019,0,0
-Ponoka County,2019,Ponoka County 2019,0,0
-Saddle Hills County,2019,Saddle Hills County 2019,0,0
-Wood Buffalo,2019,Wood Buffalo 2019,0,0
-Woodlands County,2019,Woodlands County 2019,0,0
-Yellowhead County,2019,Yellowhead County 2019,0,0
-Athabasca County,2020,Athabasca County 2020,0,0
-Big Lakes County,2020,Big Lakes County 2020,0,0
-Brazeau County,2020,Brazeau County 2020,0,0
-Census Division No. 9,2020,Census Division No. 9 2020,0,0
-Clear Hills County,2020,Clear Hills County 2020,0,0
-Clearwater County,2020,Clearwater County 2020,0,0
-County of Grande Prairie,2020,County of Grande Prairie 2020,0,0
-County of Northern Lights,2020,County of Northern Lights 2020,0,0
-County of Wetaskiwin,2020,County of Wetaskiwin 2020,0,0
-Kananaskis Improvement District,2020,Kananaskis Improvement District 2020,0,0
-Lac La Biche County,2020,Lac La Biche County 2020,0,0
-Mackenzie County,2020,Mackenzie County 2020,0,0
-Mountain View County,2020,Mountain View County 2020,0,0
-Municipal District of Bighorn,2020,Municipal District of Bighorn 2020,0,0
-Municipal District of Bonnyville,2020,Municipal District of Bonnyville 2020,0,0
-Municipal District of Greenview,2020,Municipal District of Greenview 2020,0,0
-Municipal District of Lesser Slave River,2020,Municipal District of Lesser Slave River 2020,0,0
-Municipal District of Opportunity,2020,Municipal District of Opportunity 2020,0,0
-Municipal District of Pincher Creek No. 9,2020,Municipal District of Pincher Creek No. 9 2020,0,0
-Municipal District of Ranchland No. 66,2020,Municipal District of Ranchland No. 66 2020,0,0
-Municipal District of Smoky River,2020,Municipal District of Smoky River 2020,0,0
-Northern Sunrise County,2020,Northern Sunrise County 2020,0,0
-Ponoka County,2020,Ponoka County 2020,0,0
-Saddle Hills County,2020,Saddle Hills County 2020,0,0
-Wood Buffalo,2020,Wood Buffalo 2020,0,0
-Woodlands County,2020,Woodlands County 2020,0,0
-Yellowhead County,2020,Yellowhead County 2020,0,0
-Athabasca County,2021,Athabasca County 2021,0,0
-Big Lakes County,2021,Big Lakes County 2021,0,0
-Brazeau County,2021,Brazeau County 2021,0,0
-Census Division No. 9,2021,Census Division No. 9 2021,0,0
-Clear Hills County,2021,Clear Hills County 2021,0,0
-Clearwater County,2021,Clearwater County 2021,0,0
-County of Grande Prairie,2021,County of Grande Prairie 2021,0,0
-County of Northern Lights,2021,County of Northern Lights 2021,0,0
-County of Wetaskiwin,2021,County of Wetaskiwin 2021,0,0
-Kananaskis Improvement District,2021,Kananaskis Improvement District 2021,0,0
-Lac La Biche County,2021,Lac La Biche County 2021,0,0
-Mackenzie County,2021,Mackenzie County 2021,0,0
-Mountain View County,2021,Mountain View County 2021,0,0
-Municipal District of Bighorn,2021,Municipal District of Bighorn 2021,0,0
-Municipal District of Bonnyville,2021,Municipal District of Bonnyville 2021,0,0
-Municipal District of Greenview,2021,Municipal District of Greenview 2021,0,0
-Municipal District of Lesser Slave River,2021,Municipal District of Lesser Slave River 2021,0,0
-Municipal District of Opportunity,2021,Municipal District of Opportunity 2021,0,0
-Municipal District of Pincher Creek No. 9,2021,Municipal District of Pincher Creek No. 9 2021,0,0
-Municipal District of Ranchland No. 66,2021,Municipal District of Ranchland No. 66 2021,0,0
-Municipal District of Smoky River,2021,Municipal District of Smoky River 2021,0,0
-Northern Sunrise County,2021,Northern Sunrise County 2021,0,0
-Ponoka County,2021,Ponoka County 2021,0,0
-Saddle Hills County,2021,Saddle Hills County 2021,0,0
-Wood Buffalo,2021,Wood Buffalo 2021,0,0
-Woodlands County,2021,Woodlands County 2021,0,0
-Yellowhead County,2021,Yellowhead County 2021,0,0
-Athabasca County,2022,Athabasca County 2022,0,0
-Big Lakes County,2022,Big Lakes County 2022,0,0
-Brazeau County,2022,Brazeau County 2022,0,0
-Census Division No. 9,2022,Census Division No. 9 2022,0,0
-Clear Hills County,2022,Clear Hills County 2022,0,0
-Clearwater County,2022,Clearwater County 2022,0,0
-County of Grande Prairie,2022,County of Grande Prairie 2022,0,0
-County of Northern Lights,2022,County of Northern Lights 2022,0,0
-County of Wetaskiwin,2022,County of Wetaskiwin 2022,0,0
-Kananaskis Improvement District,2022,Kananaskis Improvement District 2022,0,0
-Lac La Biche County,2022,Lac La Biche County 2022,0,0
-Mackenzie County,2022,Mackenzie County 2022,0,0
-Mountain View County,2022,Mountain View County 2022,0,0
-Municipal District of Bighorn,2022,Municipal District of Bighorn 2022,0,0
-Municipal District of Bonnyville,2022,Municipal District of Bonnyville 2022,0,0
-Municipal District of Greenview,2022,Municipal District of Greenview 2022,0,0
-Municipal District of Lesser Slave River,2022,Municipal District of Lesser Slave River 2022,0,0
-Municipal District of Opportunity,2022,Municipal District of Opportunity 2022,0,0
-Municipal District of Pincher Creek No. 9,2022,Municipal District of Pincher Creek No. 9 2022,0,0
-Municipal District of Ranchland No. 66,2022,Municipal District of Ranchland No. 66 2022,0,0
-Municipal District of Smoky River,2022,Municipal District of Smoky River 2022,0,0
-Northern Sunrise County,2022,Northern Sunrise County 2022,0,0
-Ponoka County,2022,Ponoka County 2022,0,0
-Saddle Hills County,2022,Saddle Hills County 2022,0,0
-Wood Buffalo,2022,Wood Buffalo 2022,0,0
-Woodlands County,2022,Woodlands County 2022,0,0
-Yellowhead County,2022,Yellowhead County 2022,0,0
+Municipality,Year,Sum_firesize,Count_fires
+Athabasca County,2016,10.1,2
+Big Lakes County,2017,12.4,1
+Brazeau County,2013,14.7,3
+Census Division No. 9,2013,21,3
+Clear Hills County,2017,21.9,5
+Clearwater County,2016,23.8,3
+County of Grande Prairie,2016,23.9,1
+County of Northern Lights,2012,25.11,1
+County of Wetaskiwin,2015,27.8,1
+Kananaskis Improvement District,2016,27.8,2
+Lac La Biche County,2014,43.4,1
+Mackenzie County,2012,48.5,0
+Mountain View County,2016,66,2
+Municipal District of Bighorn,2016,66,2
+Municipal District of Bonnyville,2016,66,2
+Municipal District of Greenview,2015,66,3
+Municipal District of Lesser Slave River,2012,73.9,1
+Municipal District of Opportunity,2012,73.9,6
+Municipal District of Pincher Creek No. 9,2016,77.4,1
+Municipal District of Ranchland No. 66,2012,134.9,9
+Municipal District of Smoky River,2014,134.9,9
+Northern Sunrise County,2013,137.8,1
+Ponoka County,2012,153,0
+Saddle Hills County,2014,157.8,1
+Wood Buffalo,2016,169.13,3
+Woodlands County,2014,223.2,2
+Yellowhead County,2014,244.2,1
+Athabasca County,2014,244.2,1
+Big Lakes County,2015,264.4,3
+Brazeau County,2012,357,1
+Census Division No. 9,2014,705.8,1
+Clear Hills County,2015,705.8,5
+Clearwater County,2017,755.6,1
+County of Grande Prairie,2015,759.2,1
+County of Northern Lights,2015,759.2,1
+County of Wetaskiwin,2012,1037.4,1
+Kananaskis Improvement District,2017,1476.78,1
+Lac La Biche County,2012,1610.5,2
+Mackenzie County,2013,1790.49,1
+Mountain View County,2012,2755.3,2
+Municipal District of Bighorn,2017,2755.3,2
+Municipal District of Bonnyville,2017,2755.3,2
+Municipal District of Greenview,2013,2889.6,8
+Municipal District of Lesser Slave River,2013,2889.6,8
+Municipal District of Opportunity,2016,2889.6,8
+Municipal District of Pincher Creek No. 9,2016,2889.6,8
+Municipal District of Ranchland No. 66,2012,2889.6,23
+Municipal District of Smoky River,2012,5233.09,2
+Northern Sunrise County,2014,5233.09,5
+Ponoka County,2013,5817.4,3
+Saddle Hills County,2014,5817.4,3
+Wood Buffalo,2015,5817.4,3
+Woodlands County,2017,5817.4,3
+Yellowhead County,2015,6918.65,5
+Athabasca County,2013,8984.3,1
+Big Lakes County,2013,8984.3,1
+Brazeau County,2013,8984.3,1
+Census Division No. 9,2016,8984.3,1
+Clear Hills County,2017,8984.3,1
+Clearwater County,2016,11564.6,1
+County of Grande Prairie,2013,13338.06,1
+County of Northern Lights,2017,17250.6,5
+County of Wetaskiwin,2014,18189,0
+Kananaskis Improvement District,2015,18189,0
+Lac La Biche County,2015,18189,0
+Mackenzie County,2012,19754.98,3
+Mountain View County,2013,19754.98,3
+Municipal District of Bighorn,2014,19754.98,3
+Municipal District of Bonnyville,2015,19754.98,3
+Municipal District of Greenview,2016,19754.98,3
+Municipal District of Lesser Slave River,2017,19754.98,3
+Municipal District of Opportunity,2016,22061.8,8
+Municipal District of Pincher Creek No. 9,2013,22061.8,27
+Municipal District of Ranchland No. 66,2014,22061.8,33
+Municipal District of Smoky River,2015,27031.45,0
+Northern Sunrise County,2014,32540.29,0
+Ponoka County,2015,32540.29,0
+Saddle Hills County,2013,43940.8,1
+Wood Buffalo,2013,43940.8,1
+Woodlands County,2012,43940.8,4
+Yellowhead County,2012,43940.8,4
+Athabasca County,2016,43940.8,4
+Big Lakes County,2016,43940.8,4
+Brazeau County,2012,43940.8,5
+Census Division No. 9,2013,43940.8,5
+Clear Hills County,2014,43940.8,5
+Clearwater County,2014,43940.8,5
+County of Grande Prairie,2014,43940.8,5
+County of Northern Lights,2014,43940.8,5
+County of Wetaskiwin,2016,43940.8,5
+Kananaskis Improvement District,2016,43940.8,5
+Lac La Biche County,2013,43940.8,8
+Mackenzie County,2012,43940.8,11
+Mountain View County,2012,51574.4,3
+Municipal District of Bighorn,2013,51574.4,3
+Municipal District of Bonnyville,2013,51574.4,3
+Municipal District of Greenview,2015,51574.4,3
+Municipal District of Lesser Slave River,2014,51574.4,9
+Municipal District of Opportunity,2015,51574.4,9
+Municipal District of Pincher Creek No. 9,2016,51574.4,9
+Municipal District of Ranchland No. 66,2016,51574.4,9
+Municipal District of Smoky River,2017,51574.4,9
+Northern Sunrise County,2017,51574.4,9
+Ponoka County,2017,55427.33,7
+Saddle Hills County,2017,60193.44,5
+Wood Buffalo,2017,60193.44,5
+Woodlands County,2017,87618,3
+Yellowhead County,2015,87618,0
+Athabasca County,2012,149898.15,11
+Big Lakes County,2014,149898.15,11
+Brazeau County,2015,149898.15,11
+Census Division No. 9,2017,149898.15,11
+Clear Hills County,2012,224308.9,3
+Clearwater County,2012,371716.1,24
+County of Grande Prairie,2013,371716.1,24
+County of Northern Lights,2014,371716.1,24
+County of Wetaskiwin,2016,371716.1,24
+Kananaskis Improvement District,2017,371716.1,24
+Lac La Biche County,2015,371716.1,41
+Mackenzie County,2012,577721.79,23
+Mountain View County,2012,577721.79,23
+Municipal District of Bighorn,2014,577721.79,33
+Municipal District of Bonnyville,2014,577721.79,33
+Municipal District of Greenview,2015,577721.79,33
+Municipal District of Lesser Slave River,2015,577721.79,33
+Municipal District of Opportunity,2015,577721.79,33
+Municipal District of Pincher Creek No. 9,2017,577721.79,33
+Municipal District of Ranchland No. 66,2017,577721.79,33
+Municipal District of Smoky River,2017,577721.79,33
+Northern Sunrise County,2015,1621.5900000000001,5
+Ponoka County,2015,1621.5900000000001,5
+Saddle Hills County,2015,1621.5900000000001,5
+Wood Buffalo,2013,27.599999999999998,2
+Woodlands County,2016,39.099999999999994,2
+Yellowhead County,2017,51.900000000000006,7
+Athabasca County,2015,57397.869999999995,3
+Big Lakes County,2013,57397.869999999995,6
+Brazeau County,2014,57397.869999999995,6
+Census Division No. 9,2016,57397.869999999995,6
+Clear Hills County,2017,57397.869999999995,6
+Clearwater County,2014,0,1
+County of Grande Prairie,2015,0,1
+County of Northern Lights,2012,0,2
+County of Wetaskiwin,2013,0,2
+Kananaskis Improvement District,2013,0,3
+Lac La Biche County,2012,0,4
+Mackenzie County,2012,0,0
+Mountain View County,2012,0,0
+Municipal District of Bighorn,2013,0,0
+Municipal District of Bonnyville,2013,0,0
+Municipal District of Greenview,2013,0,0
+Municipal District of Lesser Slave River,2014,0,0
+Municipal District of Opportunity,2014,0,0
+Municipal District of Pincher Creek No. 9,2014,0,0
+Municipal District of Ranchland No. 66,2015,0,0
+Municipal District of Smoky River,2016,0,0
+Northern Sunrise County,2016,0,0
+Ponoka County,2016,0,0
+Saddle Hills County,2017,0,0
+Wood Buffalo,2017,0,0
+Woodlands County,2017,0,0
+Yellowhead County,2017,0,0
+Athabasca County,2018,0,0
+Big Lakes County,2018,0,0
+Brazeau County,2018,0,0
+Census Division No. 9,2018,0,0
+Clear Hills County,2018,0,0
+Clearwater County,2018,0,0
+County of Grande Prairie,2018,0,0
+County of Northern Lights,2018,0,0
+County of Wetaskiwin,2018,0,0
+Kananaskis Improvement District,2018,0,0
+Lac La Biche County,2018,0,0
+Mackenzie County,2018,0,0
+Mountain View County,2018,0,0
+Municipal District of Bighorn,2018,0,0
+Municipal District of Bonnyville,2018,0,0
+Municipal District of Greenview,2018,0,0
+Municipal District of Lesser Slave River,2018,0,0
+Municipal District of Opportunity,2018,0,0
+Municipal District of Pincher Creek No. 9,2018,0,0
+Municipal District of Ranchland No. 66,2018,0,0
+Municipal District of Smoky River,2018,0,0
+Northern Sunrise County,2018,0,0
+Ponoka County,2018,0,0
+Saddle Hills County,2018,0,0
+Wood Buffalo,2018,0,0
+Woodlands County,2018,0,0
+Yellowhead County,2018,0,0
+Athabasca County,2019,0,0
+Big Lakes County,2019,0,0
+Brazeau County,2019,0,0
+Census Division No. 9,2019,0,0
+Clear Hills County,2019,0,0
+Clearwater County,2019,0,0
+County of Grande Prairie,2019,0,0
+County of Northern Lights,2019,0,0
+County of Wetaskiwin,2019,0,0
+Kananaskis Improvement District,2019,0,0
+Lac La Biche County,2019,0,0
+Mackenzie County,2019,0,0
+Mountain View County,2019,0,0
+Municipal District of Bighorn,2019,0,0
+Municipal District of Bonnyville,2019,0,0
+Municipal District of Greenview,2019,0,0
+Municipal District of Lesser Slave River,2019,0,0
+Municipal District of Opportunity,2019,0,0
+Municipal District of Pincher Creek No. 9,2019,0,0
+Municipal District of Ranchland No. 66,2019,0,0
+Municipal District of Smoky River,2019,0,0
+Northern Sunrise County,2019,0,0
+Ponoka County,2019,0,0
+Saddle Hills County,2019,0,0
+Wood Buffalo,2019,0,0
+Woodlands County,2019,0,0
+Yellowhead County,2019,0,0
+Athabasca County,2020,0,0
+Big Lakes County,2020,0,0
+Brazeau County,2020,0,0
+Census Division No. 9,2020,0,0
+Clear Hills County,2020,0,0
+Clearwater County,2020,0,0
+County of Grande Prairie,2020,0,0
+County of Northern Lights,2020,0,0
+County of Wetaskiwin,2020,0,0
+Kananaskis Improvement District,2020,0,0
+Lac La Biche County,2020,0,0
+Mackenzie County,2020,0,0
+Mountain View County,2020,0,0
+Municipal District of Bighorn,2020,0,0
+Municipal District of Bonnyville,2020,0,0
+Municipal District of Greenview,2020,0,0
+Municipal District of Lesser Slave River,2020,0,0
+Municipal District of Opportunity,2020,0,0
+Municipal District of Pincher Creek No. 9,2020,0,0
+Municipal District of Ranchland No. 66,2020,0,0
+Municipal District of Smoky River,2020,0,0
+Northern Sunrise County,2020,0,0
+Ponoka County,2020,0,0
+Saddle Hills County,2020,0,0
+Wood Buffalo,2020,0,0
+Woodlands County,2020,0,0
+Yellowhead County,2020,0,0
+Athabasca County,2021,0,0
+Big Lakes County,2021,0,0
+Brazeau County,2021,0,0
+Census Division No. 9,2021,0,0
+Clear Hills County,2021,0,0
+Clearwater County,2021,0,0
+County of Grande Prairie,2021,0,0
+County of Northern Lights,2021,0,0
+County of Wetaskiwin,2021,0,0
+Kananaskis Improvement District,2021,0,0
+Lac La Biche County,2021,0,0
+Mackenzie County,2021,0,0
+Mountain View County,2021,0,0
+Municipal District of Bighorn,2021,0,0
+Municipal District of Bonnyville,2021,0,0
+Municipal District of Greenview,2021,0,0
+Municipal District of Lesser Slave River,2021,0,0
+Municipal District of Opportunity,2021,0,0
+Municipal District of Pincher Creek No. 9,2021,0,0
+Municipal District of Ranchland No. 66,2021,0,0
+Municipal District of Smoky River,2021,0,0
+Northern Sunrise County,2021,0,0
+Ponoka County,2021,0,0
+Saddle Hills County,2021,0,0
+Wood Buffalo,2021,0,0
+Woodlands County,2021,0,0
+Yellowhead County,2021,0,0
+Athabasca County,2022,0,0
+Big Lakes County,2022,0,0
+Brazeau County,2022,0,0
+Census Division No. 9,2022,0,0
+Clear Hills County,2022,0,0
+Clearwater County,2022,0,0
+County of Grande Prairie,2022,0,0
+County of Northern Lights,2022,0,0
+County of Wetaskiwin,2022,0,0
+Kananaskis Improvement District,2022,0,0
+Lac La Biche County,2022,0,0
+Mackenzie County,2022,0,0
+Mountain View County,2022,0,0
+Municipal District of Bighorn,2022,0,0
+Municipal District of Bonnyville,2022,0,0
+Municipal District of Greenview,2022,0,0
+Municipal District of Lesser Slave River,2022,0,0
+Municipal District of Opportunity,2022,0,0
+Municipal District of Pincher Creek No. 9,2022,0,0
+Municipal District of Ranchland No. 66,2022,0,0
+Municipal District of Smoky River,2022,0,0
+Northern Sunrise County,2022,0,0
+Ponoka County,2022,0,0
+Saddle Hills County,2022,0,0
+Wood Buffalo,2022,0,0
+Woodlands County,2022,0,0
+Yellowhead County,2022,0,0
