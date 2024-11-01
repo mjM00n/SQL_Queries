@@ -1,0 +1,7672 @@
+CSD,Period,Total_Dwelling_Count
+Sedgewick,1994,364.0
+Sedgewick,1995,378.0
+Sedgewick,1996,380.0
+Sedgewick,1997,384.0
+Sedgewick,1998,388.0
+Sedgewick,1999,388.0
+Sedgewick,2000,388.0
+Sedgewick,2001,388.0
+Sedgewick,2002,387.0
+Sedgewick,2003,389.0
+Sedgewick,2004,393.0
+Sedgewick,2005,393.0
+Sedgewick,2006,396.0
+Sedgewick,2007,401.0
+Sedgewick,2008,403.0
+Sedgewick,2009,407.0
+Sedgewick,2010,406.0
+Sedgewick,2011,402.0
+Sedgewick,2012,396.0
+Sedgewick,2013,396.0
+Sedgewick,2014,398.0
+Sedgewick,2015,398.0
+Sedgewick,2016,397.0
+Sedgewick,2017,397.0
+Sedgewick,2018,397.0
+Sedgewick,2019,397.0
+Sedgewick,2020,397.0
+Sedgewick,2021,397.0
+Sedgewick,2022,397.0
+Sedgewick,2023,398.0
+Lougheed,2023,131.0
+Lougheed,1994,105.0
+Lougheed,1995,105.0
+Lougheed,1996,105.0
+Lougheed,1997,100.0
+Lougheed,1998,100.0
+Lougheed,1999,100.0
+Lougheed,2000,100.0
+Lougheed,2001,117.0
+Lougheed,2002,117.0
+Lougheed,2003,96.0
+Lougheed,2004,96.0
+Lougheed,2005,100.0
+Lougheed,2006,100.0
+Lougheed,2007,103.0
+Lougheed,2008,106.0
+Lougheed,2009,124.0
+Lougheed,2010,124.0
+Lougheed,2011,125.0
+Lougheed,2012,125.0
+Lougheed,2013,125.0
+Lougheed,2014,127.0
+Lougheed,2015,129.0
+Lougheed,2016,129.0
+Lougheed,2017,129.0
+Lougheed,2018,129.0
+Lougheed,2019,129.0
+Lougheed,2020,129.0
+Lougheed,2021,129.0
+Lougheed,2022,131.0
+Red Deer,1994,23396.0
+Red Deer,1995,24056.0
+Red Deer,1996,24056.0
+Red Deer,1997,24056.0
+Red Deer,1998,24056.0
+Red Deer,1999,25618.0
+Red Deer,2000,27338.0
+Red Deer,2001,25618.0
+Red Deer,2002,29861.0
+Red Deer,2003,30559.0
+Red Deer,2004,33399.0
+Red Deer,2005,34038.0
+Red Deer,2006,34342.0
+Red Deer,2007,36138.0
+Red Deer,2008,36776.0
+Red Deer,2009,37703.0
+Red Deer,2010,38685.0
+Red Deer,2011,39227.0
+Red Deer,2012,39227.0
+Red Deer,2013,40893.0
+Red Deer,2014,41308.0
+Red Deer,2015,42034.0
+Red Deer,2016,42664.0
+Red Deer,2017,42664.0
+Red Deer,2018,42664.0
+Red Deer,2019,42664.0
+Red Deer,2020,42780.0
+Red Deer,2021,42780.0
+Red Deer,2022,42780.0
+Red Deer,2023,46151.0
+Strathmore,2023,6164.0
+Strathmore,1994,1819.0
+Strathmore,1995,1880.0
+Strathmore,1996,1948.0
+Strathmore,1997,1815.0
+Strathmore,1998,1987.0
+Strathmore,1999,2537.0
+Strathmore,2000,2851.0
+Strathmore,2001,2775.0
+Strathmore,2002,3048.0
+Strathmore,2003,3146.0
+Strathmore,2004,3494.0
+Strathmore,2005,3858.0
+Strathmore,2006,4001.0
+Strathmore,2007,4409.0
+Strathmore,2008,4739.0
+Strathmore,2009,4912.0
+Strathmore,2010,5060.0
+Strathmore,2011,5060.0
+Strathmore,2012,5399.0
+Strathmore,2013,5399.0
+Strathmore,2014,5399.0
+Strathmore,2015,5931.0
+Strathmore,2016,5931.0
+Strathmore,2017,5931.0
+Strathmore,2018,5989.0
+Strathmore,2019,5989.0
+Strathmore,2020,5989.0
+Strathmore,2021,5989.0
+Strathmore,2022,5998.0
+Hussar,1994,71.0
+Hussar,1995,71.0
+Hussar,1996,78.0
+Hussar,1997,68.0
+Hussar,1998,73.0
+Hussar,1999,82.0
+Hussar,2000,83.0
+Hussar,2001,83.0
+Hussar,2002,83.0
+Hussar,2003,83.0
+Hussar,2004,83.0
+Hussar,2005,83.0
+Hussar,2006,83.0
+Hussar,2007,84.0
+Hussar,2008,84.0
+Hussar,2009,84.0
+Hussar,2010,85.0
+Hussar,2011,85.0
+Hussar,2012,89.0
+Hussar,2013,89.0
+Hussar,2014,87.0
+Hussar,2015,87.0
+Hussar,2016,87.0
+Hussar,2017,87.0
+Hussar,2018,87.0
+Hussar,2019,86.0
+Hussar,2020,86.0
+Hussar,2021,85.0
+Hussar,2022,85.0
+Hussar,2023,85.0
+Standard,2023,159.0
+Standard,1994,137.0
+Standard,1995,137.0
+Standard,1996,145.0
+Standard,1997,146.0
+Standard,1998,149.0
+Standard,1999,149.0
+Standard,2000,151.0
+Standard,2001,157.0
+Standard,2002,158.0
+Standard,2003,158.0
+Standard,2004,158.0
+Standard,2005,158.0
+Standard,2006,158.0
+Standard,2007,158.0
+Standard,2008,158.0
+Standard,2009,158.0
+Standard,2010,158.0
+Standard,2011,158.0
+Standard,2012,158.0
+Standard,2013,158.0
+Standard,2014,158.0
+Standard,2015,159.0
+Standard,2016,159.0
+Standard,2017,159.0
+Standard,2018,159.0
+Standard,2019,159.0
+Standard,2020,159.0
+Standard,2021,159.0
+Standard,2022,159.0
+Rockyford,1994,132.0
+Rockyford,1995,132.0
+Rockyford,1996,132.0
+Rockyford,1997,191.0
+Rockyford,1998,191.0
+Rockyford,1999,191.0
+Rockyford,2000,191.0
+Rockyford,2001,191.0
+Rockyford,2002,191.0
+Rockyford,2003,191.0
+Rockyford,2004,191.0
+Rockyford,2005,191.0
+Rockyford,2006,191.0
+Rockyford,2007,191.0
+Rockyford,2008,191.0
+Rockyford,2009,191.0
+Rockyford,2010,191.0
+Rockyford,2011,191.0
+Rockyford,2012,191.0
+Rockyford,2013,191.0
+Rockyford,2014,191.0
+Rockyford,2015,191.0
+Rockyford,2016,191.0
+Rockyford,2017,191.0
+Rockyford,2018,191.0
+Rockyford,2019,191.0
+Rockyford,2020,191.0
+Rockyford,2021,191.0
+Rockyford,2022,191.0
+Rockyford,2023,191.0
+Drumheller,2023,3487.0
+Drumheller,1994,2859.0
+Drumheller,1995,2859.0
+Drumheller,1996,2920.0
+Drumheller,1997,2636.0
+Drumheller,1998,2636.0
+Drumheller,1999,2600.0
+Drumheller,2000,2627.0
+Drumheller,2001,3224.0
+Drumheller,2002,3248.0
+Drumheller,2003,3202.0
+Drumheller,2004,3073.0
+Drumheller,2005,3073.0
+Drumheller,2006,3099.0
+Drumheller,2007,3172.0
+Drumheller,2008,3197.0
+Drumheller,2009,3197.0
+Drumheller,2010,3124.0
+Drumheller,2011,3124.0
+Drumheller,2012,3124.0
+Drumheller,2013,3197.0
+Drumheller,2014,3198.0
+Drumheller,2015,3199.0
+Drumheller,2016,3391.0
+Drumheller,2017,3397.0
+Drumheller,2018,3498.0
+Drumheller,2019,3500.0
+Drumheller,2020,3487.0
+Drumheller,2021,3487.0
+Drumheller,2022,3487.0
+Starland County,1994,611.0
+Starland County,1995,611.0
+Starland County,1996,620.0
+Starland County,1997,620.0
+Starland County,1998,620.0
+Starland County,1999,620.0
+Starland County,2000,620.0
+Starland County,2001,620.0
+Starland County,2002,660.0
+Starland County,2003,660.0
+Starland County,2004,660.0
+Starland County,2005,660.0
+Starland County,2006,692.0
+Starland County,2007,692.0
+Starland County,2008,692.0
+Starland County,2009,748.0
+Starland County,2010,748.0
+Starland County,2011,664.0
+Starland County,2012,746.0
+Starland County,2013,746.0
+Starland County,2014,746.0
+Starland County,2015,746.0
+Starland County,2016,746.0
+Starland County,2017,693.0
+Starland County,2018,693.0
+Starland County,2019,693.0
+Starland County,2020,693.0
+Starland County,2021,679.0
+Starland County,2022,679.0
+Starland County,2023,679.0
+Delia,1994,104.0
+Delia,1995,104.0
+Delia,1996,97.0
+Delia,1997,109.0
+Delia,1998,109.0
+Delia,1999,109.0
+Delia,2000,109.0
+Delia,2001,109.0
+Delia,2002,109.0
+Delia,2003,109.0
+Delia,2004,109.0
+Delia,2005,111.0
+Delia,2006,111.0
+Delia,2007,112.0
+Delia,2008,135.0
+Delia,2009,135.0
+Delia,2010,135.0
+Delia,2011,135.0
+Delia,2012,135.0
+Delia,2013,135.0
+Delia,2014,136.0
+Delia,2015,136.0
+Delia,2016,119.0
+Delia,2017,119.0
+Delia,2018,113.0
+Delia,2019,113.0
+Delia,2020,113.0
+Delia,2021,113.0
+Munson,1994,56.0
+Munson,1995,56.0
+Munson,1996,67.0
+Munson,1997,71.0
+Munson,1998,74.0
+Munson,1999,74.0
+Munson,2000,74.0
+Munson,2001,74.0
+Munson,2002,75.0
+Munson,2003,75.0
+Munson,2004,77.0
+Munson,2005,80.0
+Munson,2006,83.0
+Munson,2007,85.0
+Munson,2008,87.0
+Munson,2009,89.0
+Munson,2010,89.0
+Munson,2011,89.0
+Munson,2012,89.0
+Munson,2013,89.0
+Munson,2014,89.0
+Munson,2015,89.0
+Munson,2016,89.0
+Munson,2017,89.0
+Munson,2018,89.0
+Munson,2019,89.0
+Munson,2020,89.0
+Munson,2021,89.0
+Munson,2022,89.0
+Morrin,1994,109.0
+Morrin,1995,109.0
+Morrin,1996,106.0
+Morrin,1997,108.0
+Morrin,1998,108.0
+Morrin,1999,110.0
+Morrin,2000,110.0
+Morrin,2001,112.0
+Morrin,2002,114.0
+Morrin,2003,115.0
+Morrin,2004,115.0
+Morrin,2005,116.0
+Morrin,2006,123.0
+Morrin,2007,127.0
+Morrin,2008,127.0
+Morrin,2009,130.0
+Morrin,2010,132.0
+Morrin,2011,133.0
+Morrin,2012,133.0
+Morrin,2013,137.0
+Morrin,2014,137.0
+Morrin,2015,137.0
+Morrin,2016,137.0
+Morrin,2017,137.0
+Morrin,2018,137.0
+Morrin,2019,137.0
+Morrin,2020,137.0
+Morrin,2021,137.0
+Morrin,2022,137.0
+Morrin,2023,137.0
+Kneehill County,2023,2212.0
+Kneehill County,1994,1654.0
+Kneehill County,1995,1654.0
+Kneehill County,1996,1616.0
+Kneehill County,1997,1493.0
+Kneehill County,1998,1619.0
+Kneehill County,1999,1643.0
+Kneehill County,2000,1872.0
+Kneehill County,2001,1892.0
+Kneehill County,2002,1917.0
+Kneehill County,2003,1891.0
+Kneehill County,2004,1891.0
+Kneehill County,2005,1891.0
+Kneehill County,2006,1970.0
+Kneehill County,2007,1970.0
+Kneehill County,2008,2024.0
+Kneehill County,2009,2057.0
+Kneehill County,2010,2057.0
+Kneehill County,2011,2077.0
+Kneehill County,2012,2064.0
+Kneehill County,2013,2137.0
+Kneehill County,2014,2141.0
+Kneehill County,2015,2140.0
+Kneehill County,2016,2156.0
+Kneehill County,2017,2163.0
+Kneehill County,2018,2172.0
+Kneehill County,2019,2183.0
+Kneehill County,2020,2195.0
+Kneehill County,2021,2181.0
+Kneehill County,2022,2195.0
+Carbon,1994,185.0
+Carbon,1995,185.0
+Carbon,1996,204.0
+Carbon,1997,196.0
+Carbon,1998,207.0
+Carbon,1999,213.0
+Carbon,2000,216.0
+Carbon,2001,218.0
+Carbon,2002,218.0
+Carbon,2003,218.0
+Carbon,2004,218.0
+Carbon,2005,220.0
+Carbon,2006,222.0
+Carbon,2007,230.0
+Carbon,2008,231.0
+Carbon,2009,232.0
+Carbon,2010,232.0
+Carbon,2011,232.0
+Carbon,2012,233.0
+Carbon,2013,233.0
+Carbon,2014,234.0
+Carbon,2015,240.0
+Carbon,2016,237.0
+Carbon,2017,237.0
+Carbon,2018,237.0
+Carbon,2019,237.0
+Carbon,2020,237.0
+Carbon,2021,237.0
+Carbon,2022,239.0
+Carbon,2023,239.0
+Norglenwold,2023,132.0
+Norglenwold,1994,73.0
+Norglenwold,1995,73.0
+Norglenwold,1996,102.0
+Norglenwold,1997,104.0
+Norglenwold,1998,106.0
+Norglenwold,1999,108.0
+Norglenwold,2000,108.0
+Norglenwold,2001,106.0
+Norglenwold,2002,100.0
+Norglenwold,2003,100.0
+Norglenwold,2004,99.0
+Norglenwold,2005,97.0
+Norglenwold,2006,96.0
+Norglenwold,2007,97.0
+Norglenwold,2008,94.0
+Norglenwold,2009,93.0
+Norglenwold,2010,94.0
+Norglenwold,2011,94.0
+Norglenwold,2012,93.0
+Norglenwold,2013,93.0
+Norglenwold,2014,93.0
+Norglenwold,2015,93.0
+Norglenwold,2016,112.0
+Norglenwold,2017,112.0
+Norglenwold,2018,112.0
+Norglenwold,2019,112.0
+Norglenwold,2020,112.0
+Norglenwold,2021,132.0
+Norglenwold,2022,132.0
+Foremost,1994,222.0
+Foremost,1995,222.0
+Foremost,1996,222.0
+Foremost,1997,222.0
+Foremost,1998,222.0
+Foremost,1999,222.0
+Foremost,2000,222.0
+Foremost,2001,239.0
+Foremost,2002,239.0
+Foremost,2003,239.0
+Foremost,2004,239.0
+Foremost,2005,239.0
+Foremost,2006,239.0
+Foremost,2007,239.0
+Foremost,2008,239.0
+Foremost,2009,239.0
+Foremost,2010,239.0
+Foremost,2011,246.0
+Foremost,2012,246.0
+Foremost,2013,246.0
+Foremost,2014,246.0
+Foremost,2015,246.0
+Foremost,2016,257.0
+Foremost,2017,260.0
+Foremost,2018,260.0
+Foremost,2019,260.0
+Foremost,2020,260.0
+Foremost,2021,260.0
+Foremost,2022,260.0
+Foremost,2023,260.0
+Bow Island,2023,799.0
+Bow Island,1994,606.0
+Bow Island,1995,606.0
+Bow Island,1996,606.0
+Bow Island,1997,606.0
+Bow Island,1998,610.0
+Bow Island,1999,610.0
+Bow Island,2000,610.0
+Bow Island,2001,620.0
+Bow Island,2002,620.0
+Bow Island,2003,625.0
+Bow Island,2004,627.0
+Bow Island,2005,631.0
+Bow Island,2006,642.0
+Bow Island,2007,673.0
+Bow Island,2008,680.0
+Bow Island,2009,639.0
+Bow Island,2010,648.0
+Bow Island,2011,648.0
+Bow Island,2012,652.0
+Bow Island,2013,657.0
+Bow Island,2014,659.0
+Bow Island,2015,667.0
+Bow Island,2016,670.0
+Bow Island,2017,688.0
+Bow Island,2018,775.0
+Bow Island,2019,777.0
+Bow Island,2020,778.0
+Bow Island,2021,782.0
+Bow Island,2022,797.0
+Redcliff,1994,1362.0
+Redcliff,1995,1362.0
+Redcliff,1996,1540.0
+Redcliff,1997,1497.0
+Redcliff,1998,1516.0
+Redcliff,1999,1443.0
+Redcliff,2000,1591.0
+Redcliff,2001,1590.0
+Redcliff,2002,1653.0
+Redcliff,2003,1752.0
+Redcliff,2004,1777.0
+Redcliff,2005,1793.0
+Redcliff,2006,1873.0
+Redcliff,2007,2110.0
+Redcliff,2008,2129.0
+Redcliff,2009,2170.0
+Redcliff,2010,2176.0
+Redcliff,2011,2185.0
+Redcliff,2012,2201.0
+Redcliff,2013,2073.0
+Redcliff,2014,2073.0
+Redcliff,2015,2073.0
+Redcliff,2016,2073.0
+Redcliff,2017,2082.0
+Redcliff,2018,2095.0
+Redcliff,2019,2093.0
+Redcliff,2020,2097.0
+Redcliff,2021,2099.0
+Redcliff,2022,2099.0
+Redcliff,2023,2099.0
+Warner County No. 5,2023,1130.0
+Warner County No. 5,1994,816.0
+Warner County No. 5,1995,816.0
+Warner County No. 5,1996,604.0
+Warner County No. 5,1997,868.0
+Warner County No. 5,1998,878.0
+Warner County No. 5,1999,880.0
+Warner County No. 5,2000,892.0
+Warner County No. 5,2001,892.0
+Warner County No. 5,2002,903.0
+Warner County No. 5,2003,925.0
+Warner County No. 5,2004,930.0
+Warner County No. 5,2005,930.0
+Warner County No. 5,2006,899.0
+Warner County No. 5,2007,896.0
+Warner County No. 5,2008,925.0
+Warner County No. 5,2009,936.0
+Warner County No. 5,2010,961.0
+Warner County No. 5,2011,961.0
+Warner County No. 5,2012,981.0
+Warner County No. 5,2013,984.0
+Warner County No. 5,2014,992.0
+Warner County No. 5,2015,1017.0
+Warner County No. 5,2016,1025.0
+Warner County No. 5,2017,1037.0
+Warner County No. 5,2018,1051.0
+Warner County No. 5,2019,1101.0
+Warner County No. 5,2020,1101.0
+Warner County No. 5,2021,1101.0
+Warner County No. 5,2022,1112.0
+Coutts,1994,141.0
+Coutts,1995,141.0
+Coutts,1996,142.0
+Coutts,1997,130.0
+Coutts,1998,130.0
+Coutts,1999,130.0
+Coutts,2000,140.0
+Coutts,2001,140.0
+Coutts,2002,140.0
+Coutts,2003,140.0
+Coutts,2004,140.0
+Coutts,2005,140.0
+Coutts,2006,140.0
+Coutts,2007,140.0
+Coutts,2008,140.0
+Coutts,2009,140.0
+Coutts,2010,140.0
+Coutts,2011,140.0
+Coutts,2012,140.0
+Coutts,2013,140.0
+Coutts,2014,140.0
+Coutts,2015,140.0
+Coutts,2016,140.0
+Coutts,2017,140.0
+Coutts,2018,140.0
+Coutts,2019,140.0
+Coutts,2020,140.0
+Coutts,2021,140.0
+Coutts,2022,140.0
+Coutts,2023,140.0
+Milk River,2023,422.0
+Milk River,1994,382.0
+Milk River,1995,382.0
+Milk River,1996,384.0
+Milk River,1997,405.0
+Milk River,1998,405.0
+Milk River,1999,405.0
+Milk River,2000,405.0
+Milk River,2001,405.0
+Milk River,2002,405.0
+Milk River,2003,406.0
+Milk River,2004,406.0
+Milk River,2005,406.0
+Milk River,2006,417.0
+Milk River,2007,419.0
+Milk River,2008,420.0
+Milk River,2009,420.0
+Milk River,2010,420.0
+Milk River,2011,420.0
+Milk River,2012,420.0
+Milk River,2013,420.0
+Milk River,2014,420.0
+Milk River,2015,422.0
+Milk River,2016,420.0
+Milk River,2017,420.0
+Milk River,2018,422.0
+Milk River,2019,422.0
+Milk River,2020,422.0
+Milk River,2021,422.0
+Milk River,2022,422.0
+Hardisty,1994,293.0
+Hardisty,1995,293.0
+Hardisty,1996,366.0
+Hardisty,1997,373.0
+Hardisty,1998,373.0
+Hardisty,1999,376.0
+Hardisty,2000,376.0
+Hardisty,2001,376.0
+Hardisty,2002,375.0
+Hardisty,2003,378.0
+Hardisty,2004,378.0
+Hardisty,2005,381.0
+Hardisty,2006,385.0
+Hardisty,2007,390.0
+Hardisty,2008,378.0
+Hardisty,2009,380.0
+Hardisty,2010,378.0
+Hardisty,2011,375.0
+Hardisty,2012,377.0
+Hardisty,2013,377.0
+Hardisty,2014,378.0
+Hardisty,2015,382.0
+Hardisty,2016,393.0
+Hardisty,2017,393.0
+Hardisty,2018,393.0
+Hardisty,2019,393.0
+Hardisty,2020,393.0
+Hardisty,2021,393.0
+Hardisty,2022,393.0
+Hardisty,2023,393.0
+Wainwright No. 61,2023,1939.0
+Wainwright No. 61,1994,1163.0
+Wainwright No. 61,1995,1163.0
+Wainwright No. 61,1996,1190.0
+Wainwright No. 61,1997,1328.0
+Wainwright No. 61,1998,1265.0
+Wainwright No. 61,1999,1298.0
+Wainwright No. 61,2000,1321.0
+Wainwright No. 61,2001,1347.0
+Wainwright No. 61,2002,1280.0
+Wainwright No. 61,2003,1327.0
+Wainwright No. 61,2004,1355.0
+Wainwright No. 61,2005,1397.0
+Wainwright No. 61,2006,1447.0
+Wainwright No. 61,2007,1502.0
+Wainwright No. 61,2008,1561.0
+Wainwright No. 61,2009,1594.0
+Wainwright No. 61,2010,1645.0
+Wainwright No. 61,2011,1689.0
+Wainwright No. 61,2012,1719.0
+Wainwright No. 61,2013,1797.0
+Wainwright No. 61,2014,1821.0
+Wainwright No. 61,2015,1842.0
+Wainwright No. 61,2016,1866.0
+Wainwright No. 61,2017,1890.0
+Wainwright No. 61,2018,1918.0
+Wainwright No. 61,2019,1918.0
+Wainwright No. 61,2020,1918.0
+Wainwright No. 61,2021,1939.0
+Wainwright No. 61,2022,1939.0
+Chauvin,1994,156.0
+Chauvin,1995,156.0
+Chauvin,1996,160.0
+Chauvin,1997,163.0
+Chauvin,1998,163.0
+Chauvin,1999,163.0
+Chauvin,2000,156.0
+Chauvin,2001,155.0
+Chauvin,2002,156.0
+Chauvin,2003,156.0
+Chauvin,2004,156.0
+Chauvin,2005,157.0
+Chauvin,2006,157.0
+Chauvin,2007,157.0
+Chauvin,2008,158.0
+Chauvin,2009,159.0
+Chauvin,2010,162.0
+Chauvin,2011,162.0
+Chauvin,2012,162.0
+Chauvin,2013,162.0
+Chauvin,2014,162.0
+Chauvin,2015,162.0
+Chauvin,2016,162.0
+Chauvin,2017,162.0
+Chauvin,2018,162.0
+Chauvin,2019,162.0
+Chauvin,2020,162.0
+Chauvin,2021,162.0
+Chauvin,2022,162.0
+Chauvin,2023,162.0
+Edgerton,2023,182.0
+Edgerton,1994,163.0
+Edgerton,1995,163.0
+Edgerton,1996,170.0
+Edgerton,1997,170.0
+Edgerton,1998,171.0
+Edgerton,1999,174.0
+Edgerton,2000,177.0
+Edgerton,2001,174.0
+Edgerton,2002,176.0
+Edgerton,2003,178.0
+Edgerton,2004,181.0
+Edgerton,2005,184.0
+Edgerton,2006,171.0
+Edgerton,2007,175.0
+Edgerton,2008,180.0
+Edgerton,2009,180.0
+Edgerton,2010,180.0
+Edgerton,2011,180.0
+Edgerton,2012,180.0
+Edgerton,2013,180.0
+Edgerton,2014,180.0
+Edgerton,2015,180.0
+Edgerton,2016,180.0
+Edgerton,2017,180.0
+Edgerton,2018,180.0
+Edgerton,2019,180.0
+Edgerton,2020,182.0
+Edgerton,2021,182.0
+Edgerton,2022,182.0
+Irma,1994,181.0
+Irma,1995,181.0
+Irma,1996,189.0
+Irma,1997,204.0
+Irma,1998,206.0
+Irma,1999,210.0
+Irma,2000,209.0
+Irma,2001,205.0
+Irma,2002,205.0
+Irma,2003,207.0
+Irma,2004,208.0
+Irma,2005,208.0
+Irma,2006,208.0
+Irma,2007,212.0
+Irma,2008,216.0
+Irma,2009,217.0
+Irma,2010,217.0
+Irma,2011,222.0
+Irma,2012,228.0
+Irma,2013,228.0
+Irma,2014,228.0
+Irma,2015,231.0
+Irma,2016,231.0
+Irma,2017,242.0
+Irma,2018,242.0
+Irma,2019,244.0
+Irma,2020,244.0
+Irma,2021,244.0
+Irma,2022,244.0
+Irma,2023,244.0
+Red Deer County,2023,9637.0
+Red Deer County,1994,4917.0
+Red Deer County,1995,4917.0
+Red Deer County,1996,5715.0
+Red Deer County,1997,6019.0
+Red Deer County,1998,5715.0
+Red Deer County,1999,6136.0
+Red Deer County,2000,6268.0
+Red Deer County,2001,6813.0
+Red Deer County,2002,6824.0
+Red Deer County,2003,6999.0
+Red Deer County,2004,7109.0
+Red Deer County,2005,7240.0
+Red Deer County,2006,7310.0
+Red Deer County,2007,7522.0
+Red Deer County,2008,7563.0
+Red Deer County,2009,8055.0
+Red Deer County,2010,8201.0
+Red Deer County,2011,8425.0
+Red Deer County,2012,8463.0
+Red Deer County,2013,8576.0
+Red Deer County,2014,8718.0
+Red Deer County,2015,8829.0
+Red Deer County,2016,9176.0
+Red Deer County,2017,9246.0
+Red Deer County,2018,9260.0
+Red Deer County,2019,9330.0
+Red Deer County,2020,9365.0
+Red Deer County,2021,9445.0
+Red Deer County,2022,9532.0
+Elnora,1994,117.0
+Elnora,1995,117.0
+Elnora,1996,130.0
+Elnora,1997,133.0
+Elnora,1998,132.0
+Elnora,1999,132.0
+Elnora,2000,133.0
+Elnora,2001,133.0
+Elnora,2002,134.0
+Elnora,2003,123.0
+Elnora,2004,125.0
+Elnora,2005,128.0
+Elnora,2006,132.0
+Elnora,2007,144.0
+Elnora,2008,146.0
+Elnora,2009,146.0
+Elnora,2010,151.0
+Elnora,2011,146.0
+Elnora,2012,146.0
+Elnora,2013,149.0
+Elnora,2014,158.0
+Elnora,2015,159.0
+Elnora,2016,159.0
+Elnora,2017,158.0
+Elnora,2018,158.0
+Elnora,2019,157.0
+Elnora,2020,158.0
+Elnora,2021,158.0
+Elnora,2022,158.0
+Elnora,2023,158.0
+Milo,2023,86.0
+Milo,1994,56.0
+Milo,1995,56.0
+Milo,1996,61.0
+Milo,1997,61.0
+Milo,1998,62.0
+Milo,1999,62.0
+Milo,2000,62.0
+Milo,2001,62.0
+Milo,2002,62.0
+Milo,2003,60.0
+Milo,2004,59.0
+Milo,2005,58.0
+Milo,2006,64.0
+Milo,2007,66.0
+Milo,2008,67.0
+Milo,2009,67.0
+Milo,2010,67.0
+Milo,2011,67.0
+Milo,2012,65.0
+Milo,2013,66.0
+Milo,2014,68.0
+Milo,2015,68.0
+Milo,2016,68.0
+Milo,2017,86.0
+Milo,2018,86.0
+Milo,2019,86.0
+Milo,2020,86.0
+Milo,2021,86.0
+Milo,2022,86.0
+Arrowwood,1994,65.0
+Arrowwood,1995,65.0
+Arrowwood,1996,75.0
+Arrowwood,1997,75.0
+Arrowwood,1998,75.0
+Arrowwood,1999,76.0
+Arrowwood,2000,79.0
+Arrowwood,2001,82.0
+Arrowwood,2002,81.0
+Arrowwood,2003,83.0
+Arrowwood,2004,83.0
+Arrowwood,2005,83.0
+Arrowwood,2006,82.0
+Arrowwood,2007,82.0
+Arrowwood,2008,82.0
+Arrowwood,2009,82.0
+Arrowwood,2010,82.0
+Arrowwood,2011,82.0
+Arrowwood,2012,82.0
+Arrowwood,2013,82.0
+Arrowwood,2014,82.0
+Arrowwood,2015,82.0
+Arrowwood,2016,81.0
+Arrowwood,2017,81.0
+Arrowwood,2018,81.0
+Arrowwood,2019,81.0
+Arrowwood,2020,81.0
+Arrowwood,2021,80.0
+Stettler County No. 6,1994,1700.0
+Stettler County No. 6,1995,1700.0
+Stettler County No. 6,1996,1755.0
+Stettler County No. 6,1997,1758.0
+Stettler County No. 6,1998,2150.0
+Stettler County No. 6,1999,2153.0
+Stettler County No. 6,2000,2222.0
+Stettler County No. 6,2001,2223.0
+Stettler County No. 6,2002,1808.0
+Stettler County No. 6,2003,1808.0
+Stettler County No. 6,2004,1749.0
+Stettler County No. 6,2005,1800.0
+Stettler County No. 6,2006,2151.0
+Stettler County No. 6,2007,2831.0
+Stettler County No. 6,2008,2992.0
+Stettler County No. 6,2009,2302.0
+Stettler County No. 6,2010,2363.0
+Stettler County No. 6,2011,2364.0
+Stettler County No. 6,2012,2371.0
+Stettler County No. 6,2013,2372.0
+Stettler County No. 6,2014,2402.0
+Stettler County No. 6,2015,2422.0
+Stettler County No. 6,2016,2262.0
+Stettler County No. 6,2017,2237.0
+Stettler County No. 6,2018,2237.0
+Stettler County No. 6,2019,2277.0
+Stettler County No. 6,2020,2277.0
+Stettler County No. 6,2021,2277.0
+Stettler County No. 6,2022,2277.0
+Stettler County No. 6,2023,2289.0
+Big Valley,1994,140.0
+Big Valley,1995,140.0
+Big Valley,1996,143.0
+Big Valley,1997,148.0
+Big Valley,1998,159.0
+Big Valley,1999,160.0
+Big Valley,2000,160.0
+Big Valley,2001,162.0
+Big Valley,2002,164.0
+Big Valley,2003,165.0
+Big Valley,2004,165.0
+Big Valley,2005,166.0
+Big Valley,2006,179.0
+Big Valley,2007,201.0
+Big Valley,2008,230.0
+Big Valley,2009,232.0
+Big Valley,2010,193.0
+Big Valley,2011,191.0
+Big Valley,2012,192.0
+Big Valley,2013,192.0
+Big Valley,2014,190.0
+Big Valley,2015,190.0
+Big Valley,2016,190.0
+Big Valley,2017,190.0
+Big Valley,2018,190.0
+Big Valley,2019,190.0
+Big Valley,2020,190.0
+Big Valley,2021,190.0
+Stettler,2023,2390.0
+Stettler,1994,1974.0
+Stettler,1995,1974.0
+Stettler,1996,2082.0
+Stettler,1997,1807.0
+Stettler,1998,1818.0
+Stettler,1999,1862.0
+Stettler,2000,1872.0
+Stettler,2001,1872.0
+Stettler,2002,1885.0
+Stettler,2003,1885.0
+Stettler,2004,1917.0
+Stettler,2005,1967.0
+Stettler,2006,2063.0
+Stettler,2007,2130.0
+Stettler,2008,2179.0
+Stettler,2009,2197.0
+Stettler,2010,2248.0
+Stettler,2011,2259.0
+Stettler,2012,2370.0
+Stettler,2013,2380.0
+Stettler,2014,2392.0
+Stettler,2015,2406.0
+Stettler,2016,2415.0
+Stettler,2017,2423.0
+Stettler,2018,2433.0
+Stettler,2019,2436.0
+Stettler,2020,2440.0
+Stettler,2021,2384.0
+Stettler,2022,2384.0
+Acme,1994,228.0
+Acme,1995,228.0
+Acme,1996,247.0
+Acme,1997,251.0
+Acme,1998,253.0
+Acme,1999,255.0
+Acme,2000,255.0
+Acme,2001,262.0
+Acme,2002,268.0
+Acme,2003,270.0
+Acme,2004,272.0
+Acme,2005,273.0
+Acme,2006,276.0
+Acme,2007,280.0
+Acme,2008,326.0
+Acme,2009,326.0
+Acme,2010,326.0
+Acme,2011,326.0
+Acme,2012,326.0
+Acme,2013,285.0
+Acme,2014,288.0
+Acme,2015,288.0
+Acme,2016,285.0
+Acme,2017,285.0
+Acme,2018,285.0
+Acme,2019,285.0
+Acme,2020,285.0
+Acme,2021,285.0
+Acme,2022,285.0
+Acme,2023,285.0
+Linden,2023,360.0
+Linden,1994,196.0
+Linden,1995,196.0
+Linden,1996,225.0
+Linden,1997,236.0
+Linden,1998,245.0
+Linden,1999,251.0
+Linden,2000,286.0
+Linden,2001,291.0
+Linden,2002,298.0
+Linden,2003,331.0
+Linden,2004,335.0
+Linden,2005,337.0
+Linden,2006,350.0
+Linden,2007,337.0
+Linden,2008,337.0
+Linden,2009,337.0
+Linden,2010,339.0
+Linden,2011,339.0
+Linden,2012,339.0
+Linden,2013,339.0
+Linden,2014,339.0
+Linden,2015,351.0
+Linden,2016,351.0
+Linden,2017,358.0
+Linden,2018,360.0
+Linden,2019,360.0
+Linden,2020,360.0
+Linden,2021,360.0
+Linden,2022,360.0
+Lacombe County,1994,2994.0
+Lacombe County,1995,2994.0
+Lacombe County,1996,3896.0
+Lacombe County,1997,4071.0
+Lacombe County,1998,4124.0
+Lacombe County,1999,4076.0
+Lacombe County,2000,1137.0
+Lacombe County,2001,4376.0
+Lacombe County,2002,4197.0
+Lacombe County,2003,4242.0
+Lacombe County,2004,4485.0
+Lacombe County,2005,4519.0
+Lacombe County,2006,4575.0
+Lacombe County,2007,4650.0
+Lacombe County,2008,4760.0
+Lacombe County,2009,4791.0
+Lacombe County,2010,4833.0
+Lacombe County,2011,4863.0
+Lacombe County,2012,4910.0
+Lacombe County,2013,4930.0
+Lacombe County,2014,5011.0
+Lacombe County,2015,5002.0
+Lacombe County,2016,5024.0
+Lacombe County,2017,5055.0
+Lacombe County,2018,5067.0
+Lacombe County,2019,5087.0
+Lacombe County,2020,5109.0
+Lacombe County,2021,5055.0
+Lacombe County,2022,5233.0
+Lacombe County,2023,5295.0
+Delburne,1994,232.0
+Delburne,1995,232.0
+Delburne,1996,276.0
+Delburne,1997,286.0
+Delburne,1998,292.0
+Delburne,1999,300.0
+Delburne,2000,297.0
+Delburne,2001,304.0
+Delburne,2002,312.0
+Delburne,2003,316.0
+Delburne,2004,328.0
+Delburne,2005,338.0
+Delburne,2006,346.0
+Delburne,2007,364.0
+Delburne,2008,367.0
+Delburne,2009,370.0
+Delburne,2010,370.0
+Delburne,2011,372.0
+Delburne,2012,373.0
+Delburne,2013,373.0
+Delburne,2014,379.0
+Delburne,2015,379.0
+Delburne,2016,384.0
+Delburne,2017,386.0
+Delburne,2018,389.0
+Delburne,2019,389.0
+Delburne,2020,389.0
+Delburne,2021,389.0
+Delburne,2022,389.0
+Jarvis Bay,1994,14.0
+Jarvis Bay,1995,14.0
+Jarvis Bay,1996,37.0
+Jarvis Bay,1997,38.0
+Jarvis Bay,1998,39.0
+Jarvis Bay,1999,44.0
+Jarvis Bay,2000,47.0
+Jarvis Bay,2001,44.0
+Jarvis Bay,2002,44.0
+Jarvis Bay,2003,45.0
+Jarvis Bay,2004,47.0
+Jarvis Bay,2005,53.0
+Jarvis Bay,2006,62.0
+Jarvis Bay,2007,65.0
+Jarvis Bay,2008,67.0
+Jarvis Bay,2009,68.0
+Jarvis Bay,2010,69.0
+Jarvis Bay,2011,69.0
+Jarvis Bay,2012,75.0
+Jarvis Bay,2013,75.0
+Jarvis Bay,2014,75.0
+Jarvis Bay,2015,75.0
+Jarvis Bay,2016,86.0
+Jarvis Bay,2017,86.0
+Jarvis Bay,2018,86.0
+Jarvis Bay,2019,86.0
+Jarvis Bay,2020,86.0
+Jarvis Bay,2021,86.0
+Jarvis Bay,2022,86.0
+Jarvis Bay,2023,86.0
+Bowden,2023,606.0
+Bowden,1994,440.0
+Bowden,1995,440.0
+Bowden,1996,423.0
+Bowden,1997,423.0
+Bowden,1998,452.0
+Bowden,1999,455.0
+Bowden,2000,464.0
+Bowden,2001,468.0
+Bowden,2002,474.0
+Bowden,2003,479.0
+Bowden,2004,488.0
+Bowden,2005,487.0
+Bowden,2006,500.0
+Bowden,2007,515.0
+Bowden,2008,507.0
+Bowden,2009,507.0
+Bowden,2010,518.0
+Bowden,2011,517.0
+Bowden,2012,594.0
+Bowden,2013,599.0
+Bowden,2014,599.0
+Bowden,2015,602.0
+Bowden,2016,605.0
+Bowden,2017,605.0
+Bowden,2018,605.0
+Bowden,2019,605.0
+Bowden,2020,605.0
+Bowden,2021,605.0
+Bowden,2022,605.0
+Innisfail,1994,2447.0
+Innisfail,1995,2499.0
+Innisfail,1996,2657.0
+Innisfail,1997,2699.0
+Innisfail,1998,2847.0
+Innisfail,1999,2847.0
+Innisfail,2000,2892.0
+Innisfail,2001,2948.0
+Innisfail,2002,3089.0
+Innisfail,2003,3175.0
+Innisfail,2004,3206.0
+Innisfail,2005,3250.0
+Innisfail,2006,3281.0
+Innisfail,2007,3308.0
+Innisfail,2008,3354.0
+Innisfail,2009,3920.0
+Innisfail,2010,3712.0
+Innisfail,2011,3752.0
+Innisfail,2012,3758.0
+Innisfail,2013,3767.0
+Innisfail,2014,3812.0
+Innisfail,2015,3813.0
+Innisfail,2016,3819.0
+Innisfail,2017,3821.0
+Innisfail,2018,3825.0
+Innisfail,2019,3836.0
+Innisfail,2020,3840.0
+Innisfail,2021,3860.0
+Innisfail,2022,3867.0
+Innisfail,2023,3874.0
+Penhold,2023,1510.0
+Penhold,1994,540.0
+Penhold,1995,552.0
+Penhold,1996,581.0
+Penhold,1997,582.0
+Penhold,1998,600.0
+Penhold,1999,598.0
+Penhold,2000,618.0
+Penhold,2001,624.0
+Penhold,2002,649.0
+Penhold,2003,689.0
+Penhold,2004,712.0
+Penhold,2005,720.0
+Penhold,2006,750.0
+Penhold,2007,824.0
+Penhold,2008,857.0
+Penhold,2009,861.0
+Penhold,2010,901.0
+Penhold,2011,955.0
+Penhold,2012,1036.0
+Penhold,2013,1280.0
+Penhold,2014,1376.0
+Penhold,2015,1376.0
+Penhold,2016,1376.0
+Penhold,2017,1472.0
+Penhold,2018,1496.0
+Penhold,2019,1496.0
+Penhold,2020,1510.0
+Penhold,2021,1510.0
+Penhold,2022,1510.0
+Eckville,1994,349.0
+Eckville,1995,349.0
+Eckville,1996,346.0
+Eckville,1997,346.0
+Eckville,1998,351.0
+Eckville,1999,355.0
+Eckville,2000,360.0
+Eckville,2001,364.0
+Eckville,2002,372.0
+Eckville,2003,392.0
+Eckville,2004,380.0
+Eckville,2005,384.0
+Eckville,2006,432.0
+Eckville,2007,433.0
+Eckville,2008,471.0
+Eckville,2009,475.0
+Eckville,2010,480.0
+Eckville,2011,485.0
+Eckville,2012,485.0
+Eckville,2013,489.0
+Eckville,2014,495.0
+Eckville,2015,497.0
+Eckville,2016,491.0
+Eckville,2017,499.0
+Eckville,2018,499.0
+Eckville,2019,499.0
+Eckville,2020,499.0
+Eckville,2021,499.0
+Eckville,2022,499.0
+Eckville,2023,499.0
+Bentley,2023,427.0
+Bentley,1994,352.0
+Bentley,1995,352.0
+Bentley,1996,370.0
+Bentley,1997,375.0
+Bentley,1998,375.0
+Bentley,1999,383.0
+Bentley,2000,388.0
+Bentley,2001,400.0
+Bentley,2002,400.0
+Bentley,2003,410.0
+Bentley,2004,412.0
+Bentley,2005,413.0
+Bentley,2006,418.0
+Bentley,2007,423.0
+Bentley,2008,425.0
+Bentley,2009,425.0
+Bentley,2010,425.0
+Bentley,2011,425.0
+Bentley,2012,426.0
+Bentley,2013,426.0
+Bentley,2014,427.0
+Bentley,2015,427.0
+Bentley,2016,427.0
+Bentley,2017,427.0
+Bentley,2018,427.0
+Bentley,2019,427.0
+Bentley,2020,427.0
+Bentley,2021,427.0
+Bentley,2022,427.0
+Blackfalds,1994,601.0
+Blackfalds,1995,601.0
+Blackfalds,1996,627.0
+Blackfalds,1997,758.0
+Blackfalds,1998,789.0
+Blackfalds,1999,871.0
+Blackfalds,2000,1238.0
+Blackfalds,2001,1238.0
+Blackfalds,2002,1410.0
+Blackfalds,2003,1499.0
+Blackfalds,2004,1321.0
+Blackfalds,2005,1854.0
+Blackfalds,2006,2137.0
+Blackfalds,2007,2124.0
+Blackfalds,2008,2128.0
+Blackfalds,2009,2430.0
+Blackfalds,2010,2480.0
+Blackfalds,2011,3032.0
+Blackfalds,2012,3083.0
+Blackfalds,2013,3173.0
+Blackfalds,2014,3361.0
+Blackfalds,2015,3917.0
+Blackfalds,2016,4095.0
+Blackfalds,2017,4337.0
+Blackfalds,2018,4337.0
+Blackfalds,2019,4337.0
+Blackfalds,2020,4337.0
+Blackfalds,2021,4337.0
+Blackfalds,2022,4337.0
+Blackfalds,2023,4262.0
+Rochon Sands,2023,29.0
+Rochon Sands,1994,20.0
+Rochon Sands,1995,20.0
+Rochon Sands,1996,22.0
+Rochon Sands,1997,22.0
+Rochon Sands,1998,22.0
+Rochon Sands,1999,22.0
+Rochon Sands,2000,22.0
+Rochon Sands,2001,56.0
+Rochon Sands,2002,31.0
+Rochon Sands,2003,33.0
+Rochon Sands,2004,33.0
+Rochon Sands,2005,29.0
+Rochon Sands,2006,29.0
+Rochon Sands,2007,29.0
+Rochon Sands,2008,29.0
+Rochon Sands,2009,29.0
+Rochon Sands,2010,29.0
+Rochon Sands,2011,29.0
+Rochon Sands,2012,29.0
+Rochon Sands,2013,29.0
+Rochon Sands,2014,29.0
+Rochon Sands,2015,29.0
+Rochon Sands,2016,29.0
+Rochon Sands,2017,29.0
+Rochon Sands,2018,29.0
+Rochon Sands,2019,29.0
+Rochon Sands,2020,29.0
+Rochon Sands,2021,29.0
+Rochon Sands,2022,29.0
+Donalda,1994,106.0
+Donalda,1995,108.0
+Donalda,1996,110.0
+Donalda,1997,110.0
+Donalda,1998,110.0
+Donalda,1999,110.0
+Donalda,2000,111.0
+Donalda,2001,113.0
+Donalda,2002,114.0
+Donalda,2003,114.0
+Donalda,2004,116.0
+Donalda,2005,118.0
+Donalda,2006,125.0
+Donalda,2007,127.0
+Donalda,2008,133.0
+Donalda,2009,135.0
+Donalda,2010,152.0
+Donalda,2011,152.0
+Donalda,2012,153.0
+Donalda,2013,153.0
+Donalda,2014,153.0
+Donalda,2015,149.0
+Donalda,2016,161.0
+Donalda,2017,161.0
+Donalda,2018,136.0
+Donalda,2019,136.0
+Donalda,2020,136.0
+Donalda,2021,136.0
+Donalda,2022,136.0
+Donalda,2023,136.0
+Flagstaff County,1994,191.0
+Flagstaff County,1995,191.0
+Flagstaff County,1996,191.0
+Flagstaff County,1997,197.0
+Flagstaff County,1998,200.0
+Flagstaff County,1999,200.0
+Flagstaff County,2000,195.0
+Flagstaff County,2001,187.0
+Flagstaff County,2002,186.0
+Flagstaff County,2003,189.0
+Flagstaff County,2004,187.0
+Flagstaff County,2005,187.0
+Flagstaff County,2006,187.0
+Flagstaff County,2007,186.0
+Flagstaff County,2008,201.0
+Flagstaff County,2009,205.0
+Flagstaff County,2010,210.0
+Flagstaff County,2011,210.0
+Flagstaff County,2012,214.0
+Flagstaff County,2013,193.0
+Flagstaff County,2014,188.0
+Flagstaff County,2015,188.0
+Alliance,1994,110.0
+Alliance,1995,110.0
+Alliance,1996,104.0
+Alliance,1997,104.0
+Alliance,1998,104.0
+Alliance,1999,104.0
+Alliance,2000,101.0
+Alliance,2001,104.0
+Alliance,2002,102.0
+Alliance,2003,102.0
+Alliance,2004,99.0
+Alliance,2005,98.0
+Alliance,2006,106.0
+Alliance,2007,103.0
+Alliance,2008,105.0
+Alliance,2009,102.0
+Alliance,2010,108.0
+Alliance,2011,108.0
+Alliance,2012,108.0
+Alliance,2013,108.0
+Alliance,2014,108.0
+Alliance,2015,109.0
+Alliance,2016,108.0
+Alliance,2017,108.0
+Alliance,2018,108.0
+Alliance,2019,108.0
+Alliance,2020,108.0
+Alliance,2021,108.0
+Alliance,2022,108.0
+Alliance,2023,108.0
+Forestburg,2023,457.0
+Forestburg,1994,373.0
+Forestburg,1995,373.0
+Forestburg,1996,382.0
+Forestburg,1997,383.0
+Forestburg,1998,383.0
+Forestburg,1999,383.0
+Forestburg,2000,383.0
+Forestburg,2001,384.0
+Forestburg,2002,384.0
+Forestburg,2003,384.0
+Forestburg,2004,384.0
+Forestburg,2005,385.0
+Forestburg,2006,388.0
+Forestburg,2007,389.0
+Forestburg,2008,392.0
+Forestburg,2009,394.0
+Forestburg,2010,394.0
+Forestburg,2011,401.0
+Forestburg,2012,402.0
+Forestburg,2013,425.0
+Forestburg,2014,425.0
+Forestburg,2015,425.0
+Forestburg,2016,426.0
+Forestburg,2017,420.0
+Forestburg,2018,457.0
+Forestburg,2019,457.0
+Forestburg,2020,457.0
+Forestburg,2021,457.0
+Forestburg,2022,457.0
+Heisler,1994,74.0
+Heisler,1995,74.0
+Heisler,1996,81.0
+Heisler,1997,81.0
+Heisler,1998,81.0
+Heisler,1999,81.0
+Heisler,2000,81.0
+Heisler,2001,81.0
+Heisler,2002,81.0
+Heisler,2003,81.0
+Heisler,2004,81.0
+Heisler,2005,81.0
+Heisler,2006,81.0
+Heisler,2007,81.0
+Heisler,2008,85.0
+Heisler,2009,85.0
+Heisler,2010,85.0
+Heisler,2011,85.0
+Heisler,2012,85.0
+Heisler,2013,86.0
+Heisler,2014,86.0
+Heisler,2015,86.0
+Heisler,2016,86.0
+Heisler,2017,86.0
+Heisler,2018,86.0
+Heisler,2019,86.0
+Heisler,2020,86.0
+Heisler,2021,85.0
+Heisler,2022,85.0
+Heisler,2023,85.0
+Leduc,2023,13750.0
+Leduc,1994,5065.0
+Leduc,1995,5065.0
+Leduc,1996,5197.0
+Leduc,1997,5154.0
+Leduc,1998,5293.0
+Leduc,1999,5399.0
+Leduc,2000,5519.0
+Leduc,2001,5250.0
+Leduc,2002,5489.0
+Leduc,2003,5654.0
+Leduc,2004,5582.0
+Leduc,2005,5857.0
+Leduc,2006,6302.0
+Leduc,2007,7258.0
+Leduc,2008,8859.0
+Leduc,2009,9295.0
+Leduc,2010,9523.0
+Leduc,2011,9917.0
+Leduc,2012,9985.0
+Leduc,2013,10327.0
+Leduc,2014,11532.0
+Leduc,2015,11802.0
+Leduc,2016,12086.0
+Leduc,2017,12556.0
+Leduc,2018,13042.0
+Leduc,2019,13196.0
+Leduc,2020,13196.0
+Leduc,2021,13226.0
+Leduc,2022,13492.0
+Amisk,1994,85.0
+Amisk,1995,85.0
+Amisk,1996,92.0
+Amisk,1997,92.0
+Amisk,1998,92.0
+Amisk,1999,92.0
+Amisk,2000,93.0
+Amisk,2001,93.0
+Amisk,2002,93.0
+Amisk,2003,93.0
+Amisk,2004,94.0
+Amisk,2005,93.0
+Amisk,2006,93.0
+Amisk,2007,93.0
+Amisk,2008,93.0
+Amisk,2009,112.0
+Amisk,2010,98.0
+Amisk,2011,98.0
+Amisk,2012,98.0
+Amisk,2013,98.0
+Amisk,2014,99.0
+Amisk,2015,101.0
+Amisk,2016,101.0
+Amisk,2017,101.0
+Amisk,2018,101.0
+Amisk,2019,101.0
+Amisk,2020,98.0
+Amisk,2021,98.0
+Amisk,2022,98.0
+Amisk,2023,105.0
+Paintearth County No. 18,2023,819.0
+Paintearth County No. 18,1994,713.0
+Paintearth County No. 18,1995,713.0
+Paintearth County No. 18,1996,713.0
+Paintearth County No. 18,1997,706.0
+Paintearth County No. 18,1998,706.0
+Paintearth County No. 18,1999,712.0
+Paintearth County No. 18,2000,706.0
+Paintearth County No. 18,2001,706.0
+Paintearth County No. 18,2002,734.0
+Paintearth County No. 18,2003,734.0
+Paintearth County No. 18,2004,734.0
+Paintearth County No. 18,2005,734.0
+Paintearth County No. 18,2006,734.0
+Paintearth County No. 18,2007,733.0
+Paintearth County No. 18,2008,733.0
+Paintearth County No. 18,2009,733.0
+Paintearth County No. 18,2010,692.0
+Paintearth County No. 18,2011,777.0
+Paintearth County No. 18,2012,760.0
+Paintearth County No. 18,2013,760.0
+Paintearth County No. 18,2014,760.0
+Paintearth County No. 18,2015,792.0
+Paintearth County No. 18,2016,794.0
+Paintearth County No. 18,2017,797.0
+Paintearth County No. 18,2018,798.0
+Paintearth County No. 18,2019,798.0
+Paintearth County No. 18,2020,808.0
+Paintearth County No. 18,2021,808.0
+Paintearth County No. 18,2022,818.0
+Coronation,1994,422.0
+Coronation,1995,422.0
+Coronation,1996,491.0
+Coronation,1997,484.0
+Coronation,1998,475.0
+Coronation,1999,473.0
+Coronation,2000,470.0
+Coronation,2001,470.0
+Coronation,2002,470.0
+Coronation,2003,470.0
+Coronation,2004,473.0
+Coronation,2005,478.0
+Coronation,2006,480.0
+Coronation,2007,490.0
+Coronation,2008,503.0
+Coronation,2009,504.0
+Coronation,2010,504.0
+Coronation,2011,504.0
+Coronation,2012,504.0
+Coronation,2013,504.0
+Coronation,2014,504.0
+Coronation,2015,468.0
+Coronation,2016,468.0
+Coronation,2017,467.0
+Coronation,2018,462.0
+Coronation,2019,462.0
+Coronation,2020,462.0
+Coronation,2021,462.0
+Coronation,2022,462.0
+Castor,1994,408.0
+Castor,1995,408.0
+Castor,1996,430.0
+Castor,1997,430.0
+Castor,1998,430.0
+Castor,1999,430.0
+Castor,2000,430.0
+Castor,2001,428.0
+Castor,2002,428.0
+Castor,2003,428.0
+Castor,2004,430.0
+Castor,2005,432.0
+Castor,2006,437.0
+Castor,2007,438.0
+Castor,2008,439.0
+Castor,2009,440.0
+Castor,2010,451.0
+Castor,2011,454.0
+Castor,2012,456.0
+Castor,2013,458.0
+Castor,2014,458.0
+Castor,2015,458.0
+Castor,2016,458.0
+Castor,2017,458.0
+Castor,2018,458.0
+Castor,2019,458.0
+Castor,2020,458.0
+Castor,2021,458.0
+Castor,2022,458.0
+Castor,2023,458.0
+Halkirk,2023,62.0
+Halkirk,1994,59.0
+Halkirk,1995,59.0
+Halkirk,1996,67.0
+Halkirk,1997,67.0
+Halkirk,1998,67.0
+Halkirk,1999,67.0
+Halkirk,2000,67.0
+Halkirk,2001,67.0
+Halkirk,2002,67.0
+Halkirk,2003,65.0
+Halkirk,2004,65.0
+Halkirk,2005,62.0
+Halkirk,2006,64.0
+Halkirk,2007,64.0
+Halkirk,2008,65.0
+Halkirk,2009,66.0
+Halkirk,2010,66.0
+Halkirk,2011,66.0
+Halkirk,2012,66.0
+Halkirk,2013,66.0
+Halkirk,2014,66.0
+Halkirk,2015,66.0
+Halkirk,2016,66.0
+Halkirk,2017,65.0
+Halkirk,2018,65.0
+Halkirk,2019,62.0
+Halkirk,2020,62.0
+Halkirk,2021,62.0
+Halkirk,2022,62.0
+Daysland,1994,293.0
+Daysland,1995,293.0
+Daysland,1996,320.0
+Daysland,1997,320.0
+Daysland,1998,321.0
+Daysland,1999,322.0
+Daysland,2000,326.0
+Daysland,2001,354.0
+Daysland,2002,327.0
+Daysland,2003,327.0
+Daysland,2004,330.0
+Daysland,2005,334.0
+Daysland,2006,341.0
+Daysland,2007,348.0
+Daysland,2008,333.0
+Daysland,2009,336.0
+Daysland,2010,337.0
+Daysland,2011,337.0
+Daysland,2012,356.0
+Daysland,2013,354.0
+Daysland,2014,356.0
+Daysland,2015,362.0
+Daysland,2016,362.0
+Daysland,2017,362.0
+Daysland,2018,358.0
+Daysland,2019,359.0
+Daysland,2020,359.0
+Daysland,2021,359.0
+Daysland,2022,359.0
+Daysland,2023,359.0
+Killam,2023,442.0
+Killam,1994,396.0
+Killam,1995,396.0
+Killam,1996,411.0
+Killam,1997,429.0
+Killam,1998,437.0
+Killam,1999,441.0
+Killam,2000,429.0
+Killam,2001,429.0
+Killam,2002,436.0
+Killam,2003,435.0
+Killam,2004,435.0
+Killam,2005,435.0
+Killam,2006,436.0
+Killam,2007,410.0
+Killam,2008,391.0
+Killam,2009,385.0
+Killam,2010,385.0
+Killam,2011,394.0
+Killam,2012,433.0
+Killam,2013,435.0
+Killam,2014,430.0
+Killam,2015,430.0
+Killam,2016,430.0
+Killam,2017,430.0
+Killam,2018,430.0
+Killam,2019,430.0
+Killam,2020,430.0
+Killam,2021,430.0
+Killam,2022,430.0
+Camrose County,1994,2506.0
+Camrose County,1995,2506.0
+Camrose County,1996,2609.0
+Camrose County,1997,2694.0
+Camrose County,1998,2711.0
+Camrose County,1999,2729.0
+Camrose County,2000,2745.0
+Camrose County,2001,2869.0
+Camrose County,2002,2909.0
+Camrose County,2003,3255.0
+Camrose County,2004,3166.0
+Camrose County,2005,3209.0
+Camrose County,2006,3212.0
+Camrose County,2007,3337.0
+Camrose County,2008,3470.0
+Camrose County,2009,3515.0
+Camrose County,2010,3555.0
+Camrose County,2011,3605.0
+Camrose County,2012,3729.0
+Camrose County,2013,3817.0
+Camrose County,2014,4303.0
+Camrose County,2015,4413.0
+Camrose County,2016,4412.0
+Camrose County,2017,4445.0
+Camrose County,2018,4456.0
+Camrose County,2019,4352.0
+Camrose County,2020,4502.0
+Camrose County,2021,4502.0
+Camrose County,2022,4269.0
+Camrose County,2023,4269.0
+Fort Saskatchewan,2023,11915.0
+Fort Saskatchewan,1994,4077.0
+Fort Saskatchewan,1995,4077.0
+Fort Saskatchewan,1996,4204.0
+Fort Saskatchewan,1997,4357.0
+Fort Saskatchewan,1998,4605.0
+Fort Saskatchewan,1999,4633.0
+Fort Saskatchewan,2000,4772.0
+Fort Saskatchewan,2001,5011.0
+Fort Saskatchewan,2002,5262.0
+Fort Saskatchewan,2003,5315.0
+Fort Saskatchewan,2004,5315.0
+Fort Saskatchewan,2005,5900.0
+Fort Saskatchewan,2006,6132.0
+Fort Saskatchewan,2007,6221.0
+Fort Saskatchewan,2008,6727.0
+Fort Saskatchewan,2009,7067.0
+Fort Saskatchewan,2010,7487.0
+Fort Saskatchewan,2011,7794.0
+Fort Saskatchewan,2012,8130.0
+Fort Saskatchewan,2013,8843.0
+Fort Saskatchewan,2014,9709.0
+Fort Saskatchewan,2015,10244.0
+Fort Saskatchewan,2016,10485.0
+Fort Saskatchewan,2017,10675.0
+Fort Saskatchewan,2018,10333.0
+Fort Saskatchewan,2019,10379.0
+Fort Saskatchewan,2020,11136.0
+Fort Saskatchewan,2021,11486.0
+Fort Saskatchewan,2022,11704.0
+Edmonton,1994,256612.0
+Edmonton,1995,256612.0
+Edmonton,1996,314581.0
+Edmonton,1997,318670.0
+Edmonton,1998,262464.0
+Edmonton,1999,219483.0
+Edmonton,2000,261658.0
+Edmonton,2001,275816.0
+Edmonton,2002,277749.0
+Edmonton,2003,287495.0
+Edmonton,2004,291111.0
+Edmonton,2005,311663.0
+Edmonton,2006,314362.0
+Edmonton,2007,314177.0
+Edmonton,2008,321747.0
+Edmonton,2009,323300.0
+Edmonton,2010,328867.0
+Edmonton,2011,341674.0
+Edmonton,2012,348140.0
+Edmonton,2013,356063.0
+Edmonton,2014,389527.0
+Edmonton,2015,389527.0
+Edmonton,2016,387950.0
+Edmonton,2017,387950.0
+Edmonton,2018,387950.0
+Edmonton,2019,387950.0
+Edmonton,2020,387950.0
+Edmonton,2021,387950.0
+Edmonton,2022,428857.0
+Edmonton,2023,428857.0
+Chestermere,2023,8300.0
+Chestermere,1994,615.0
+Chestermere,1995,615.0
+Chestermere,1996,690.0
+Chestermere,1997,753.0
+Chestermere,1998,926.0
+Chestermere,1999,1175.0
+Chestermere,2000,1300.0
+Chestermere,2001,1600.0
+Chestermere,2002,2100.0
+Chestermere,2003,2500.0
+Chestermere,2004,2622.0
+Chestermere,2005,3989.0
+Chestermere,2006,4406.0
+Chestermere,2007,3864.0
+Chestermere,2008,4287.0
+Chestermere,2009,5543.0
+Chestermere,2010,4797.0
+Chestermere,2011,4869.0
+Chestermere,2012,4996.0
+Chestermere,2013,5375.0
+Chestermere,2014,6022.0
+Chestermere,2015,6210.0
+Chestermere,2016,6357.0
+Chestermere,2017,6531.0
+Chestermere,2018,6627.0
+Chestermere,2019,6735.0
+Chestermere,2020,6975.0
+Chestermere,2021,7408.0
+Chestermere,2022,8069.0
+Lethbridge,1994,26041.0
+Lethbridge,1995,26041.0
+Lethbridge,1996,26254.0
+Lethbridge,1997,23018.0
+Lethbridge,1998,27303.0
+Lethbridge,1999,22799.0
+Lethbridge,2000,23409.0
+Lethbridge,2001,24585.0
+Lethbridge,2002,25505.0
+Lethbridge,2003,26310.0
+Lethbridge,2004,27112.0
+Lethbridge,2005,27112.0
+Lethbridge,2006,28211.0
+Lethbridge,2007,29044.0
+Lethbridge,2008,30221.0
+Lethbridge,2009,36933.0
+Lethbridge,2010,37683.0
+Lethbridge,2011,38316.0
+Lethbridge,2012,39214.0
+Lethbridge,2013,39747.0
+Lethbridge,2014,40143.0
+Lethbridge,2015,40770.0
+Lethbridge,2016,41287.0
+Lethbridge,2017,41945.0
+Lethbridge,2018,41945.0
+Lethbridge,2019,42710.0
+Lethbridge,2020,42710.0
+Lethbridge,2021,42935.0
+Lethbridge,2022,43307.0
+Lethbridge,2023,47573.0
+Coalhurst,2023,1037.0
+Coalhurst,1994,439.0
+Coalhurst,1995,472.0
+Coalhurst,1996,472.0
+Coalhurst,1997,475.0
+Coalhurst,1998,490.0
+Coalhurst,1999,500.0
+Coalhurst,2000,500.0
+Coalhurst,2001,502.0
+Coalhurst,2002,512.0
+Coalhurst,2003,536.0
+Coalhurst,2004,536.0
+Coalhurst,2005,551.0
+Coalhurst,2006,554.0
+Coalhurst,2007,596.0
+Coalhurst,2008,634.0
+Coalhurst,2009,705.0
+Coalhurst,2010,821.0
+Coalhurst,2011,906.0
+Coalhurst,2012,949.0
+Coalhurst,2013,990.0
+Coalhurst,2014,990.0
+Coalhurst,2015,1040.0
+Coalhurst,2016,1078.0
+Coalhurst,2017,1078.0
+Coalhurst,2018,1078.0
+Coalhurst,2019,1101.0
+Coalhurst,2020,1101.0
+Coalhurst,2021,1027.0
+Coalhurst,2022,1036.0
+Nobleford,1994,192.0
+Nobleford,1995,192.0
+Nobleford,1996,209.0
+Nobleford,1997,246.0
+Nobleford,1998,197.0
+Nobleford,1999,202.0
+Nobleford,2000,202.0
+Nobleford,2001,206.0
+Nobleford,2002,216.0
+Nobleford,2003,219.0
+Nobleford,2004,229.0
+Nobleford,2005,725.0
+Nobleford,2006,250.0
+Nobleford,2007,291.0
+Nobleford,2008,320.0
+Nobleford,2009,337.0
+Nobleford,2010,381.0
+Nobleford,2011,400.0
+Nobleford,2012,412.0
+Nobleford,2013,420.0
+Nobleford,2014,436.0
+Nobleford,2015,436.0
+Nobleford,2016,465.0
+Nobleford,2017,480.0
+Nobleford,2018,485.0
+Nobleford,2019,490.0
+Nobleford,2020,480.0
+Nobleford,2021,480.0
+Nobleford,2022,480.0
+Nobleford,2023,441.0
+Duchess,2023,406.0
+Duchess,1994,170.0
+Duchess,1995,170.0
+Duchess,1996,227.0
+Duchess,1997,227.0
+Duchess,1998,250.0
+Duchess,1999,270.0
+Duchess,2000,288.0
+Duchess,2001,3.0
+Duchess,2002,300.0
+Duchess,2003,309.0
+Duchess,2004,323.0
+Duchess,2005,345.0
+Duchess,2006,364.0
+Duchess,2007,368.0
+Duchess,2008,368.0
+Duchess,2009,368.0
+Duchess,2010,376.0
+Duchess,2011,381.0
+Duchess,2012,387.0
+Duchess,2013,390.0
+Duchess,2014,399.0
+Duchess,2015,402.0
+Duchess,2016,403.0
+Duchess,2017,403.0
+Duchess,2018,403.0
+Duchess,2019,408.0
+Duchess,2020,409.0
+Duchess,2021,405.0
+Duchess,2022,408.0
+Rosemary,1994,109.0
+Rosemary,1995,109.0
+Rosemary,1996,112.0
+Rosemary,1997,124.0
+Rosemary,1998,124.0
+Rosemary,1999,126.0
+Rosemary,2000,128.0
+Rosemary,2001,130.0
+Rosemary,2002,135.0
+Rosemary,2003,135.0
+Rosemary,2004,135.0
+Rosemary,2005,145.0
+Rosemary,2006,148.0
+Rosemary,2007,150.0
+Rosemary,2008,154.0
+Rosemary,2009,158.0
+Rosemary,2010,159.0
+Rosemary,2011,162.0
+Rosemary,2012,165.0
+Rosemary,2013,166.0
+Rosemary,2014,169.0
+Rosemary,2015,169.0
+Rosemary,2016,183.0
+Rosemary,2017,178.0
+Rosemary,2018,177.0
+Rosemary,2019,177.0
+Rosemary,2020,176.0
+Rosemary,2021,173.0
+Rosemary,2022,173.0
+Rosemary,2023,173.0
+Bassano,2023,542.0
+Bassano,1994,459.0
+Bassano,1995,459.0
+Bassano,1996,451.0
+Bassano,1997,453.0
+Bassano,1998,491.0
+Bassano,1999,491.0
+Bassano,2000,494.0
+Bassano,2001,498.0
+Bassano,2002,501.0
+Bassano,2003,509.0
+Bassano,2004,513.0
+Bassano,2005,517.0
+Bassano,2006,523.0
+Bassano,2007,534.0
+Bassano,2008,540.0
+Bassano,2009,542.0
+Bassano,2010,543.0
+Bassano,2011,544.0
+Bassano,2012,545.0
+Bassano,2013,546.0
+Bassano,2014,546.0
+Bassano,2015,546.0
+Bassano,2016,552.0
+Bassano,2017,552.0
+Bassano,2018,552.0
+Bassano,2019,552.0
+Bassano,2020,552.0
+Bassano,2021,552.0
+Bassano,2022,551.0
+Cardston County,1994,995.0
+Cardston County,1995,995.0
+Cardston County,1996,1220.0
+Cardston County,1997,1348.0
+Cardston County,1998,1055.0
+Cardston County,1999,1065.0
+Cardston County,2000,1077.0
+Cardston County,2001,1297.0
+Cardston County,2002,1297.0
+Cardston County,2003,1297.0
+Cardston County,2004,1297.0
+Cardston County,2005,1305.0
+Cardston County,2006,1450.0
+Cardston County,2007,1462.0
+Cardston County,2008,1240.0
+Cardston County,2009,1291.0
+Cardston County,2010,1307.0
+Cardston County,2011,1323.0
+Cardston County,2012,1320.0
+Cardston County,2013,1329.0
+Cardston County,2014,1329.0
+Cardston County,2015,1365.0
+Cardston County,2016,1377.0
+Cardston County,2017,1384.0
+Cardston County,2018,1389.0
+Cardston County,2019,1402.0
+Cardston County,2020,1402.0
+Cardston County,2021,1402.0
+Cardston County,2022,1445.0
+Cardston County,2023,1445.0
+Magrath,2023,847.0
+Magrath,1994,527.0
+Magrath,1995,527.0
+Magrath,1996,592.0
+Magrath,1997,601.0
+Magrath,1998,610.0
+Magrath,1999,622.0
+Magrath,2000,625.0
+Magrath,2001,635.0
+Magrath,2002,655.0
+Magrath,2003,660.0
+Magrath,2004,660.0
+Magrath,2005,671.0
+Magrath,2006,671.0
+Magrath,2007,696.0
+Magrath,2008,700.0
+Magrath,2009,715.0
+Magrath,2010,718.0
+Magrath,2011,722.0
+Magrath,2012,743.0
+Magrath,2013,774.0
+Magrath,2014,778.0
+Magrath,2015,783.0
+Magrath,2016,784.0
+Magrath,2017,819.0
+Magrath,2018,819.0
+Magrath,2019,819.0
+Magrath,2020,819.0
+Magrath,2021,830.0
+Magrath,2022,837.0
+Improvement District No.  4 Waterton,1994,74.0
+Improvement District No.  4 Waterton,1995,74.0
+Improvement District No.  4 Waterton,1996,74.0
+Improvement District No.  4 Waterton,1997,74.0
+Improvement District No.  4 Waterton,1998,74.0
+Improvement District No.  4 Waterton,1999,74.0
+Improvement District No.  4 Waterton,2000,74.0
+Improvement District No.  4 Waterton,2001,74.0
+Improvement District No.  4 Waterton,2004,74.0
+Improvement District No.  4 Waterton,2005,74.0
+Improvement District No.  4 Waterton,2006,74.0
+Improvement District No.  4 Waterton,2007,74.0
+Improvement District No.  4 Waterton,2008,74.0
+Improvement District No.  4 Waterton,2009,165.0
+Improvement District No.  4 Waterton,2010,165.0
+Improvement District No.  4 Waterton,2011,165.0
+Improvement District No.  4 Waterton,2012,169.0
+Improvement District No.  4 Waterton,2013,169.0
+Improvement District No.  4 Waterton,2014,169.0
+Improvement District No.  4 Waterton,2015,169.0
+Improvement District No.  4 Waterton,2016,169.0
+Improvement District No.  4 Waterton,2017,167.0
+Improvement District No.  4 Waterton,2018,182.0
+Improvement District No.  4 Waterton,2019,182.0
+Improvement District No.  4 Waterton,2020,182.0
+Improvement District No.  4 Waterton,2021,182.0
+Improvement District No.  4 Waterton,2022,186.0
+Rocky Mountain House,1994,2213.0
+Rocky Mountain House,1995,2213.0
+Rocky Mountain House,1996,2213.0
+Rocky Mountain House,1997,2080.0
+Rocky Mountain House,1998,2306.0
+Rocky Mountain House,1999,2387.0
+Rocky Mountain House,2000,2439.0
+Rocky Mountain House,2001,2483.0
+Rocky Mountain House,2002,2509.0
+Rocky Mountain House,2003,2571.0
+Rocky Mountain House,2004,2625.0
+Rocky Mountain House,2005,2679.0
+Rocky Mountain House,2006,2767.0
+Rocky Mountain House,2007,2830.0
+Rocky Mountain House,2008,2855.0
+Rocky Mountain House,2009,2881.0
+Rocky Mountain House,2010,2902.0
+Rocky Mountain House,2011,2920.0
+Rocky Mountain House,2012,2945.0
+Rocky Mountain House,2013,2964.0
+Rocky Mountain House,2014,2991.0
+Rocky Mountain House,2015,3007.0
+Rocky Mountain House,2016,3016.0
+Rocky Mountain House,2017,3016.0
+Rocky Mountain House,2018,2980.0
+Rocky Mountain House,2019,2984.0
+Rocky Mountain House,2020,3002.0
+Rocky Mountain House,2021,3093.0
+Rocky Mountain House,2022,3098.0
+Rocky Mountain House,2023,3103.0
+Newell County,2023,3176.0
+Newell County,1994,1853.0
+Newell County,1995,1853.0
+Newell County,1996,1623.0
+Newell County,1997,2181.0
+Newell County,1998,2537.0
+Newell County,1999,2586.0
+Newell County,2000,2638.0
+Newell County,2001,2242.0
+Newell County,2002,2676.0
+Newell County,2003,2683.0
+Newell County,2004,2898.0
+Newell County,2005,2922.0
+Newell County,2006,2950.0
+Newell County,2007,2921.0
+Newell County,2008,2951.0
+Newell County,2009,2985.0
+Newell County,2010,3012.0
+Newell County,2011,3003.0
+Newell County,2012,3103.0
+Newell County,2013,3145.0
+Newell County,2014,3184.0
+Newell County,2015,3205.0
+Newell County,2016,3073.0
+Newell County,2017,3069.0
+Newell County,2018,3114.0
+Newell County,2019,3099.0
+Newell County,2020,3107.0
+Newell County,2021,3107.0
+Newell County,2022,3145.0
+Brooks,1994,3417.0
+Brooks,1995,3417.0
+Brooks,1996,3226.0
+Brooks,1997,3954.0
+Brooks,1998,3692.0
+Brooks,1999,3692.0
+Brooks,2000,3752.0
+Brooks,2001,4307.0
+Brooks,2002,3977.0
+Brooks,2003,4876.0
+Brooks,2004,4878.0
+Brooks,2005,5047.0
+Brooks,2006,5189.0
+Brooks,2007,5629.0
+Brooks,2008,5710.0
+Brooks,2009,5734.0
+Brooks,2010,5755.0
+Brooks,2011,5769.0
+Brooks,2012,5776.0
+Brooks,2013,5808.0
+Brooks,2014,5840.0
+Brooks,2015,5853.0
+Brooks,2016,5866.0
+Brooks,2017,5870.0
+Brooks,2018,5003.0
+Brooks,2019,5010.0
+Brooks,2020,5010.0
+Brooks,2021,6564.0
+Brooks,2022,6601.0
+Brooks,2023,6698.0
+Alix,2023,433.0
+Alix,1994,300.0
+Alix,1995,300.0
+Alix,1996,300.0
+Alix,1997,326.0
+Alix,1998,335.0
+Alix,1999,367.0
+Alix,2000,370.0
+Alix,2001,370.0
+Alix,2002,370.0
+Alix,2003,370.0
+Alix,2004,371.0
+Alix,2005,371.0
+Alix,2006,373.0
+Alix,2007,375.0
+Alix,2008,389.0
+Alix,2009,398.0
+Alix,2010,400.0
+Alix,2011,400.0
+Alix,2012,400.0
+Alix,2013,400.0
+Alix,2014,400.0
+Alix,2015,400.0
+Alix,2016,400.0
+Alix,2017,401.0
+Alix,2018,404.0
+Alix,2019,404.0
+Alix,2020,404.0
+Alix,2021,431.0
+Alix,2022,432.0
+Ponoka County,1994,2488.0
+Ponoka County,1995,2488.0
+Ponoka County,1996,2590.0
+Ponoka County,1997,2667.0
+Ponoka County,1998,2892.0
+Ponoka County,1999,2390.0
+Ponoka County,2000,2390.0
+Ponoka County,2001,3168.0
+Ponoka County,2002,3168.0
+Ponoka County,2003,3154.0
+Ponoka County,2004,3152.0
+Ponoka County,2005,3152.0
+Ponoka County,2006,3176.0
+Ponoka County,2007,3176.0
+Ponoka County,2008,3176.0
+Ponoka County,2009,4315.0
+Ponoka County,2010,4426.0
+Ponoka County,2011,3664.0
+Ponoka County,2012,3664.0
+Ponoka County,2013,3664.0
+Ponoka County,2014,3664.0
+Ponoka County,2015,3664.0
+Ponoka County,2016,7413.0
+Ponoka County,2017,7413.0
+Ponoka County,2018,8483.0
+Ponoka County,2019,8483.0
+Ponoka County,2020,8483.0
+Ponoka County,2021,8483.0
+Ponoka County,2022,8483.0
+Ponoka County,2023,10929.0
+Smoky Lake,2023,464.0
+Smoky Lake,1994,439.0
+Smoky Lake,1995,439.0
+Smoky Lake,1996,439.0
+Smoky Lake,1997,439.0
+Smoky Lake,1998,449.0
+Smoky Lake,1999,439.0
+Smoky Lake,2000,439.0
+Smoky Lake,2001,440.0
+Smoky Lake,2002,440.0
+Smoky Lake,2003,441.0
+Smoky Lake,2004,453.0
+Smoky Lake,2005,456.0
+Smoky Lake,2006,445.0
+Smoky Lake,2007,467.0
+Smoky Lake,2008,477.0
+Smoky Lake,2009,480.0
+Smoky Lake,2010,480.0
+Smoky Lake,2011,477.0
+Smoky Lake,2012,438.0
+Smoky Lake,2013,438.0
+Smoky Lake,2014,438.0
+Smoky Lake,2015,438.0
+Smoky Lake,2016,450.0
+Smoky Lake,2017,450.0
+Smoky Lake,2018,451.0
+Smoky Lake,2019,451.0
+Smoky Lake,2020,464.0
+Smoky Lake,2021,464.0
+Smoky Lake,2022,464.0
+Lac la Biche County,1994,921.0
+Lac la Biche County,1995,921.0
+Lac la Biche County,1996,840.0
+Lac la Biche County,1997,850.0
+Lac la Biche County,1998,3076.0
+Lac la Biche County,1999,3260.0
+Lac la Biche County,2000,3532.0
+Lac la Biche County,2001,3034.0
+Lac la Biche County,2002,3641.0
+Lac la Biche County,2003,3684.0
+Lac la Biche County,2004,3749.0
+Lac la Biche County,2005,3861.0
+Lac la Biche County,2006,4034.0
+Lac la Biche County,2007,3848.0
+Lac la Biche County,2008,4384.0
+Lac la Biche County,2009,4468.0
+Lac la Biche County,2010,4558.0
+Lac la Biche County,2011,4528.0
+Lac la Biche County,2012,3910.0
+Lac la Biche County,2013,4259.0
+Lac la Biche County,2014,4337.0
+Lac la Biche County,2015,4401.0
+Lac la Biche County,2016,4357.0
+Lac la Biche County,2017,4410.0
+Lac la Biche County,2018,4410.0
+Lac la Biche County,2019,4342.0
+Lac la Biche County,2020,4394.0
+Lac la Biche County,2021,4394.0
+Lac la Biche County,2022,4394.0
+Lac la Biche County,2023,4394.0
+Ponoka,2023,3497.0
+Ponoka,1994,2324.0
+Ponoka,1995,2324.0
+Ponoka,1996,2425.0
+Ponoka,1997,2444.0
+Ponoka,1998,2543.0
+Ponoka,1999,2585.0
+Ponoka,2000,2595.0
+Ponoka,2001,2624.0
+Ponoka,2002,2667.0
+Ponoka,2003,2726.0
+Ponoka,2004,2761.0
+Ponoka,2005,2810.0
+Ponoka,2006,2539.0
+Ponoka,2007,3198.0
+Ponoka,2008,3242.0
+Ponoka,2009,3381.0
+Ponoka,2010,3405.0
+Ponoka,2011,3446.0
+Ponoka,2012,3483.0
+Ponoka,2013,3490.0
+Ponoka,2014,3490.0
+Ponoka,2015,3490.0
+Ponoka,2016,3497.0
+Ponoka,2017,3497.0
+Ponoka,2018,3497.0
+Ponoka,2019,3497.0
+Ponoka,2020,3497.0
+Ponoka,2021,3497.0
+Ponoka,2022,3497.0
+Rimbey,1994,862.0
+Rimbey,1995,862.0
+Rimbey,1996,862.0
+Rimbey,1997,868.0
+Rimbey,1998,879.0
+Rimbey,1999,887.0
+Rimbey,2000,897.0
+Rimbey,2001,910.0
+Rimbey,2002,926.0
+Rimbey,2003,939.0
+Rimbey,2004,979.0
+Rimbey,2005,991.0
+Rimbey,2006,1018.0
+Rimbey,2007,1045.0
+Rimbey,2008,1067.0
+Rimbey,2009,1072.0
+Rimbey,2010,1087.0
+Rimbey,2011,1094.0
+Rimbey,2012,1165.0
+Rimbey,2013,1178.0
+Rimbey,2014,1180.0
+Rimbey,2015,1218.0
+Rimbey,2016,1222.0
+Rimbey,2017,1224.0
+Rimbey,2018,1222.0
+Rimbey,2019,1221.0
+Rimbey,2020,1222.0
+Rimbey,2021,1226.0
+Rimbey,2022,1227.0
+Rimbey,2023,1231.0
+Barons,2023,155.0
+Barons,1994,113.0
+Barons,1995,113.0
+Barons,1996,111.0
+Barons,1997,116.0
+Barons,1998,116.0
+Barons,1999,116.0
+Barons,2000,116.0
+Barons,2001,118.0
+Barons,2002,119.0
+Barons,2003,119.0
+Barons,2004,119.0
+Barons,2005,119.0
+Barons,2006,121.0
+Barons,2007,127.0
+Barons,2008,123.0
+Barons,2009,140.0
+Barons,2010,140.0
+Barons,2011,140.0
+Barons,2012,140.0
+Barons,2013,140.0
+Barons,2014,140.0
+Barons,2015,140.0
+Barons,2016,148.0
+Barons,2017,148.0
+Barons,2018,151.0
+Barons,2019,155.0
+Barons,2020,155.0
+Barons,2021,155.0
+Barons,2022,155.0
+Picture Butte,1994,655.0
+Picture Butte,1995,655.0
+Picture Butte,1996,655.0
+Picture Butte,1997,663.0
+Picture Butte,1998,670.0
+Picture Butte,1999,670.0
+Picture Butte,2000,673.0
+Picture Butte,2001,681.0
+Picture Butte,2002,684.0
+Picture Butte,2003,685.0
+Picture Butte,2004,694.0
+Picture Butte,2005,696.0
+Picture Butte,2006,699.0
+Picture Butte,2007,699.0
+Picture Butte,2008,655.0
+Picture Butte,2009,655.0
+Picture Butte,2010,675.0
+Picture Butte,2011,675.0
+Picture Butte,2012,680.0
+Picture Butte,2013,743.0
+Picture Butte,2014,743.0
+Picture Butte,2015,871.0
+Picture Butte,2016,678.0
+Picture Butte,2017,684.0
+Picture Butte,2018,708.0
+Picture Butte,2019,708.0
+Picture Butte,2020,710.0
+Picture Butte,2021,712.0
+Picture Butte,2022,712.0
+Picture Butte,2023,738.0
+Coaldale,2023,3356.0
+Coaldale,1994,1982.0
+Coaldale,1995,1982.0
+Coaldale,1996,1997.0
+Coaldale,1997,2000.0
+Coaldale,1998,2005.0
+Coaldale,1999,2166.0
+Coaldale,2000,2002.0
+Coaldale,2001,2101.0
+Coaldale,2002,2109.0
+Coaldale,2003,2146.0
+Coaldale,2004,2306.0
+Coaldale,2005,2222.0
+Coaldale,2006,2363.0
+Coaldale,2007,2592.0
+Coaldale,2008,2745.0
+Coaldale,2009,2805.0
+Coaldale,2010,2893.0
+Coaldale,2011,2923.0
+Coaldale,2012,2981.0
+Coaldale,2013,3027.0
+Coaldale,2014,3090.0
+Coaldale,2015,3163.0
+Coaldale,2016,3221.0
+Coaldale,2017,3277.0
+Coaldale,2018,3108.0
+Coaldale,2019,3173.0
+Coaldale,2020,3266.0
+Coaldale,2021,3340.0
+Coaldale,2022,3408.0
+Barnwell,1994,127.0
+Barnwell,1995,127.0
+Barnwell,1996,156.0
+Barnwell,1997,157.0
+Barnwell,1998,157.0
+Barnwell,1999,158.0
+Barnwell,2000,159.0
+Barnwell,2001,159.0
+Barnwell,2002,169.0
+Barnwell,2003,170.0
+Barnwell,2004,172.0
+Barnwell,2005,173.0
+Barnwell,2006,175.0
+Barnwell,2007,178.0
+Barnwell,2008,191.0
+Barnwell,2009,204.0
+Barnwell,2010,212.0
+Barnwell,2011,244.0
+Barnwell,2012,252.0
+Barnwell,2013,264.0
+Barnwell,2014,280.0
+Barnwell,2015,282.0
+Barnwell,2016,280.0
+Barnwell,2017,282.0
+Barnwell,2018,282.0
+Barnwell,2019,282.0
+Barnwell,2020,282.0
+Barnwell,2021,289.0
+Barnwell,2022,294.0
+Barnwell,2023,301.0
+Clearwater County,2023,7227.0
+Clearwater County,1994,3423.0
+Clearwater County,1995,3423.0
+Clearwater County,1996,4061.0
+Clearwater County,1997,3680.0
+Clearwater County,1998,3781.0
+Clearwater County,1999,3924.0
+Clearwater County,2000,4136.0
+Clearwater County,2001,8208.0
+Clearwater County,2002,4345.0
+Clearwater County,2003,4418.0
+Clearwater County,2004,4418.0
+Clearwater County,2005,4659.0
+Clearwater County,2006,4995.0
+Clearwater County,2007,5616.0
+Clearwater County,2008,5730.0
+Clearwater County,2009,5857.0
+Clearwater County,2010,5939.0
+Clearwater County,2011,6127.0
+Clearwater County,2012,6168.0
+Clearwater County,2013,6168.0
+Clearwater County,2014,6211.0
+Clearwater County,2015,6467.0
+Clearwater County,2016,6192.0
+Clearwater County,2017,6192.0
+Clearwater County,2018,6671.0
+Clearwater County,2019,6654.0
+Clearwater County,2020,6551.0
+Clearwater County,2021,7172.0
+Clearwater County,2022,7194.0
+Caroline,1994,216.0
+Caroline,1995,216.0
+Caroline,1996,194.0
+Caroline,1997,201.0
+Caroline,1998,201.0
+Caroline,1999,240.0
+Caroline,2000,241.0
+Caroline,2001,271.0
+Caroline,2002,272.0
+Caroline,2003,215.0
+Caroline,2004,271.0
+Caroline,2005,271.0
+Caroline,2006,271.0
+Caroline,2007,275.0
+Caroline,2008,249.0
+Caroline,2009,250.0
+Caroline,2010,250.0
+Caroline,2011,256.0
+Caroline,2012,258.0
+Caroline,2013,258.0
+Caroline,2014,254.0
+Caroline,2015,242.0
+Caroline,2016,240.0
+Caroline,2017,240.0
+Caroline,2018,240.0
+Caroline,2019,240.0
+Caroline,2020,240.0
+Caroline,2021,246.0
+Caroline,2022,245.0
+Caroline,2023,245.0
+Minburn County No. 27,2023,1597.0
+Minburn County No. 27,1994,1215.0
+Minburn County No. 27,1995,1215.0
+Minburn County No. 27,1996,1216.0
+Minburn County No. 27,1997,1413.0
+Minburn County No. 27,1998,1340.0
+Minburn County No. 27,1999,1347.0
+Minburn County No. 27,2000,1423.0
+Minburn County No. 27,2001,1450.0
+Minburn County No. 27,2002,1468.0
+Minburn County No. 27,2003,1550.0
+Minburn County No. 27,2004,1446.0
+Minburn County No. 27,2005,1446.0
+Minburn County No. 27,2006,1494.0
+Minburn County No. 27,2007,1508.0
+Minburn County No. 27,2008,1513.0
+Minburn County No. 27,2009,1520.0
+Minburn County No. 27,2010,1559.0
+Minburn County No. 27,2011,1572.0
+Minburn County No. 27,2012,1587.0
+Minburn County No. 27,2013,1581.0
+Minburn County No. 27,2014,1603.0
+Minburn County No. 27,2015,1669.0
+Minburn County No. 27,2016,1665.0
+Minburn County No. 27,2017,1674.0
+Minburn County No. 27,2018,1678.0
+Minburn County No. 27,2019,1708.0
+Minburn County No. 27,2020,1708.0
+Minburn County No. 27,2021,1689.0
+Minburn County No. 27,2022,1562.0
+Clyde,1994,159.0
+Clyde,1995,159.0
+Clyde,1996,164.0
+Clyde,1997,170.0
+Clyde,1998,175.0
+Clyde,1999,174.0
+Clyde,2000,183.0
+Clyde,2001,183.0
+Clyde,2002,192.0
+Clyde,2003,194.0
+Clyde,2004,206.0
+Clyde,2005,215.0
+Clyde,2006,220.0
+Clyde,2007,220.0
+Clyde,2008,224.0
+Clyde,2009,224.0
+Clyde,2010,224.0
+Clyde,2011,224.0
+Clyde,2012,224.0
+Clyde,2013,224.0
+Clyde,2014,224.0
+Clyde,2015,224.0
+Clyde,2016,224.0
+Clyde,2017,224.0
+Clyde,2018,224.0
+Clyde,2019,224.0
+Clyde,2020,224.0
+Clyde,2021,225.0
+Clyde,2022,225.0
+Clyde,2023,227.0
+Alberta Beach,2023,455.0
+Alberta Beach,1994,248.0
+Alberta Beach,1995,248.0
+Alberta Beach,1996,279.0
+Alberta Beach,1997,248.0
+Alberta Beach,1998,248.0
+Alberta Beach,1999,248.0
+Alberta Beach,2000,319.0
+Alberta Beach,2001,319.0
+Alberta Beach,2002,319.0
+Alberta Beach,2003,346.0
+Alberta Beach,2004,416.0
+Alberta Beach,2005,416.0
+Alberta Beach,2006,425.0
+Alberta Beach,2007,437.0
+Alberta Beach,2008,439.0
+Alberta Beach,2009,442.0
+Alberta Beach,2010,445.0
+Alberta Beach,2011,442.0
+Alberta Beach,2012,440.0
+Alberta Beach,2013,441.0
+Alberta Beach,2014,440.0
+Alberta Beach,2015,443.0
+Alberta Beach,2016,445.0
+Alberta Beach,2017,447.0
+Alberta Beach,2018,448.0
+Alberta Beach,2019,449.0
+Alberta Beach,2020,452.0
+Alberta Beach,2021,455.0
+Alberta Beach,2022,458.0
+Onoway,1994,262.0
+Onoway,1995,262.0
+Onoway,1996,291.0
+Onoway,1997,292.0
+Onoway,1998,292.0
+Onoway,1999,296.0
+Onoway,2000,296.0
+Onoway,2001,333.0
+Onoway,2002,343.0
+Onoway,2003,343.0
+Onoway,2004,343.0
+Onoway,2005,347.0
+Onoway,2006,355.0
+Onoway,2007,360.0
+Onoway,2008,424.0
+Onoway,2009,420.0
+Onoway,2010,438.0
+Onoway,2011,431.0
+Onoway,2012,431.0
+Onoway,2013,432.0
+Onoway,2014,435.0
+Onoway,2015,434.0
+Onoway,2016,435.0
+Onoway,2017,435.0
+Onoway,2018,435.0
+Onoway,2019,435.0
+Onoway,2020,435.0
+Onoway,2021,435.0
+Onoway,2022,420.0
+Onoway,2023,434.0
+Bashaw,2023,442.0
+Bashaw,1994,346.0
+Bashaw,1995,346.0
+Bashaw,1996,325.0
+Bashaw,1997,325.0
+Bashaw,1998,328.0
+Bashaw,1999,321.0
+Bashaw,2000,374.0
+Bashaw,2001,376.0
+Bashaw,2002,379.0
+Bashaw,2003,379.0
+Bashaw,2004,379.0
+Bashaw,2005,379.0
+Bashaw,2006,439.0
+Bashaw,2007,459.0
+Bashaw,2008,437.0
+Bashaw,2009,441.0
+Bashaw,2010,441.0
+Bashaw,2011,441.0
+Bashaw,2012,441.0
+Bashaw,2013,441.0
+Bashaw,2014,443.0
+Bashaw,2015,443.0
+Bashaw,2016,442.0
+Bashaw,2017,442.0
+Bashaw,2018,442.0
+Bashaw,2019,442.0
+Bashaw,2020,442.0
+Bashaw,2021,442.0
+Bashaw,2022,442.0
+Rosalind,1994,76.0
+Rosalind,1995,76.0
+Rosalind,1996,83.0
+Rosalind,1997,77.0
+Rosalind,1998,77.0
+Rosalind,1999,77.0
+Rosalind,2000,77.0
+Rosalind,2001,79.0
+Rosalind,2002,82.0
+Rosalind,2003,82.0
+Rosalind,2004,84.0
+Rosalind,2005,90.0
+Rosalind,2006,108.0
+Rosalind,2007,91.0
+Rosalind,2008,91.0
+Rosalind,2009,91.0
+Rosalind,2010,91.0
+Rosalind,2011,94.0
+Rosalind,2012,92.0
+Rosalind,2013,103.0
+Rosalind,2014,94.0
+Rosalind,2015,94.0
+Rosalind,2016,95.0
+Rosalind,2017,95.0
+Rosalind,2018,91.0
+Rosalind,2019,92.0
+Rosalind,2020,91.0
+Rosalind,2021,91.0
+Rosalind,2022,91.0
+Rosalind,2023,93.0
+Cochrane,2023,13908.0
+Cochrane,1994,2204.0
+Cochrane,1995,2204.0
+Cochrane,1996,2780.0
+Cochrane,1997,3394.0
+Cochrane,1998,3410.0
+Cochrane,1999,3388.0
+Cochrane,2000,4153.0
+Cochrane,2001,4115.0
+Cochrane,2002,4288.0
+Cochrane,2003,4288.0
+Cochrane,2004,4588.0
+Cochrane,2005,4.667
+Cochrane,2006,5535.0
+Cochrane,2007,5962.0
+Cochrane,2008,6763.0
+Cochrane,2009,6782.0
+Cochrane,2010,6952.0
+Cochrane,2011,8454.0
+Cochrane,2012,8739.0
+Cochrane,2013,9477.0
+Cochrane,2014,10276.0
+Cochrane,2015,11490.0
+Cochrane,2016,11669.0
+Cochrane,2017,11669.0
+Cochrane,2018,11819.0
+Cochrane,2019,12383.0
+Cochrane,2020,12135.0
+Cochrane,2021,12909.0
+Cochrane,2022,12909.0
+Airdrie,1994,4789.0
+Airdrie,1995,4789.0
+Airdrie,1996,5028.0
+Airdrie,1997,6008.0
+Airdrie,1998,6215.0
+Airdrie,1999,5866.0
+Airdrie,2000,6346.0
+Airdrie,2001,7357.0
+Airdrie,2002,8206.0
+Airdrie,2003,8546.0
+Airdrie,2004,8815.0
+Airdrie,2005,9500.0
+Airdrie,2006,11628.0
+Airdrie,2007,11732.0
+Airdrie,2008,13375.0
+Airdrie,2009,14487.0
+Airdrie,2010,14653.0
+Airdrie,2011,15803.0
+Airdrie,2012,16987.0
+Airdrie,2013,18812.0
+Airdrie,2014,21388.0
+Airdrie,2015,24160.0
+Airdrie,2016,22473.0
+Airdrie,2017,25031.0
+Airdrie,2018,25709.0
+Airdrie,2019,26577.0
+Airdrie,2020,27120.0
+Airdrie,2021,27971.0
+Airdrie,2022,29195.0
+Airdrie,2023,30385.0
+Irricana,1994,271.0
+Irricana,1995,271.0
+Irricana,1996,288.0
+Irricana,1997,302.0
+Irricana,1998,351.0
+Irricana,1999,375.0
+Irricana,2000,375.0
+Irricana,2001,400.0
+Irricana,2002,400.0
+Irricana,2003,420.0
+Irricana,2004,436.0
+Irricana,2005,441.0
+Irricana,2006,475.0
+Irricana,2007,482.0
+Irricana,2008,486.0
+Irricana,2009,486.0
+Irricana,2010,487.0
+Irricana,2011,487.0
+Irricana,2012,487.0
+Irricana,2013,487.0
+Irricana,2014,487.0
+Irricana,2015,491.0
+Irricana,2016,492.0
+Irricana,2017,492.0
+Irricana,2018,505.0
+Irricana,2019,505.0
+Irricana,2020,505.0
+Irricana,2021,505.0
+Irricana,2022,505.0
+Beiseker,1994,254.0
+Beiseker,1995,254.0
+Beiseker,1996,259.0
+Beiseker,1997,289.0
+Beiseker,1998,295.0
+Beiseker,1999,295.0
+Beiseker,2000,300.0
+Beiseker,2001,303.0
+Beiseker,2002,314.0
+Beiseker,2003,319.0
+Beiseker,2004,321.0
+Beiseker,2005,324.0
+Beiseker,2006,326.0
+Beiseker,2007,326.0
+Beiseker,2008,326.0
+Beiseker,2009,326.0
+Beiseker,2010,326.0
+Beiseker,2011,327.0
+Beiseker,2012,326.0
+Beiseker,2013,327.0
+Beiseker,2014,330.0
+Beiseker,2015,334.0
+Beiseker,2016,337.0
+Beiseker,2017,337.0
+Beiseker,2018,337.0
+Beiseker,2019,337.0
+Beiseker,2020,337.0
+Beiseker,2021,338.0
+Beiseker,2022,339.0
+Beiseker,2023,340.0
+Crossfield,2023,1515.0
+Crossfield,1994,582.0
+Crossfield,1995,582.0
+Crossfield,1996,605.0
+Crossfield,1997,635.0
+Crossfield,1998,654.0
+Crossfield,1999,714.0
+Crossfield,2000,746.0
+Crossfield,2001,755.0
+Crossfield,2002,787.0
+Crossfield,2003,829.0
+Crossfield,2004,854.0
+Crossfield,2005,913.0
+Crossfield,2006,921.0
+Crossfield,2007,947.0
+Crossfield,2008,997.0
+Crossfield,2009,996.0
+Crossfield,2010,1009.0
+Crossfield,2011,1009.0
+Crossfield,2012,1015.0
+Crossfield,2013,1103.0
+Crossfield,2014,1130.0
+Crossfield,2015,1153.0
+Crossfield,2016,1210.0
+Crossfield,2017,1210.0
+Crossfield,2018,1248.0
+Crossfield,2019,1252.0
+Crossfield,2020,1288.0
+Crossfield,2021,1425.0
+Crossfield,2022,1447.0
+Ryley,1994,193.0
+Ryley,1995,193.0
+Ryley,1996,203.0
+Ryley,1997,203.0
+Ryley,1998,203.0
+Ryley,1999,203.0
+Ryley,2000,203.0
+Ryley,2001,206.0
+Ryley,2002,211.0
+Ryley,2003,212.0
+Ryley,2004,213.0
+Ryley,2005,214.0
+Ryley,2006,222.0
+Ryley,2007,225.0
+Ryley,2008,239.0
+Ryley,2009,239.0
+Ryley,2010,239.0
+Ryley,2011,239.0
+Ryley,2012,239.0
+Ryley,2013,239.0
+Ryley,2014,239.0
+Ryley,2015,239.0
+Ryley,2016,223.0
+Ryley,2017,223.0
+Ryley,2018,223.0
+Ryley,2019,223.0
+Ryley,2020,223.0
+Ryley,2021,223.0
+Ryley,2022,223.0
+Holden,1994,184.0
+Holden,1995,184.0
+Holden,1996,199.0
+Holden,1997,199.0
+Holden,1998,199.0
+Holden,1999,198.0
+Holden,2000,198.0
+Holden,2001,197.0
+Holden,2002,197.0
+Holden,2003,197.0
+Holden,2004,197.0
+Holden,2005,196.0
+Holden,2006,186.0
+Holden,2007,186.0
+Holden,2008,200.0
+Holden,2009,200.0
+Holden,2010,200.0
+Holden,2011,218.0
+Holden,2012,218.0
+Holden,2013,217.0
+Holden,2014,215.0
+Holden,2015,215.0
+Holden,2016,215.0
+Holden,2017,215.0
+Holden,2018,215.0
+Holden,2019,215.0
+Holden,2020,215.0
+Holden,2021,215.0
+Holden,2022,215.0
+Holden,2023,215.0
+Barrhead County No. 11,2023,2583.0
+Barrhead County No. 11,1994,1779.0
+Barrhead County No. 11,1995,1779.0
+Barrhead County No. 11,1996,1929.0
+Barrhead County No. 11,1997,1958.0
+Barrhead County No. 11,1998,1992.0
+Barrhead County No. 11,1999,2007.0
+Barrhead County No. 11,2000,2020.0
+Barrhead County No. 11,2001,2050.0
+Barrhead County No. 11,2002,2040.0
+Barrhead County No. 11,2003,2064.0
+Barrhead County No. 11,2004,2095.0
+Barrhead County No. 11,2005,2135.0
+Barrhead County No. 11,2006,2196.0
+Barrhead County No. 11,2007,2246.0
+Barrhead County No. 11,2008,2299.0
+Barrhead County No. 11,2009,2328.0
+Barrhead County No. 11,2010,2348.0
+Barrhead County No. 11,2011,2373.0
+Barrhead County No. 11,2012,2400.0
+Barrhead County No. 11,2013,2423.0
+Barrhead County No. 11,2014,2448.0
+Barrhead County No. 11,2015,2478.0
+Barrhead County No. 11,2016,2508.0
+Barrhead County No. 11,2017,2522.0
+Barrhead County No. 11,2018,2545.0
+Barrhead County No. 11,2019,2562.0
+Barrhead County No. 11,2020,2578.0
+Barrhead County No. 11,2021,2578.0
+Barrhead County No. 11,2022,2578.0
+Bittern Lake,1994,61.0
+Bittern Lake,1995,61.0
+Bittern Lake,1996,72.0
+Bittern Lake,1997,72.0
+Bittern Lake,1998,74.0
+Bittern Lake,1999,83.0
+Bittern Lake,2000,85.0
+Bittern Lake,2001,86.0
+Bittern Lake,2002,86.0
+Bittern Lake,2003,86.0
+Bittern Lake,2004,88.0
+Bittern Lake,2005,97.0
+Bittern Lake,2006,97.0
+Bittern Lake,2007,97.0
+Bittern Lake,2008,97.0
+Bittern Lake,2009,97.0
+Bittern Lake,2010,97.0
+Bittern Lake,2011,97.0
+Bittern Lake,2012,97.0
+Bittern Lake,2013,97.0
+Bittern Lake,2014,97.0
+Bittern Lake,2015,97.0
+Bittern Lake,2016,96.0
+Bittern Lake,2017,96.0
+Bittern Lake,2018,96.0
+Bittern Lake,2019,96.0
+Bittern Lake,2020,96.0
+Bittern Lake,2021,96.0
+Bittern Lake,2022,96.0
+Bittern Lake,2023,96.0
+Hay Lakes,2023,210.0
+Hay Lakes,1994,107.0
+Hay Lakes,1995,107.0
+Hay Lakes,1996,119.0
+Hay Lakes,1997,118.0
+Hay Lakes,1998,122.0
+Hay Lakes,1999,125.0
+Hay Lakes,2000,132.0
+Hay Lakes,2001,135.0
+Hay Lakes,2002,140.0
+Hay Lakes,2003,143.0
+Hay Lakes,2004,143.0
+Hay Lakes,2005,158.0
+Hay Lakes,2006,159.0
+Hay Lakes,2007,168.0
+Hay Lakes,2008,180.0
+Hay Lakes,2009,182.0
+Hay Lakes,2010,182.0
+Hay Lakes,2011,187.0
+Hay Lakes,2012,186.0
+Hay Lakes,2013,189.0
+Hay Lakes,2014,189.0
+Hay Lakes,2015,196.0
+Hay Lakes,2016,206.0
+Hay Lakes,2017,206.0
+Hay Lakes,2018,210.0
+Hay Lakes,2019,210.0
+Hay Lakes,2020,210.0
+Hay Lakes,2021,210.0
+Hay Lakes,2022,210.0
+Beaver County,1994,1736.0
+Beaver County,1995,1736.0
+Beaver County,1996,1927.0
+Beaver County,1997,1939.0
+Beaver County,1998,1949.0
+Beaver County,1999,1960.0
+Beaver County,2000,2501.0
+Beaver County,2001,2019.0
+Beaver County,2002,2062.0
+Beaver County,2003,2407.0
+Beaver County,2004,2459.0
+Beaver County,2005,2488.0
+Beaver County,2006,2513.0
+Beaver County,2007,2566.0
+Beaver County,2008,2566.0
+Beaver County,2009,2632.0
+Beaver County,2010,2653.0
+Beaver County,2011,2686.0
+Beaver County,2012,2686.0
+Beaver County,2013,2719.0
+Beaver County,2014,2741.0
+Beaver County,2015,2760.0
+Beaver County,2016,2759.0
+Beaver County,2017,2761.0
+Beaver County,2018,2753.0
+Beaver County,2019,2772.0
+Beaver County,2020,2812.0
+Beaver County,2021,2842.0
+Beaver County,2022,2842.0
+Beaver County,2023,2866.0
+Barrhead,2023,1984.0
+Barrhead,1994,1681.0
+Barrhead,1995,1681.0
+Barrhead,1996,1681.0
+Barrhead,1997,1694.0
+Barrhead,1998,1705.0
+Barrhead,1999,1746.0
+Barrhead,2000,1746.0
+Barrhead,2001,1754.0
+Barrhead,2002,1756.0
+Barrhead,2003,1782.0
+Barrhead,2004,1793.0
+Barrhead,2005,1803.0
+Barrhead,2006,1818.0
+Barrhead,2007,1845.0
+Barrhead,2008,1888.0
+Barrhead,2009,1903.0
+Barrhead,2010,1931.0
+Barrhead,2011,1928.0
+Barrhead,2012,1943.0
+Barrhead,2013,1944.0
+Barrhead,2014,1954.0
+Barrhead,2015,1970.0
+Barrhead,2016,1980.0
+Barrhead,2017,1988.0
+Barrhead,2018,1988.0
+Barrhead,2019,1986.0
+Barrhead,2020,1982.0
+Barrhead,2021,1981.0
+Barrhead,2022,1982.0
+Medicine Hat,1994,19141.0
+Medicine Hat,1995,19141.0
+Medicine Hat,1996,19319.0
+Medicine Hat,1997,19645.0
+Medicine Hat,1998,20052.0
+Medicine Hat,1999,21443.0
+Medicine Hat,2000,21003.0
+Medicine Hat,2001,21598.0
+Medicine Hat,2002,22137.0
+Medicine Hat,2003,22712.0
+Medicine Hat,2004,23579.0
+Medicine Hat,2005,24462.0
+Medicine Hat,2006,25265.0
+Medicine Hat,2007,26278.0
+Medicine Hat,2008,26853.0
+Medicine Hat,2009,27181.0
+Medicine Hat,2010,27461.0
+Medicine Hat,2011,27564.0
+Medicine Hat,2012,28321.0
+Medicine Hat,2013,30028.0
+Medicine Hat,2014,30275.0
+Medicine Hat,2015,30538.0
+Medicine Hat,2016,29391.0
+Medicine Hat,2017,29391.0
+Medicine Hat,2018,29893.0
+Medicine Hat,2019,29955.0
+Medicine Hat,2020,30257.0
+Medicine Hat,2021,30006.0
+Medicine Hat,2022,30060.0
+Medicine Hat,2023,29568.0
+Forty Mile County No. 8,2023,1532.0
+Forty Mile County No. 8,1994,912.0
+Forty Mile County No. 8,1995,912.0
+Forty Mile County No. 8,1996,916.0
+Forty Mile County No. 8,1997,1004.0
+Forty Mile County No. 8,1998,1035.0
+Forty Mile County No. 8,1999,1035.0
+Forty Mile County No. 8,2000,1035.0
+Forty Mile County No. 8,2001,1035.0
+Forty Mile County No. 8,2002,1047.0
+Forty Mile County No. 8,2003,1047.0
+Forty Mile County No. 8,2004,1047.0
+Forty Mile County No. 8,2005,1087.0
+Forty Mile County No. 8,2006,945.0
+Forty Mile County No. 8,2007,945.0
+Forty Mile County No. 8,2008,945.0
+Forty Mile County No. 8,2009,945.0
+Forty Mile County No. 8,2010,945.0
+Forty Mile County No. 8,2011,965.0
+Forty Mile County No. 8,2012,965.0
+Forty Mile County No. 8,2013,965.0
+Forty Mile County No. 8,2014,965.0
+Forty Mile County No. 8,2015,1446.0
+Forty Mile County No. 8,2016,1475.0
+Forty Mile County No. 8,2017,1475.0
+Forty Mile County No. 8,2018,1475.0
+Forty Mile County No. 8,2019,1475.0
+Forty Mile County No. 8,2020,1564.0
+Forty Mile County No. 8,2021,1564.0
+Forty Mile County No. 8,2022,1613.0
+Cypress County,1994,1757.0
+Cypress County,1995,1757.0
+Cypress County,1996,2388.0
+Cypress County,1997,2645.0
+Cypress County,1998,2743.0
+Cypress County,1999,2750.0
+Cypress County,2000,2802.0
+Cypress County,2001,2869.0
+Cypress County,2002,2913.0
+Cypress County,2003,2977.0
+Cypress County,2004,3014.0
+Cypress County,2005,3065.0
+Cypress County,2006,3169.0
+Cypress County,2007,3289.0
+Cypress County,2008,3353.0
+Cypress County,2009,3393.0
+Cypress County,2010,3457.0
+Cypress County,2011,3509.0
+Cypress County,2012,3521.0
+Cypress County,2013,3521.0
+Cypress County,2014,3574.0
+Cypress County,2015,3597.0
+Cypress County,2016,3609.0
+Cypress County,2017,3605.0
+Cypress County,2018,3625.0
+Cypress County,2019,3634.0
+Cypress County,2020,3657.0
+Cypress County,2021,3669.0
+Cypress County,2022,3669.0
+Cypress County,2023,3755.0
+Lacombe,2023,6486.0
+Lacombe,1994,2840.0
+Lacombe,1995,2840.0
+Lacombe,1996,2889.0
+Lacombe,1997,2942.0
+Lacombe,1998,3060.0
+Lacombe,1999,3116.0
+Lacombe,2000,3224.0
+Lacombe,2001,3318.0
+Lacombe,2002,3508.0
+Lacombe,2003,3697.0
+Lacombe,2004,3804.0
+Lacombe,2005,3994.0
+Lacombe,2006,4151.0
+Lacombe,2007,4246.0
+Lacombe,2008,4380.0
+Lacombe,2009,4465.0
+Lacombe,2010,4185.0
+Lacombe,2011,4453.0
+Lacombe,2012,4185.0
+Lacombe,2013,4879.0
+Lacombe,2014,4954.0
+Lacombe,2015,5095.0
+Lacombe,2016,5250.0
+Lacombe,2017,5303.0
+Lacombe,2018,5357.0
+Lacombe,2019,5446.0
+Lacombe,2020,5474.0
+Lacombe,2021,5526.0
+Lacombe,2022,5671.0
+Cowley,1994,99.0
+Cowley,1995,99.0
+Cowley,1996,104.0
+Cowley,1997,104.0
+Cowley,1998,104.0
+Cowley,1999,105.0
+Cowley,2000,105.0
+Cowley,2001,105.0
+Cowley,2002,105.0
+Cowley,2003,105.0
+Cowley,2004,105.0
+Cowley,2005,105.0
+Cowley,2006,105.0
+Cowley,2007,105.0
+Cowley,2008,106.0
+Cowley,2009,108.0
+Cowley,2010,109.0
+Cowley,2011,113.0
+Cowley,2012,115.0
+Cowley,2013,115.0
+Cowley,2014,115.0
+Cowley,2015,116.0
+Cowley,2016,115.0
+Cowley,2017,115.0
+Cowley,2018,115.0
+Cowley,2019,115.0
+Cowley,2020,115.0
+Cowley,2021,115.0
+Cowley,2022,115.0
+Cowley,2023,117.0
+Willow Creek No. 26,2023,2575.0
+Willow Creek No. 26,1994,1747.0
+Willow Creek No. 26,1995,1747.0
+Willow Creek No. 26,1996,1779.0
+Willow Creek No. 26,1997,1782.0
+Willow Creek No. 26,1998,1785.0
+Willow Creek No. 26,1999,1850.0
+Willow Creek No. 26,2000,1920.0
+Willow Creek No. 26,2001,1958.0
+Willow Creek No. 26,2002,1994.0
+Willow Creek No. 26,2003,2031.0
+Willow Creek No. 26,2004,2065.0
+Willow Creek No. 26,2005,1775.0
+Willow Creek No. 26,2006,2234.0
+Willow Creek No. 26,2007,2254.0
+Willow Creek No. 26,2008,2281.0
+Willow Creek No. 26,2009,2325.0
+Willow Creek No. 26,2010,2623.0
+Willow Creek No. 26,2011,2635.0
+Willow Creek No. 26,2012,2653.0
+Willow Creek No. 26,2013,2684.0
+Willow Creek No. 26,2014,2719.0
+Willow Creek No. 26,2015,2753.0
+Willow Creek No. 26,2016,2796.0
+Willow Creek No. 26,2017,2821.0
+Willow Creek No. 26,2018,2764.0
+Willow Creek No. 26,2019,2816.0
+Willow Creek No. 26,2020,2832.0
+Willow Creek No. 26,2021,2542.0
+Willow Creek No. 26,2022,2563.0
+Fort Macleod,1994,1172.0
+Fort Macleod,1995,1172.0
+Fort Macleod,1996,1175.0
+Fort Macleod,1997,1106.0
+Fort Macleod,1998,1164.0
+Fort Macleod,1999,1170.0
+Fort Macleod,2000,1175.0
+Fort Macleod,2001,1177.0
+Fort Macleod,2002,1182.0
+Fort Macleod,2003,1187.0
+Fort Macleod,2004,1188.0
+Fort Macleod,2005,1217.0
+Fort Macleod,2006,1307.0
+Fort Macleod,2007,1329.0
+Fort Macleod,2008,1362.0
+Fort Macleod,2009,1399.0
+Fort Macleod,2010,1412.0
+Fort Macleod,2011,1421.0
+Fort Macleod,2012,1423.0
+Fort Macleod,2013,1431.0
+Fort Macleod,2014,1431.0
+Fort Macleod,2015,1392.0
+Fort Macleod,2016,1398.0
+Fort Macleod,2017,1406.0
+Fort Macleod,2018,1411.0
+Fort Macleod,2019,1414.0
+Fort Macleod,2020,1411.0
+Fort Macleod,2021,1411.0
+Fort Macleod,2022,1417.0
+Fort Macleod,2023,1444.0
+Raymond,1994,894.0
+Raymond,1995,894.0
+Raymond,1996,951.0
+Raymond,1997,970.0
+Raymond,1998,982.0
+Raymond,1999,995.0
+Raymond,2000,1010.0
+Raymond,2001,1015.0
+Raymond,2002,1021.0
+Raymond,2003,1032.0
+Raymond,2004,1044.0
+Raymond,2005,1040.0
+Raymond,2006,1067.0
+Raymond,2007,1119.0
+Raymond,2008,1164.0
+Raymond,2009,1183.0
+Raymond,2010,1194.0
+Raymond,2011,1205.0
+Raymond,2012,1376.0
+Raymond,2013,1399.0
+Raymond,2014,1409.0
+Raymond,2015,1409.0
+Raymond,2016,1409.0
+Raymond,2017,1409.0
+Raymond,2018,1409.0
+Raymond,2019,1410.0
+Raymond,2020,1425.0
+Raymond,2021,1440.0
+Raymond,2022,1440.0
+Raymond,2023,1453.0
+Stirling,2023,379.0
+Stirling,1994,225.0
+Stirling,1995,225.0
+Stirling,1996,252.0
+Stirling,1997,252.0
+Stirling,1998,252.0
+Stirling,1999,254.0
+Stirling,2000,259.0
+Stirling,2001,264.0
+Stirling,2002,268.0
+Stirling,2003,274.0
+Stirling,2004,295.0
+Stirling,2005,297.0
+Stirling,2006,306.0
+Stirling,2007,337.0
+Stirling,2008,346.0
+Stirling,2009,351.0
+Stirling,2010,355.0
+Stirling,2011,358.0
+Stirling,2012,362.0
+Stirling,2013,367.0
+Stirling,2014,370.0
+Stirling,2015,0.0
+Stirling,2016,376.0
+Stirling,2017,376.0
+Stirling,2018,376.0
+Stirling,2019,378.0
+Stirling,2020,378.0
+Stirling,2021,378.0
+Stirling,2022,378.0
+Lethbridge County,1994,2469.0
+Lethbridge County,1995,2469.0
+Lethbridge County,1996,2667.0
+Lethbridge County,1997,3200.0
+Lethbridge County,1998,3096.0
+Lethbridge County,1999,3157.0
+Lethbridge County,2000,2791.0
+Lethbridge County,2001,2916.0
+Lethbridge County,2002,3183.0
+Lethbridge County,2003,3278.0
+Lethbridge County,2004,3321.0
+Lethbridge County,2005,3332.0
+Lethbridge County,2006,3362.0
+Lethbridge County,2007,3398.0
+Lethbridge County,2008,3461.0
+Lethbridge County,2009,3497.0
+Lethbridge County,2010,3508.0
+Lethbridge County,2011,3531.0
+Lethbridge County,2012,3556.0
+Lethbridge County,2013,3567.0
+Lethbridge County,2014,3581.0
+Lethbridge County,2015,3615.0
+Lethbridge County,2016,3655.0
+Lethbridge County,2017,3655.0
+Lethbridge County,2018,3661.0
+Lethbridge County,2019,3715.0
+Lethbridge County,2020,3722.0
+Lethbridge County,2021,3759.0
+Lethbridge County,2022,3759.0
+Lethbridge County,2023,3815.0
+"Taber, M.D.",2023,2301.0
+"Taber, M.D.",1994,1510.0
+"Taber, M.D.",1995,1510.0
+"Taber, M.D.",1996,1503.0
+"Taber, M.D.",1997,1540.0
+"Taber, M.D.",1998,1577.0
+"Taber, M.D.",1999,1821.0
+"Taber, M.D.",2000,2441.0
+"Taber, M.D.",2001,2476.0
+"Taber, M.D.",2002,2538.0
+"Taber, M.D.",2003,2581.0
+"Taber, M.D.",2004,2596.0
+"Taber, M.D.",2005,2635.0
+"Taber, M.D.",2006,2677.0
+"Taber, M.D.",2007,2120.0
+"Taber, M.D.",2008,2170.0
+"Taber, M.D.",2009,2210.0
+"Taber, M.D.",2010,2240.0
+"Taber, M.D.",2011,2280.0
+"Taber, M.D.",2012,2292.0
+"Taber, M.D.",2013,2122.0
+"Taber, M.D.",2014,2158.0
+"Taber, M.D.",2015,2178.0
+"Taber, M.D.",2016,2204.0
+"Taber, M.D.",2017,2230.0
+"Taber, M.D.",2018,2234.0
+"Taber, M.D.",2019,2230.0
+"Taber, M.D.",2020,2245.0
+"Taber, M.D.",2021,2277.0
+"Taber, M.D.",2022,2288.0
+Pincher Creek No. 9,1994,978.0
+Pincher Creek No. 9,1995,978.0
+Pincher Creek No. 9,1996,1400.0
+Pincher Creek No. 9,1997,1425.0
+Pincher Creek No. 9,1998,1457.0
+Pincher Creek No. 9,1999,1472.0
+Pincher Creek No. 9,2000,1476.0
+Pincher Creek No. 9,2001,1492.0
+Pincher Creek No. 9,2002,1517.0
+Pincher Creek No. 9,2003,1544.0
+Pincher Creek No. 9,2004,1573.0
+Pincher Creek No. 9,2005,1623.0
+Pincher Creek No. 9,2006,1663.0
+Pincher Creek No. 9,2007,1754.0
+Pincher Creek No. 9,2008,1775.0
+Pincher Creek No. 9,2009,1785.0
+Pincher Creek No. 9,2010,1790.0
+Pincher Creek No. 9,2011,1800.0
+Pincher Creek No. 9,2012,1820.0
+Pincher Creek No. 9,2013,1830.0
+Pincher Creek No. 9,2014,1920.0
+Pincher Creek No. 9,2015,1940.0
+Pincher Creek No. 9,2016,1960.0
+Pincher Creek No. 9,2017,1990.0
+Pincher Creek No. 9,2018,1990.0
+Pincher Creek No. 9,2019,1990.0
+Pincher Creek No. 9,2020,1990.0
+Pincher Creek No. 9,2021,1990.0
+Pincher Creek No. 9,2022,1990.0
+Pincher Creek No. 9,2023,1990.0
+Pincher Creek,2023,1826.0
+Pincher Creek,1994,1386.0
+Pincher Creek,1995,1386.0
+Pincher Creek,1996,1370.0
+Pincher Creek,1997,1396.0
+Pincher Creek,1998,1393.0
+Pincher Creek,1999,1541.0
+Pincher Creek,2000,1548.0
+Pincher Creek,2001,1405.0
+Pincher Creek,2002,1410.0
+Pincher Creek,2003,1416.0
+Pincher Creek,2004,1425.0
+Pincher Creek,2005,1431.0
+Pincher Creek,2006,1515.0
+Pincher Creek,2007,1515.0
+Pincher Creek,2008,1515.0
+Pincher Creek,2009,1515.0
+Pincher Creek,2010,1515.0
+Pincher Creek,2011,1579.0
+Pincher Creek,2012,1593.0
+Pincher Creek,2013,1593.0
+Pincher Creek,2014,1525.0
+Pincher Creek,2015,1525.0
+Pincher Creek,2016,1745.0
+Pincher Creek,2017,1745.0
+Pincher Creek,2018,1795.0
+Pincher Creek,2019,1797.0
+Pincher Creek,2020,1801.0
+Pincher Creek,2021,1803.0
+Pincher Creek,2022,1816.0
+Cardston,1994,1074.0
+Cardston,1995,1074.0
+Cardston,1996,1094.0
+Cardston,1997,1103.0
+Cardston,1998,1113.0
+Cardston,1999,1117.0
+Cardston,2000,1126.0
+Cardston,2001,1283.0
+Cardston,2002,1138.0
+Cardston,2003,1146.0
+Cardston,2004,1163.0
+Cardston,2005,1179.0
+Cardston,2006,1163.0
+Cardston,2007,1163.0
+Cardston,2008,1175.0
+Cardston,2009,1228.0
+Cardston,2010,1241.0
+Cardston,2011,1248.0
+Cardston,2012,1252.0
+Cardston,2013,1259.0
+Cardston,2014,1268.0
+Cardston,2015,1271.0
+Cardston,2016,1271.0
+Cardston,2017,1277.0
+Cardston,2018,1279.0
+Cardston,2019,1282.0
+Cardston,2020,1295.0
+Cardston,2021,1290.0
+Cardston,2022,1300.0
+Cardston,2023,1307.0
+Glenwood,2023,123.0
+Glenwood,1994,84.0
+Glenwood,1995,84.0
+Glenwood,1996,94.0
+Glenwood,1997,95.0
+Glenwood,1998,95.0
+Glenwood,1999,96.0
+Glenwood,2000,96.0
+Glenwood,2001,98.0
+Glenwood,2002,92.0
+Glenwood,2003,104.0
+Glenwood,2004,125.0
+Glenwood,2005,125.0
+Glenwood,2006,125.0
+Glenwood,2007,125.0
+Glenwood,2008,125.0
+Glenwood,2009,127.0
+Glenwood,2010,125.0
+Glenwood,2011,126.0
+Glenwood,2012,126.0
+Glenwood,2013,127.0
+Glenwood,2014,128.0
+Glenwood,2015,128.0
+Glenwood,2016,129.0
+Glenwood,2017,129.0
+Glenwood,2018,130.0
+Glenwood,2019,132.0
+Glenwood,2020,132.0
+Glenwood,2021,132.0
+Glenwood,2022,123.0
+Hill Spring,1994,79.0
+Hill Spring,1995,82.0
+Hill Spring,1996,82.0
+Hill Spring,1997,84.0
+Hill Spring,1998,83.0
+Hill Spring,1999,81.0
+Hill Spring,2000,82.0
+Hill Spring,2001,72.0
+Hill Spring,2002,80.0
+Hill Spring,2003,80.0
+Hill Spring,2004,79.0
+Hill Spring,2005,80.0
+Hill Spring,2006,80.0
+Hill Spring,2007,82.0
+Hill Spring,2008,86.0
+Hill Spring,2009,84.0
+Hill Spring,2010,84.0
+Hill Spring,2011,84.0
+Hill Spring,2012,84.0
+Hill Spring,2013,85.0
+Hill Spring,2014,85.0
+Hill Spring,2015,85.0
+Hill Spring,2016,86.0
+Hill Spring,2017,86.0
+Hill Spring,2018,86.0
+Hill Spring,2019,86.0
+Hill Spring,2020,86.0
+Hill Spring,2021,86.0
+Hill Spring,2022,86.0
+Hill Spring,2023,88.0
+Claresholm,2023,1820.0
+Claresholm,1994,1293.0
+Claresholm,1995,1293.0
+Claresholm,1996,1394.0
+Claresholm,1997,1412.0
+Claresholm,1998,1433.0
+Claresholm,1999,1451.0
+Claresholm,2000,1462.0
+Claresholm,2001,1472.0
+Claresholm,2002,1481.0
+Claresholm,2003,1493.0
+Claresholm,2004,1498.0
+Claresholm,2005,1538.0
+Claresholm,2006,1649.0
+Claresholm,2007,1682.0
+Claresholm,2008,1690.0
+Claresholm,2009,1705.0
+Claresholm,2010,1716.0
+Claresholm,2011,1741.0
+Claresholm,2012,1750.0
+Claresholm,2013,1761.0
+Claresholm,2014,1762.0
+Claresholm,2015,1763.0
+Claresholm,2016,1765.0
+Claresholm,2017,1778.0
+Claresholm,2018,1779.0
+Claresholm,2019,1780.0
+Claresholm,2020,1795.0
+Claresholm,2021,1795.0
+Claresholm,2022,1810.0
+Stavely,1994,212.0
+Stavely,1995,212.0
+Stavely,1996,206.0
+Stavely,1997,206.0
+Stavely,1998,208.0
+Stavely,1999,210.0
+Stavely,2000,216.0
+Stavely,2001,226.0
+Stavely,2002,226.0
+Stavely,2003,227.0
+Stavely,2004,227.0
+Stavely,2005,227.0
+Stavely,2006,241.0
+Stavely,2007,251.0
+Stavely,2008,265.0
+Stavely,2009,267.0
+Stavely,2010,273.0
+Stavely,2011,276.0
+Stavely,2012,279.0
+Stavely,2013,280.0
+Stavely,2014,286.0
+Stavely,2015,286.0
+Stavely,2016,286.0
+Stavely,2017,287.0
+Stavely,2018,287.0
+Stavely,2019,288.0
+Stavely,2020,289.0
+Stavely,2021,289.0
+Stavely,2022,292.0
+Stavely,2023,292.0
+Nanton,2023,1061.0
+Nanton,1994,685.0
+Nanton,1995,685.0
+Nanton,1996,685.0
+Nanton,1997,699.0
+Nanton,1998,699.0
+Nanton,1999,743.0
+Nanton,2000,744.0
+Nanton,2001,745.0
+Nanton,2002,759.0
+Nanton,2003,763.0
+Nanton,2004,784.0
+Nanton,2005,818.0
+Nanton,2006,839.0
+Nanton,2007,8.41
+Nanton,2008,884.0
+Nanton,2009,889.0
+Nanton,2010,915.0
+Nanton,2011,919.0
+Nanton,2012,924.0
+Nanton,2013,925.0
+Nanton,2014,927.0
+Nanton,2015,927.0
+Nanton,2016,940.0
+Nanton,2017,940.0
+Nanton,2018,949.0
+Nanton,2019,1040.0
+Nanton,2020,1041.0
+Nanton,2021,1047.0
+Nanton,2022,1047.0
+Acadia No. 34,1994,163.0
+Acadia No. 34,1995,163.0
+Acadia No. 34,1996,202.0
+Acadia No. 34,1997,187.0
+Acadia No. 34,1998,211.0
+Acadia No. 34,1999,191.0
+Acadia No. 34,2000,214.0
+Acadia No. 34,2001,215.0
+Acadia No. 34,2002,216.0
+Acadia No. 34,2003,218.0
+Acadia No. 34,2004,220.0
+Acadia No. 34,2005,223.0
+Acadia No. 34,2006,225.0
+Acadia No. 34,2007,235.0
+Acadia No. 34,2008,238.0
+Acadia No. 34,2009,243.0
+Acadia No. 34,2010,245.0
+Acadia No. 34,2011,197.0
+Acadia No. 34,2012,212.0
+Acadia No. 34,2013,218.0
+Acadia No. 34,2014,218.0
+Acadia No. 34,2015,219.0
+Acadia No. 34,2016,233.0
+Acadia No. 34,2017,233.0
+Acadia No. 34,2018,233.0
+Acadia No. 34,2019,233.0
+Acadia No. 34,2020,233.0
+Acadia No. 34,2021,233.0
+Acadia No. 34,2022,233.0
+Acadia No. 34,2023,233.0
+Empress,2023,130.0
+Empress,1994,86.0
+Empress,1995,86.0
+Empress,1996,86.0
+Empress,1997,107.0
+Empress,1998,107.0
+Empress,1999,107.0
+Empress,2000,107.0
+Empress,2001,108.0
+Empress,2002,108.0
+Empress,2003,108.0
+Empress,2005,108.0
+Empress,2006,197.0
+Empress,2007,108.0
+Empress,2008,108.0
+Empress,2009,108.0
+Empress,2010,108.0
+Empress,2011,108.0
+Empress,2012,110.0
+Empress,2013,110.0
+Empress,2014,110.0
+Empress,2015,110.0
+Empress,2016,107.0
+Empress,2017,107.0
+Empress,2018,107.0
+Empress,2019,107.0
+Empress,2020,107.0
+Empress,2021,107.0
+Empress,2022,107.0
+Hanna,1994,1210.0
+Hanna,1995,1210.0
+Hanna,1996,1257.0
+Hanna,1997,1257.0
+Hanna,1998,1257.0
+Hanna,1999,1262.0
+Hanna,2000,1349.0
+Hanna,2001,1381.0
+Hanna,2002,1390.0
+Hanna,2003,1394.0
+Hanna,2004,1386.0
+Hanna,2005,1378.0
+Hanna,2006,1380.0
+Hanna,2007,1375.0
+Hanna,2008,1372.0
+Hanna,2009,1372.0
+Hanna,2010,1372.0
+Hanna,2011,1374.0
+Hanna,2012,1346.0
+Hanna,2013,1387.0
+Hanna,2014,1380.0
+Hanna,2015,1382.0
+Hanna,2016,1381.0
+Hanna,2017,1382.0
+Hanna,2018,1382.0
+Hanna,2019,1380.0
+Hanna,2020,1384.0
+Hanna,2021,1383.0
+Hanna,2022,1383.0
+Hanna,2023,1383.0
+Special Area No. 3,1994,97.0
+Special Area No. 3,1995,96.0
+Special Area No. 3,1996,92.0
+Special Area No. 3,1997,92.0
+Special Area No. 3,1998,87.0
+Special Area No. 3,1999,85.0
+Special Area No. 3,2000,85.0
+Special Area No. 3,2001,89.0
+Special Area No. 3,2002,89.0
+Special Area No. 3,2003,89.0
+Special Area No. 3,2004,89.0
+Special Area No. 3,2005,89.0
+Special Area No. 3,2006,98.0
+Special Area No. 3,2007,98.0
+Special Area No. 3,2008,102.0
+Special Area No. 3,2009,102.0
+Special Area No. 3,2010,101.0
+Special Area No. 3,2011,101.0
+Special Area No. 3,2012,101.0
+Special Area No. 3,2013,101.0
+Special Area No. 3,2014,102.0
+Special Area No. 3,2015,102.0
+Special Area No. 3,2016,100.0
+Special Area No. 3,2017,102.0
+Special Area No. 3,2019,0.0
+Special Area No. 3,2020,0.0
+Oyen,1994,435.0
+Oyen,1995,435.0
+Oyen,1996,426.0
+Oyen,1997,425.0
+Oyen,1998,428.0
+Oyen,1999,429.0
+Oyen,2000,432.0
+Oyen,2001,434.0
+Oyen,2002,437.0
+Oyen,2003,439.0
+Oyen,2004,439.0
+Oyen,2005,439.0
+Oyen,2006,437.0
+Oyen,2007,439.0
+Oyen,2008,439.0
+Oyen,2009,440.0
+Oyen,2010,450.0
+Oyen,2011,450.0
+Oyen,2012,450.0
+Oyen,2013,419.0
+Oyen,2014,419.0
+Oyen,2015,489.0
+Oyen,2016,490.0
+Oyen,2017,491.0
+Oyen,2018,491.0
+Oyen,2019,491.0
+Oyen,2020,491.0
+Oyen,2021,491.0
+Oyen,2022,491.0
+Oyen,2023,491.0
+Consort,1994,277.0
+Consort,1995,277.0
+Consort,1996,277.0
+Consort,1997,280.0
+Consort,1998,302.0
+Consort,1999,302.0
+Consort,2000,302.0
+Consort,2001,302.0
+Consort,2002,302.0
+Consort,2003,302.0
+Consort,2004,305.0
+Consort,2005,305.0
+Consort,2006,301.0
+Consort,2007,301.0
+Consort,2008,312.0
+Consort,2009,313.0
+Consort,2010,313.0
+Consort,2011,313.0
+Consort,2012,316.0
+Consort,2013,319.0
+Consort,2014,321.0
+Consort,2015,319.0
+Consort,2016,319.0
+Consort,2017,320.0
+Consort,2018,320.0
+Consort,2019,320.0
+Consort,2020,320.0
+Consort,2021,320.0
+Consort,2022,320.0
+Consort,2023,320.0
+Vulcan County,2023,2365.0
+Vulcan County,1994,1061.0
+Vulcan County,1995,1061.0
+Vulcan County,1996,1375.0
+Vulcan County,1997,1400.0
+Vulcan County,1998,1279.0
+Vulcan County,1999,1318.0
+Vulcan County,2000,1343.0
+Vulcan County,2001,2120.0
+Vulcan County,2002,2275.0
+Vulcan County,2003,2302.0
+Vulcan County,2004,2334.0
+Vulcan County,2005,2425.0
+Vulcan County,2006,2400.0
+Vulcan County,2007,2466.0
+Vulcan County,2008,1537.0
+Vulcan County,2009,2483.0
+Vulcan County,2010,2564.0
+Vulcan County,2011,1993.0
+Vulcan County,2012,2008.0
+Vulcan County,2013,2218.0
+Vulcan County,2014,2065.0
+Vulcan County,2015,2125.0
+Vulcan County,2016,2138.0
+Vulcan County,2017,2145.0
+Vulcan County,2018,2189.0
+Vulcan County,2019,2218.0
+Vulcan County,2020,2249.0
+Vulcan County,2021,2286.0
+Vulcan County,2022,2313.0
+Carmangay,1994,117.0
+Carmangay,1995,117.0
+Carmangay,1996,160.0
+Carmangay,1997,160.0
+Carmangay,1998,160.0
+Carmangay,1999,160.0
+Carmangay,2000,160.0
+Carmangay,2001,110.0
+Carmangay,2002,160.0
+Carmangay,2003,160.0
+Carmangay,2004,160.0
+Carmangay,2005,137.0
+Carmangay,2006,137.0
+Carmangay,2007,137.0
+Carmangay,2008,141.0
+Carmangay,2009,130.0
+Carmangay,2010,135.0
+Carmangay,2011,141.0
+Carmangay,2012,140.0
+Carmangay,2013,140.0
+Carmangay,2014,140.0
+Carmangay,2015,140.0
+Carmangay,2016,140.0
+Carmangay,2017,140.0
+Carmangay,2018,140.0
+Carmangay,2019,140.0
+Carmangay,2020,137.0
+Carmangay,2021,140.0
+Carmangay,2022,174.0
+Champion,1994,168.0
+Champion,1995,168.0
+Champion,1996,162.0
+Champion,1997,170.0
+Champion,1998,170.0
+Champion,1999,171.0
+Champion,2000,173.0
+Champion,2001,175.0
+Champion,2002,175.0
+Champion,2003,175.0
+Champion,2004,175.0
+Champion,2005,175.0
+Champion,2006,184.0
+Champion,2007,196.0
+Champion,2008,223.0
+Champion,2009,188.0
+Champion,2010,223.0
+Champion,2011,188.0
+Champion,2012,188.0
+Champion,2013,187.0
+Champion,2014,187.0
+Champion,2015,206.0
+Champion,2016,206.0
+Champion,2017,207.0
+Champion,2018,206.0
+Champion,2019,204.0
+Champion,2020,204.0
+Champion,2021,213.0
+Champion,2022,213.0
+Lomond,1994,79.0
+Lomond,1995,79.0
+Lomond,1996,79.0
+Lomond,1997,79.0
+Lomond,1998,79.0
+Lomond,1999,79.0
+Lomond,2000,79.0
+Lomond,2001,81.0
+Lomond,2002,81.0
+Lomond,2003,81.0
+Lomond,2004,82.0
+Lomond,2005,82.0
+Lomond,2006,82.0
+Lomond,2007,86.0
+Lomond,2008,89.0
+Lomond,2009,91.0
+Lomond,2010,91.0
+Lomond,2011,91.0
+Lomond,2012,91.0
+Lomond,2013,91.0
+Lomond,2014,91.0
+Lomond,2015,91.0
+Lomond,2016,91.0
+Lomond,2017,91.0
+Lomond,2018,91.0
+Lomond,2019,91.0
+Lomond,2020,91.0
+Lomond,2021,91.0
+Lomond,2022,91.0
+Lomond,2023,91.0
+Olds,2023,3814.0
+Olds,1994,2099.0
+Olds,1995,2099.0
+Olds,1996,2080.0
+Olds,1997,2109.0
+Olds,1998,2167.0
+Olds,1999,2268.0
+Olds,2000,2609.0
+Olds,2001,2732.0
+Olds,2002,2789.0
+Olds,2003,2788.0
+Olds,2004,3051.0
+Olds,2005,3154.0
+Olds,2006,3222.0
+Olds,2007,3378.0
+Olds,2008,3565.0
+Olds,2009,3642.0
+Olds,2010,3718.0
+Olds,2011,3764.0
+Olds,2012,3808.0
+Olds,2013,3857.0
+Olds,2014,3925.0
+Olds,2015,4020.0
+Olds,2016,4074.0
+Olds,2017,4157.0
+Olds,2018,4190.0
+Olds,2019,4190.0
+Olds,2020,4190.0
+Olds,2021,3764.0
+Olds,2022,3786.0
+Foothills County,1994,4576.0
+Foothills County,1995,4576.0
+Foothills County,1996,5113.0
+Foothills County,1997,5478.0
+Foothills County,1998,5824.0
+Foothills County,1999,6270.0
+Foothills County,2000,6573.0
+Foothills County,2001,6644.0
+Foothills County,2002,7143.0
+Foothills County,2003,7297.0
+Foothills County,2004,7724.0
+Foothills County,2005,8026.0
+Foothills County,2006,7315.0
+Foothills County,2007,8044.0
+Foothills County,2008,8661.0
+Foothills County,2009,8927.0
+Foothills County,2010,9049.0
+Foothills County,2011,9228.0
+Foothills County,2012,9295.0
+Foothills County,2013,9425.0
+Foothills County,2014,9516.0
+Foothills County,2015,9751.0
+Foothills County,2016,9912.0
+Foothills County,2017,9912.0
+Foothills County,2018,9912.0
+Foothills County,2019,1.0
+Foothills County,2020,9653.0
+Foothills County,2021,9721.0
+Foothills County,2022,9721.0
+Foothills County,2023,1050.0
+High River,2023,6367.0
+High River,1994,2673.0
+High River,1995,2673.0
+High River,1996,2731.0
+High River,1997,2879.0
+High River,1998,3146.0
+High River,1999,3306.0
+High River,2000,3412.0
+High River,2001,3526.0
+High River,2002,3646.0
+High River,2003,3823.0
+High River,2004,3967.0
+High River,2005,3992.0
+High River,2006,4141.0
+High River,2007,4343.0
+High River,2008,4645.0
+High River,2009,4932.0
+High River,2010,5704.0
+High River,2011,6330.0
+High River,2012,5313.0
+High River,2013,5308.0
+High River,2014,5371.0
+High River,2015,5310.0
+High River,2016,5008.0
+High River,2017,5393.0
+High River,2018,6011.0
+High River,2019,6059.0
+High River,2020,6059.0
+High River,2021,6267.0
+High River,2022,6265.0
+Provost,1994,736.0
+Provost,1995,736.0
+Provost,1996,786.0
+Provost,1997,815.0
+Provost,1998,910.0
+Provost,1999,914.0
+Provost,2000,916.0
+Provost,2001,917.0
+Provost,2002,923.0
+Provost,2003,924.0
+Provost,2004,929.0
+Provost,2005,934.0
+Provost,2006,944.0
+Provost,2007,948.0
+Provost,2008,960.0
+Provost,2009,960.0
+Provost,2010,961.0
+Provost,2011,962.0
+Provost,2012,966.0
+Provost,2013,977.0
+Provost,2014,982.0
+Provost,2015,984.0
+Provost,2016,966.0
+Provost,2017,966.0
+Provost,2018,966.0
+Provost,2019,964.0
+Provost,2020,962.0
+Provost,2021,962.0
+Provost,2022,962.0
+Provost,2023,962.0
+Czar,2023,99.0
+Czar,1994,86.0
+Czar,1995,86.0
+Czar,1996,103.0
+Czar,1997,103.0
+Czar,1998,103.0
+Czar,1999,88.0
+Czar,2000,88.0
+Czar,2001,88.0
+Czar,2002,88.0
+Czar,2003,88.0
+Czar,2004,88.0
+Czar,2005,88.0
+Czar,2006,88.0
+Czar,2007,90.0
+Czar,2008,92.0
+Czar,2009,97.0
+Czar,2010,95.0
+Czar,2011,97.0
+Czar,2012,98.0
+Czar,2013,102.0
+Czar,2014,102.0
+Czar,2015,103.0
+Czar,2016,99.0
+Czar,2017,99.0
+Czar,2018,99.0
+Czar,2019,99.0
+Czar,2020,99.0
+Czar,2021,99.0
+Czar,2022,99.0
+Hughenden,1994,111.0
+Hughenden,1995,111.0
+Hughenden,1996,111.0
+Hughenden,1997,111.0
+Hughenden,1998,114.0
+Hughenden,1999,114.0
+Hughenden,2000,114.0
+Hughenden,2001,114.0
+Hughenden,2002,114.0
+Hughenden,2003,114.0
+Hughenden,2004,114.0
+Hughenden,2005,118.0
+Hughenden,2006,118.0
+Hughenden,2007,119.0
+Hughenden,2008,121.0
+Hughenden,2009,121.0
+Hughenden,2010,120.0
+Hughenden,2011,120.0
+Hughenden,2012,121.0
+Hughenden,2013,122.0
+Hughenden,2014,123.0
+Hughenden,2015,124.0
+Hughenden,2016,125.0
+Hughenden,2017,125.0
+Hughenden,2018,125.0
+Hughenden,2019,125.0
+Hughenden,2020,125.0
+Hughenden,2021,125.0
+Hughenden,2022,125.0
+Hughenden,2023,125.0
+Longview,2023,156.0
+Longview,1994,116.0
+Longview,1995,116.0
+Longview,1996,115.0
+Longview,1997,115.0
+Longview,1998,115.0
+Longview,1999,115.0
+Longview,2000,117.0
+Longview,2001,124.0
+Longview,2002,124.0
+Longview,2003,128.0
+Longview,2004,135.0
+Longview,2005,138.0
+Longview,2006,138.0
+Longview,2007,142.0
+Longview,2008,129.0
+Longview,2009,145.0
+Longview,2010,147.0
+Longview,2011,147.0
+Longview,2012,147.0
+Longview,2013,146.0
+Longview,2014,147.0
+Longview,2015,148.0
+Longview,2016,149.0
+Longview,2017,149.0
+Longview,2018,149.0
+Longview,2019,151.0
+Longview,2020,153.0
+Longview,2021,155.0
+Longview,2022,155.0
+Turner Valley,2022,1144.0
+Black Diamond,1994,604.0
+Black Diamond,1995,604.0
+Black Diamond,1996,620.0
+Black Diamond,1997,750.0
+Black Diamond,1998,790.0
+Black Diamond,1999,800.0
+Black Diamond,2000,809.0
+Black Diamond,2001,823.0
+Black Diamond,2002,827.0
+Black Diamond,2003,831.0
+Black Diamond,2004,746.0
+Black Diamond,2005,776.0
+Black Diamond,2006,838.0
+Black Diamond,2007,992.0
+Black Diamond,2008,1010.0
+Black Diamond,2009,1088.0
+Black Diamond,2010,1100.0
+Black Diamond,2011,1169.0
+Black Diamond,2012,1177.0
+Black Diamond,2013,1192.0
+Black Diamond,2014,1225.0
+Black Diamond,2015,1234.0
+Black Diamond,2016,1108.0
+Black Diamond,2017,1108.0
+Black Diamond,2018,1121.0
+Black Diamond,2019,1130.0
+Black Diamond,2020,1296.0
+Black Diamond,2021,1250.0
+Black Diamond,2022,1288.0
+Okotoks,1994,2563.0
+Okotoks,1995,2563.0
+Okotoks,1996,2767.0
+Okotoks,1997,3330.0
+Okotoks,1998,3457.0
+Okotoks,1999,3649.0
+Okotoks,2000,4158.0
+Okotoks,2001,4310.0
+Okotoks,2002,4489.0
+Okotoks,2003,4658.0
+Okotoks,2004,5266.0
+Okotoks,2005,6034.0
+Okotoks,2006,7105.0
+Okotoks,2007,7835.0
+Okotoks,2008,8473.0
+Okotoks,2009,9220.0
+Okotoks,2010,9539.0
+Okotoks,2011,10363.0
+Okotoks,2012,10532.0
+Okotoks,2013,10721.0
+Okotoks,2014,10846.0
+Okotoks,2015,9632.0
+Okotoks,2016,9750.0
+Okotoks,2017,9887.0
+Okotoks,2018,10061.0
+Okotoks,2019,10206.0
+Okotoks,2020,10308.0
+Okotoks,2021,10475.0
+Okotoks,2022,10666.0
+Okotoks,2023,11141.0
+Rocky View County,2023,15059.0
+Rocky View County,1994,6276.0
+Rocky View County,1995,6276.0
+Rocky View County,1996,7656.0
+Rocky View County,1997,8180.0
+Rocky View County,1998,8273.0
+Rocky View County,1999,10009.0
+Rocky View County,2000,10469.0
+Rocky View County,2001,10350.0
+Rocky View County,2002,10684.0
+Rocky View County,2003,11154.0
+Rocky View County,2004,12845.0
+Rocky View County,2005,13369.0
+Rocky View County,2006,13685.0
+Rocky View County,2007,13333.0
+Rocky View County,2008,12356.0
+Rocky View County,2009,12472.0
+Rocky View County,2010,12593.0
+Rocky View County,2011,12814.0
+Rocky View County,2012,12896.0
+Rocky View County,2013,12938.0
+Rocky View County,2014,13228.0
+Rocky View County,2015,13499.0
+Rocky View County,2016,13620.0
+Rocky View County,2017,13868.0
+Rocky View County,2018,14118.0
+Rocky View County,2019,14277.0
+Rocky View County,2020,14394.0
+Rocky View County,2021,14393.0
+Rocky View County,2022,15058.0
+Calgary,1994,293383.0
+Calgary,1995,293383.0
+Calgary,1996,303989.0
+Calgary,1997,312092.0
+Calgary,1998,320907.0
+Calgary,1999,331159.0
+Calgary,2000,340257.0
+Calgary,2001,348902.0
+Calgary,2002,360129.0
+Calgary,2003,371756.0
+Calgary,2004,383701.0
+Calgary,2005,395799.0
+Calgary,2006,408543.0
+Calgary,2007,420311.0
+Calgary,2008,432997.0
+Calgary,2009,438663.0
+Calgary,2010,445455.0
+Calgary,2011,450952.0
+Calgary,2012,459339.0
+Calgary,2013,468358.0
+Calgary,2014,478223.0
+Calgary,2015,492623.0
+Calgary,2016,499222.0
+Calgary,2017,506392.0
+Calgary,2018,515391.0
+Calgary,2019,521257.0
+Calgary,2020,530767.0
+Calgary,2021,540648.0
+Calgary,2022,573805.0
+Calgary,2023,574293.0
+Mountain View County,2023,7129.0
+Mountain View County,1994,3427.0
+Mountain View County,1995,3427.0
+Mountain View County,1996,4729.0
+Mountain View County,1997,4343.0
+Mountain View County,1998,4343.0
+Mountain View County,1999,4826.0
+Mountain View County,2000,4652.0
+Mountain View County,2001,4851.0
+Mountain View County,2002,4817.0
+Mountain View County,2003,4868.0
+Mountain View County,2004,5002.0
+Mountain View County,2005,5809.0
+Mountain View County,2006,5699.0
+Mountain View County,2007,5926.0
+Mountain View County,2008,6026.0
+Mountain View County,2009,6108.0
+Mountain View County,2010,6169.0
+Mountain View County,2011,6249.0
+Mountain View County,2012,6340.0
+Mountain View County,2013,6422.0
+Mountain View County,2014,6483.0
+Mountain View County,2015,6530.0
+Mountain View County,2016,6483.0
+Mountain View County,2017,6483.0
+Mountain View County,2018,6483.0
+Mountain View County,2019,6483.0
+Mountain View County,2020,7071.0
+Mountain View County,2021,7129.0
+Mountain View County,2022,7129.0
+Carstairs,1994,688.0
+Carstairs,1995,688.0
+Carstairs,1996,706.0
+Carstairs,1997,738.0
+Carstairs,1998,761.0
+Carstairs,1999,793.0
+Carstairs,2000,826.0
+Carstairs,2001,862.0
+Carstairs,2002,930.0
+Carstairs,2003,954.0
+Carstairs,2004,1072.0
+Carstairs,2005,1260.0
+Carstairs,2006,1395.0
+Carstairs,2007,1419.0
+Carstairs,2008,1492.0
+Carstairs,2009,1540.0
+Carstairs,2010,1563.0
+Carstairs,2011,1566.0
+Carstairs,2012,1600.0
+Carstairs,2013,1558.0
+Carstairs,2014,1713.0
+Carstairs,2015,1784.0
+Carstairs,2016,1848.0
+Carstairs,2017,1902.0
+Carstairs,2018,1858.0
+Carstairs,2019,1952.0
+Carstairs,2020,1953.0
+Carstairs,2021,2060.0
+Carstairs,2022,2108.0
+Carstairs,2023,2108.0
+Cremona,2023,210.0
+Cremona,1994,142.0
+Cremona,1995,142.0
+Cremona,1996,164.0
+Cremona,1997,157.0
+Cremona,1998,163.0
+Cremona,1999,164.0
+Cremona,2000,172.0
+Cremona,2001,180.0
+Cremona,2002,193.0
+Cremona,2003,200.0
+Cremona,2004,193.0
+Cremona,2005,182.0
+Cremona,2006,204.0
+Cremona,2007,206.0
+Cremona,2008,209.0
+Cremona,2009,210.0
+Cremona,2010,210.0
+Cremona,2011,210.0
+Cremona,2012,210.0
+Cremona,2013,210.0
+Cremona,2014,210.0
+Cremona,2015,210.0
+Cremona,2016,210.0
+Cremona,2017,210.0
+Cremona,2018,210.0
+Cremona,2019,210.0
+Cremona,2020,210.0
+Cremona,2021,210.0
+Cremona,2022,210.0
+Didsbury,1994,1307.0
+Didsbury,1995,1307.0
+Didsbury,1996,1310.0
+Didsbury,1997,1222.0
+Didsbury,1998,1380.0
+Didsbury,1999,1380.0
+Didsbury,2000,1448.0
+Didsbury,2001,1494.0
+Didsbury,2002,1550.0
+Didsbury,2003,1589.0
+Didsbury,2004,1601.0
+Didsbury,2005,44.0
+Didsbury,2006,1710.0
+Didsbury,2007,1710.0
+Didsbury,2008,1812.0
+Didsbury,2009,1883.0
+Didsbury,2010,1853.0
+Didsbury,2011,1877.0
+Didsbury,2012,1928.0
+Didsbury,2013,1944.0
+Didsbury,2014,1958.0
+Didsbury,2015,1994.0
+Didsbury,2016,2012.0
+Didsbury,2017,2030.0
+Didsbury,2018,2053.0
+Didsbury,2019,2054.0
+Didsbury,2020,2052.0
+Didsbury,2021,2064.0
+Didsbury,2022,2068.0
+Didsbury,2023,2086.0
+Edberg,1994,61.0
+Edberg,1995,61.0
+Edberg,1996,61.0
+Edberg,1997,62.0
+Edberg,1998,63.0
+Edberg,1999,76.0
+Edberg,2000,77.0
+Edberg,2001,77.0
+Edberg,2002,68.0
+Edberg,2003,68.0
+Edberg,2004,68.0
+Edberg,2005,68.0
+Edberg,2006,68.0
+Edberg,2007,70.0
+Edberg,2008,70.0
+Edberg,2009,70.0
+Edberg,2010,70.0
+Edberg,2011,70.0
+Edberg,2012,70.0
+Edberg,2013,70.0
+Edberg,2014,70.0
+Edberg,2015,71.0
+Edberg,2016,74.0
+Edberg,2017,74.0
+Edberg,2018,74.0
+Edberg,2019,74.0
+Edberg,2020,74.0
+Edberg,2021,74.0
+Edberg,2022,74.0
+Edberg,2023,74.0
+Camrose,2023,8781.0
+Camrose,1994,5058.0
+Camrose,1995,5058.0
+Camrose,1996,5493.0
+Camrose,1997,5539.0
+Camrose,1998,5807.0
+Camrose,1999,5975.0
+Camrose,2000,6099.0
+Camrose,2001,6368.0
+Camrose,2002,6304.0
+Camrose,2003,6613.0
+Camrose,2004,6744.0
+Camrose,2005,6857.0
+Camrose,2006,7066.0
+Camrose,2007,7063.0
+Camrose,2008,7511.0
+Camrose,2009,7623.0
+Camrose,2010,7831.0
+Camrose,2011,8041.0
+Camrose,2012,8101.0
+Camrose,2013,8171.0
+Camrose,2014,8282.0
+Camrose,2015,8360.0
+Camrose,2016,8446.0
+Camrose,2017,8446.0
+Camrose,2018,8446.0
+Camrose,2019,8446.0
+Camrose,2020,8606.0
+Camrose,2021,8621.0
+Camrose,2022,8694.0
+Bawlf,1994,113.0
+Bawlf,1995,113.0
+Bawlf,1996,128.0
+Bawlf,1997,128.0
+Bawlf,1998,130.0
+Bawlf,1999,132.0
+Bawlf,2000,133.0
+Bawlf,2001,134.0
+Bawlf,2002,139.0
+Bawlf,2003,142.0
+Bawlf,2004,143.0
+Bawlf,2005,163.0
+Bawlf,2006,163.0
+Bawlf,2007,163.0
+Bawlf,2008,166.0
+Bawlf,2009,168.0
+Bawlf,2010,168.0
+Bawlf,2011,168.0
+Bawlf,2012,169.0
+Bawlf,2013,170.0
+Bawlf,2014,170.0
+Bawlf,2015,174.0
+Bawlf,2016,174.0
+Bawlf,2017,174.0
+Bawlf,2018,174.0
+Bawlf,2019,174.0
+Bawlf,2020,174.0
+Bawlf,2021,174.0
+Bawlf,2022,174.0
+Bawlf,2023,174.0
+Clive,2023,332.0
+Clive,1994,168.0
+Clive,1995,168.0
+Clive,1996,182.0
+Clive,1997,182.0
+Clive,1998,188.0
+Clive,1999,200.0
+Clive,2000,204.0
+Clive,2001,208.0
+Clive,2002,210.0
+Clive,2003,211.0
+Clive,2004,211.0
+Clive,2005,228.0
+Clive,2006,240.0
+Clive,2007,254.0
+Clive,2008,259.0
+Clive,2009,279.0
+Clive,2010,292.0
+Clive,2011,296.0
+Clive,2012,300.0
+Clive,2013,308.0
+Clive,2014,313.0
+Clive,2015,316.0
+Clive,2016,317.0
+Clive,2017,322.0
+Clive,2018,322.0
+Clive,2019,329.0
+Clive,2020,330.0
+Clive,2021,329.0
+Clive,2022,331.0
+Provost No. 52,1994,826.0
+Provost No. 52,1995,826.0
+Provost No. 52,1996,911.0
+Provost No. 52,1997,1104.0
+Provost No. 52,1998,1131.0
+Provost No. 52,1999,1141.0
+Provost No. 52,2000,1147.0
+Provost No. 52,2001,1154.0
+Provost No. 52,2002,1161.0
+Provost No. 52,2003,1167.0
+Provost No. 52,2004,821.0
+Provost No. 52,2005,827.0
+Provost No. 52,2006,961.0
+Provost No. 52,2007,970.0
+Provost No. 52,2008,1001.0
+Provost No. 52,2009,1001.0
+Provost No. 52,2010,1001.0
+Provost No. 52,2011,1011.0
+Provost No. 52,2012,953.0
+Provost No. 52,2013,961.0
+Provost No. 52,2014,984.0
+Provost No. 52,2015,996.0
+Provost No. 52,2016,1006.0
+Provost No. 52,2017,1010.0
+Provost No. 52,2018,1025.0
+Provost No. 52,2019,1035.0
+Provost No. 52,2020,1045.0
+Provost No. 52,2021,1056.0
+Provost No. 52,2022,1058.0
+Provost No. 52,2023,1058.0
+Smoky River No. 130,2023,938.0
+Smoky River No. 130,1994,811.0
+Smoky River No. 130,1995,811.0
+Smoky River No. 130,1996,936.0
+Smoky River No. 130,1997,825.0
+Smoky River No. 130,1998,825.0
+Smoky River No. 130,1999,825.0
+Smoky River No. 130,2000,825.0
+Smoky River No. 130,2001,830.0
+Smoky River No. 130,2002,830.0
+Smoky River No. 130,2003,830.0
+Smoky River No. 130,2004,830.0
+Smoky River No. 130,2005,830.0
+Smoky River No. 130,2006,783.0
+Smoky River No. 130,2007,783.0
+Smoky River No. 130,2008,783.0
+Smoky River No. 130,2009,783.0
+Smoky River No. 130,2010,783.0
+Smoky River No. 130,2011,819.0
+Smoky River No. 130,2012,796.0
+Smoky River No. 130,2013,796.0
+Smoky River No. 130,2014,800.0
+Smoky River No. 130,2015,0.0
+Smoky River No. 130,2016,802.0
+Smoky River No. 130,2017,802.0
+Smoky River No. 130,2018,804.0
+Smoky River No. 130,2019,845.0
+Smoky River No. 130,2020,926.0
+Smoky River No. 130,2021,921.0
+Smoky River No. 130,2022,921.0
+Vermilion River County,1994,2574.0
+Vermilion River County,1995,2574.0
+Vermilion River County,1996,2570.0
+Vermilion River County,1997,2590.0
+Vermilion River County,1998,2597.0
+Vermilion River County,1999,2688.0
+Vermilion River County,2000,2890.0
+Vermilion River County,2001,2939.0
+Vermilion River County,2002,2998.0
+Vermilion River County,2003,3045.0
+Vermilion River County,2004,3051.0
+Vermilion River County,2005,3082.0
+Vermilion River County,2006,3154.0
+Vermilion River County,2007,3256.0
+Vermilion River County,2008,3943.0
+Vermilion River County,2009,3973.0
+Vermilion River County,2010,3406.0
+Vermilion River County,2011,3450.0
+Vermilion River County,2012,3436.0
+Vermilion River County,2013,2922.0
+Vermilion River County,2014,3130.0
+Vermilion River County,2015,3314.0
+Vermilion River County,2016,3387.0
+Vermilion River County,2017,3387.0
+Vermilion River County,2018,3387.0
+Vermilion River County,2019,3387.0
+Vermilion River County,2020,3387.0
+Vermilion River County,2021,3274.0
+Vermilion River County,2022,3494.0
+Vermilion River County,2023,3506.0
+Paradise Valley,2023,76.0
+Paradise Valley,1994,63.0
+Paradise Valley,1995,63.0
+Paradise Valley,1996,62.0
+Paradise Valley,1997,64.0
+Paradise Valley,1998,64.0
+Paradise Valley,1999,69.0
+Paradise Valley,2000,70.0
+Paradise Valley,2001,72.0
+Paradise Valley,2002,73.0
+Paradise Valley,2003,73.0
+Paradise Valley,2004,75.0
+Paradise Valley,2005,73.0
+Paradise Valley,2006,73.0
+Paradise Valley,2007,78.0
+Paradise Valley,2008,78.0
+Paradise Valley,2009,78.0
+Paradise Valley,2010,78.0
+Paradise Valley,2011,77.0
+Paradise Valley,2012,76.0
+Paradise Valley,2013,76.0
+Paradise Valley,2014,76.0
+Paradise Valley,2015,76.0
+Paradise Valley,2016,76.0
+Paradise Valley,2017,76.0
+Paradise Valley,2018,76.0
+Paradise Valley,2019,76.0
+Paradise Valley,2020,76.0
+Paradise Valley,2021,76.0
+Paradise Valley,2022,76.0
+High Prairie,1994,993.0
+High Prairie,1995,993.0
+High Prairie,1996,879.0
+High Prairie,1997,876.0
+High Prairie,1998,881.0
+High Prairie,1999,895.0
+High Prairie,2000,885.0
+High Prairie,2001,893.0
+High Prairie,2002,872.0
+High Prairie,2003,857.0
+High Prairie,2004,859.0
+High Prairie,2005,868.0
+High Prairie,2006,875.0
+High Prairie,2007,907.0
+High Prairie,2008,907.0
+High Prairie,2009,908.0
+High Prairie,2010,909.0
+High Prairie,2011,1028.0
+High Prairie,2012,1038.0
+High Prairie,2013,1036.0
+High Prairie,2014,1034.0
+High Prairie,2015,1032.0
+High Prairie,2016,1031.0
+High Prairie,2017,1036.0
+High Prairie,2018,1038.0
+High Prairie,2019,1040.0
+High Prairie,2020,1040.0
+High Prairie,2021,1045.0
+High Prairie,2022,1045.0
+Northern Sunrise County,1994,335.0
+Northern Sunrise County,1995,335.0
+Northern Sunrise County,1996,701.0
+Northern Sunrise County,1997,701.0
+Northern Sunrise County,1998,701.0
+Northern Sunrise County,1999,787.0
+Northern Sunrise County,2000,790.0
+Northern Sunrise County,2001,798.0
+Northern Sunrise County,2002,801.0
+Northern Sunrise County,2003,805.0
+Northern Sunrise County,2004,810.0
+Northern Sunrise County,2005,817.0
+Northern Sunrise County,2006,818.0
+Northern Sunrise County,2007,845.0
+Northern Sunrise County,2008,862.0
+Northern Sunrise County,2009,870.0
+Northern Sunrise County,2010,870.0
+Northern Sunrise County,2011,817.0
+Northern Sunrise County,2012,865.0
+Northern Sunrise County,2013,794.0
+Northern Sunrise County,2014,868.0
+Northern Sunrise County,2015,866.0
+Northern Sunrise County,2016,899.0
+Northern Sunrise County,2017,902.0
+Northern Sunrise County,2018,901.0
+Northern Sunrise County,2019,905.0
+Northern Sunrise County,2020,917.0
+Northern Sunrise County,2021,942.0
+Northern Sunrise County,2022,957.0
+Northern Sunrise County,2023,957.0
+Big Lakes County,2023,1660.0
+Big Lakes County,1995,1328.0
+Big Lakes County,1996,1819.0
+Big Lakes County,1997,1644.0
+Big Lakes County,1998,1646.0
+Big Lakes County,1999,1710.0
+Big Lakes County,2000,1560.0
+Big Lakes County,2001,1698.0
+Big Lakes County,2002,1698.0
+Big Lakes County,2003,1732.0
+Big Lakes County,2004,1682.0
+Big Lakes County,2005,1682.0
+Big Lakes County,2006,1682.0
+Big Lakes County,2007,1682.0
+Big Lakes County,2008,1682.0
+Big Lakes County,2009,1781.0
+Big Lakes County,2010,1883.0
+Big Lakes County,2011,1915.0
+Big Lakes County,2012,1979.0
+Big Lakes County,2013,2036.0
+Big Lakes County,2014,2062.0
+Big Lakes County,2015,2393.0
+Big Lakes County,2016,2393.0
+Big Lakes County,2017,2723.0
+Big Lakes County,2018,1601.0
+Big Lakes County,2019,1615.0
+Big Lakes County,2020,1615.0
+Big Lakes County,2021,1615.0
+Big Lakes County,2022,1615.0
+Slave Lake,1994,1789.0
+Slave Lake,1995,1789.0
+Slave Lake,1996,2067.0
+Slave Lake,1997,2340.0
+Slave Lake,1998,2355.0
+Slave Lake,1999,2360.0
+Slave Lake,2000,2371.0
+Slave Lake,2001,2396.0
+Slave Lake,2002,2422.0
+Slave Lake,2003,2422.0
+Slave Lake,2004,2459.0
+Slave Lake,2005,2506.0
+Slave Lake,2006,2554.0
+Slave Lake,2007,2624.0
+Slave Lake,2008,2660.0
+Slave Lake,2009,2660.0
+Slave Lake,2010,2660.0
+Slave Lake,2011,2027.0
+Slave Lake,2012,2001.0
+Slave Lake,2013,2001.0
+Slave Lake,2014,2556.0
+Slave Lake,2015,2566.0
+Slave Lake,2016,2574.0
+Slave Lake,2017,2574.0
+Slave Lake,2018,2574.0
+Slave Lake,2019,2274.0
+Slave Lake,2020,2274.0
+Slave Lake,2021,2683.0
+Slave Lake,2022,2683.0
+Slave Lake,2023,2683.0
+Opportunity No. 17,2023,1333.0
+Opportunity No. 17,1995,827.0
+Opportunity No. 17,1996,827.0
+Opportunity No. 17,1997,1003.0
+Opportunity No. 17,1998,983.0
+Opportunity No. 17,1999,1673.0
+Opportunity No. 17,2000,1033.0
+Opportunity No. 17,2001,992.0
+Opportunity No. 17,2002,1043.0
+Opportunity No. 17,2003,1043.0
+Opportunity No. 17,2004,1084.0
+Opportunity No. 17,2005,1095.0
+Opportunity No. 17,2006,1363.0
+Opportunity No. 17,2007,1179.0
+Opportunity No. 17,2008,1179.0
+Opportunity No. 17,2009,1213.0
+Opportunity No. 17,2010,1213.0
+Opportunity No. 17,2011,1220.0
+Opportunity No. 17,2012,1290.0
+Opportunity No. 17,2013,1320.0
+Opportunity No. 17,2014,1320.0
+Opportunity No. 17,2015,1320.0
+Opportunity No. 17,2016,1.32
+Opportunity No. 17,2017,1320.0
+Opportunity No. 17,2018,1320.0
+Opportunity No. 17,2019,1320.0
+Opportunity No. 17,2020,1320.0
+Opportunity No. 17,2021,1320.0
+Opportunity No. 17,2022,1320.0
+McLennan,1994,357.0
+McLennan,1995,357.0
+McLennan,1996,301.0
+McLennan,1997,301.0
+McLennan,1998,301.0
+McLennan,1999,303.0
+McLennan,2000,303.0
+McLennan,2001,305.0
+McLennan,2002,305.0
+McLennan,2003,305.0
+McLennan,2004,305.0
+McLennan,2005,310.0
+McLennan,2006,310.0
+McLennan,2007,310.0
+McLennan,2008,310.0
+McLennan,2009,312.0
+McLennan,2010,315.0
+McLennan,2011,312.0
+McLennan,2012,312.0
+McLennan,2013,310.0
+McLennan,2014,305.0
+McLennan,2015,310.0
+McLennan,2016,312.0
+McLennan,2017,312.0
+McLennan,2018,310.0
+McLennan,2019,310.0
+McLennan,2020,308.0
+McLennan,2021,304.0
+McLennan,2022,304.0
+McLennan,2023,301.0
+Donnelly,1994,164.0
+Donnelly,1995,164.0
+Donnelly,1996,168.0
+Donnelly,1997,172.0
+Donnelly,1998,170.0
+Donnelly,1999,170.0
+Donnelly,2000,170.0
+Donnelly,2001,169.0
+Donnelly,2002,170.0
+Donnelly,2003,170.0
+Donnelly,2004,170.0
+Donnelly,2005,170.0
+Donnelly,2006,166.0
+Donnelly,2007,173.0
+Donnelly,2008,175.0
+Donnelly,2009,175.0
+Donnelly,2010,175.0
+Donnelly,2011,166.0
+Donnelly,2012,166.0
+Donnelly,2013,166.0
+Donnelly,2014,169.0
+Donnelly,2015,169.0
+Donnelly,2016,170.0
+Donnelly,2017,170.0
+Donnelly,2018,170.0
+Donnelly,2019,170.0
+Donnelly,2020,170.0
+Donnelly,2021,170.0
+Donnelly,2022,170.0
+Falher,1994,441.0
+Falher,1995,441.0
+Falher,1996,423.0
+Falher,1997,363.0
+Falher,1998,366.0
+Falher,1999,366.0
+Falher,2000,366.0
+Falher,2001,444.0
+Falher,2002,445.0
+Falher,2003,445.0
+Falher,2004,442.0
+Falher,2005,442.0
+Falher,2006,447.0
+Falher,2007,447.0
+Falher,2008,447.0
+Falher,2009,449.0
+Falher,2010,449.0
+Falher,2011,467.0
+Falher,2012,468.0
+Falher,2013,468.0
+Falher,2014,468.0
+Falher,2015,472.0
+Falher,2016,471.0
+Falher,2017,471.0
+Falher,2018,471.0
+Falher,2019,471.0
+Falher,2020,471.0
+Falher,2021,471.0
+Falher,2022,471.0
+Falher,2023,471.0
+Fairview,2023,1470.0
+Fairview,1994,1189.0
+Fairview,1995,1189.0
+Fairview,1996,1113.0
+Fairview,1997,1130.0
+Fairview,1998,1154.0
+Fairview,1999,1161.0
+Fairview,2000,1166.0
+Fairview,2001,1171.0
+Fairview,2002,1177.0
+Fairview,2003,1177.0
+Fairview,2004,1184.0
+Fairview,2005,1185.0
+Fairview,2006,1193.0
+Fairview,2007,1199.0
+Fairview,2008,1199.0
+Fairview,2009,1199.0
+Fairview,2010,1219.0
+Fairview,2011,1218.0
+Fairview,2012,1230.0
+Fairview,2013,1233.0
+Fairview,2014,1237.0
+Fairview,2015,1244.0
+Fairview,2016,1255.0
+Fairview,2017,1470.0
+Fairview,2018,1470.0
+Fairview,2019,1470.0
+Fairview,2020,1470.0
+Fairview,2021,1470.0
+Fairview,2022,1470.0
+Lac Ste. Anne County,1994,2796.0
+Lac Ste. Anne County,1995,2796.0
+Lac Ste. Anne County,1996,3157.0
+Lac Ste. Anne County,1997,3157.0
+Lac Ste. Anne County,1998,3157.0
+Lac Ste. Anne County,1999,3187.0
+Lac Ste. Anne County,2000,3200.0
+Lac Ste. Anne County,2001,4290.0
+Lac Ste. Anne County,2002,4103.0
+Lac Ste. Anne County,2003,4103.0
+Lac Ste. Anne County,2004,4103.0
+Lac Ste. Anne County,2005,4550.0
+Lac Ste. Anne County,2006,4567.0
+Lac Ste. Anne County,2007,5142.0
+Lac Ste. Anne County,2008,5142.0
+Lac Ste. Anne County,2009,5142.0
+Lac Ste. Anne County,2010,5472.0
+Lac Ste. Anne County,2011,4959.0
+Lac Ste. Anne County,2012,5142.0
+Lac Ste. Anne County,2013,5704.0
+Lac Ste. Anne County,2014,5747.0
+Lac Ste. Anne County,2015,5559.0
+Lac Ste. Anne County,2016,5639.0
+Lac Ste. Anne County,2017,8346.0
+Lac Ste. Anne County,2018,10100.0
+Lac Ste. Anne County,2019,10100.0
+Lac Ste. Anne County,2020,6552.0
+Lac Ste. Anne County,2021,6403.0
+Lac Ste. Anne County,2022,7289.0
+Lac Ste. Anne County,2023,6449.0
+Mayerthorpe,2023,612.0
+Mayerthorpe,1994,586.0
+Mayerthorpe,1995,586.0
+Mayerthorpe,1996,570.0
+Mayerthorpe,1997,589.0
+Mayerthorpe,1998,597.0
+Mayerthorpe,1999,560.0
+Mayerthorpe,2000,595.0
+Mayerthorpe,2001,595.0
+Mayerthorpe,2002,613.0
+Mayerthorpe,2003,613.0
+Mayerthorpe,2004,613.0
+Mayerthorpe,2005,613.0
+Mayerthorpe,2006,620.0
+Mayerthorpe,2007,619.0
+Mayerthorpe,2008,611.0
+Mayerthorpe,2009,606.0
+Mayerthorpe,2010,620.0
+Mayerthorpe,2011,617.0
+Mayerthorpe,2012,614.0
+Mayerthorpe,2013,615.0
+Mayerthorpe,2014,615.0
+Mayerthorpe,2015,617.0
+Mayerthorpe,2016,610.0
+Mayerthorpe,2017,609.0
+Mayerthorpe,2018,608.0
+Mayerthorpe,2019,609.0
+Mayerthorpe,2020,607.0
+Mayerthorpe,2021,612.0
+Mayerthorpe,2022,612.0
+Girouxville,1994,135.0
+Girouxville,1995,135.0
+Girouxville,1996,135.0
+Girouxville,1997,129.0
+Girouxville,1998,161.0
+Girouxville,1999,129.0
+Girouxville,2000,129.0
+Girouxville,2001,142.0
+Girouxville,2002,142.0
+Girouxville,2003,142.0
+Girouxville,2004,142.0
+Girouxville,2005,142.0
+Girouxville,2006,142.0
+Girouxville,2007,142.0
+Girouxville,2008,142.0
+Girouxville,2009,142.0
+Girouxville,2010,142.0
+Girouxville,2011,142.0
+Girouxville,2012,142.0
+Girouxville,2013,141.0
+Girouxville,2014,147.0
+Girouxville,2015,147.0
+Girouxville,2016,147.0
+Girouxville,2017,146.0
+Girouxville,2018,146.0
+Girouxville,2019,146.0
+Girouxville,2020,146.0
+Girouxville,2021,146.0
+Girouxville,2022,146.0
+Girouxville,2023,146.0
+Birch Hills County,2023,665.0
+Birch Hills County,1994,90.0
+Birch Hills County,1995,577.0
+Birch Hills County,1996,631.0
+Birch Hills County,1997,593.0
+Birch Hills County,1998,645.0
+Birch Hills County,1999,666.0
+Birch Hills County,2000,645.0
+Birch Hills County,2001,636.0
+Birch Hills County,2002,640.0
+Birch Hills County,2003,650.0
+Birch Hills County,2004,655.0
+Birch Hills County,2005,662.0
+Birch Hills County,2006,662.0
+Birch Hills County,2007,662.0
+Birch Hills County,2008,623.0
+Birch Hills County,2009,628.0
+Birch Hills County,2010,631.0
+Birch Hills County,2011,635.0
+Birch Hills County,2012,640.0
+Birch Hills County,2013,640.0
+Birch Hills County,2014,648.0
+Birch Hills County,2015,652.0
+Birch Hills County,2016,654.0
+Birch Hills County,2017,655.0
+Birch Hills County,2018,656.0
+Birch Hills County,2019,661.0
+Birch Hills County,2020,661.0
+Birch Hills County,2021,665.0
+Birch Hills County,2022,665.0
+Spirit River No. 133,1994,283.0
+Spirit River No. 133,1995,283.0
+Spirit River No. 133,1996,288.0
+Spirit River No. 133,1997,281.0
+Spirit River No. 133,1998,281.0
+Spirit River No. 133,1999,281.0
+Spirit River No. 133,2000,280.0
+Spirit River No. 133,2001,302.0
+Spirit River No. 133,2002,305.0
+Spirit River No. 133,2003,307.0
+Spirit River No. 133,2004,300.0
+Spirit River No. 133,2005,300.0
+Spirit River No. 133,2006,305.0
+Spirit River No. 133,2007,289.0
+Spirit River No. 133,2008,295.0
+Spirit River No. 133,2009,324.0
+Spirit River No. 133,2010,299.0
+Spirit River No. 133,2011,301.0
+Spirit River No. 133,2012,301.0
+Spirit River No. 133,2013,301.0
+Spirit River No. 133,2014,302.0
+Spirit River No. 133,2015,302.0
+Spirit River No. 133,2016,308.0
+Spirit River No. 133,2017,310.0
+Spirit River No. 133,2018,312.0
+Spirit River No. 133,2019,316.0
+Spirit River No. 133,2020,318.0
+Spirit River No. 133,2021,318.0
+Spirit River No. 133,2022,318.0
+Spirit River No. 133,2023,318.0
+Rycroft,2023,291.0
+Rycroft,1994,252.0
+Rycroft,1995,252.0
+Rycroft,1996,280.0
+Rycroft,1997,267.0
+Rycroft,1998,267.0
+Rycroft,1999,267.0
+Rycroft,2000,269.0
+Rycroft,2001,285.0
+Rycroft,2002,267.0
+Rycroft,2003,267.0
+Rycroft,2004,270.0
+Rycroft,2005,267.0
+Rycroft,2006,288.0
+Rycroft,2007,288.0
+Rycroft,2008,288.0
+Rycroft,2009,288.0
+Rycroft,2010,290.0
+Rycroft,2011,291.0
+Rycroft,2012,291.0
+Rycroft,2013,291.0
+Rycroft,2014,291.0
+Rycroft,2015,292.0
+Rycroft,2016,293.0
+Rycroft,2017,293.0
+Rycroft,2018,293.0
+Rycroft,2019,290.0
+Rycroft,2020,291.0
+Rycroft,2021,291.0
+Rycroft,2022,291.0
+Spirit River,1994,440.0
+Spirit River,1995,440.0
+Spirit River,1996,415.0
+Spirit River,1997,417.0
+Spirit River,1998,430.0
+Spirit River,1999,420.0
+Spirit River,2000,420.0
+Spirit River,2001,420.0
+Spirit River,2002,423.0
+Spirit River,2003,427.0
+Spirit River,2004,430.0
+Spirit River,2005,435.0
+Spirit River,2006,443.0
+Spirit River,2007,449.0
+Spirit River,2008,452.0
+Spirit River,2009,454.0
+Spirit River,2010,454.0
+Spirit River,2011,454.0
+Spirit River,2012,454.0
+Spirit River,2013,454.0
+Spirit River,2014,454.0
+Spirit River,2015,454.0
+Spirit River,2016,454.0
+Spirit River,2017,456.0
+Spirit River,2018,456.0
+Spirit River,2019,456.0
+Spirit River,2020,456.0
+Spirit River,2021,456.0
+Spirit River,2022,456.0
+Spirit River,2023,456.0
+Saddle Hills County,2023,1182.0
+Saddle Hills County,1995,904.0
+Saddle Hills County,1996,936.0
+Saddle Hills County,1997,970.0
+Saddle Hills County,1998,996.0
+Saddle Hills County,1999,970.0
+Saddle Hills County,2000,980.0
+Saddle Hills County,2001,1025.0
+Saddle Hills County,2002,995.0
+Saddle Hills County,2003,1006.0
+Saddle Hills County,2004,1006.0
+Saddle Hills County,2005,1017.0
+Saddle Hills County,2006,1032.0
+Saddle Hills County,2007,1032.0
+Saddle Hills County,2008,1032.0
+Saddle Hills County,2009,1032.0
+Saddle Hills County,2010,1032.0
+Saddle Hills County,2011,1045.0
+Saddle Hills County,2012,1045.0
+Saddle Hills County,2013,1045.0
+Saddle Hills County,2014,1045.0
+Saddle Hills County,2015,1045.0
+Saddle Hills County,2016,1092.0
+Saddle Hills County,2017,1108.0
+Saddle Hills County,2018,1116.0
+Saddle Hills County,2019,1116.0
+Saddle Hills County,2020,1142.0
+Saddle Hills County,2021,1182.0
+Saddle Hills County,2022,1182.0
+Fairview No. 136,1994,588.0
+Fairview No. 136,1995,588.0
+Fairview No. 136,1996,588.0
+Fairview No. 136,1997,694.0
+Fairview No. 136,1998,705.0
+Fairview No. 136,1999,718.0
+Fairview No. 136,2000,721.0
+Fairview No. 136,2001,650.0
+Fairview No. 136,2002,662.0
+Fairview No. 136,2003,698.0
+Fairview No. 136,2004,725.0
+Fairview No. 136,2005,725.0
+Fairview No. 136,2006,764.0
+Fairview No. 136,2007,721.0
+Fairview No. 136,2008,731.0
+Fairview No. 136,2009,734.0
+Fairview No. 136,2010,739.0
+Fairview No. 136,2011,743.0
+Fairview No. 136,2012,766.0
+Fairview No. 136,2013,773.0
+Fairview No. 136,2014,772.0
+Fairview No. 136,2015,766.0
+Fairview No. 136,2016,763.0
+Fairview No. 136,2017,767.0
+Fairview No. 136,2018,821.0
+Fairview No. 136,2019,821.0
+Fairview No. 136,2020,819.0
+Fairview No. 136,2021,820.0
+Fairview No. 136,2022,820.0
+Fairview No. 136,2023,707.0
+Grande Prairie,2023,27239.0
+Grande Prairie,1994,10902.0
+Grande Prairie,1995,10902.0
+Grande Prairie,1996,11271.0
+Grande Prairie,1997,9572.0
+Grande Prairie,1998,10583.0
+Grande Prairie,1999,11032.0
+Grande Prairie,2000,11458.0
+Grande Prairie,2001,11175.0
+Grande Prairie,2002,12169.0
+Grande Prairie,2003,12813.0
+Grande Prairie,2004,14420.0
+Grande Prairie,2005,14820.0
+Grande Prairie,2006,19347.0
+Grande Prairie,2007,20367.0
+Grande Prairie,2008,21657.0
+Grande Prairie,2009,22215.0
+Grande Prairie,2010,22503.0
+Grande Prairie,2011,22999.0
+Grande Prairie,2012,23603.0
+Grande Prairie,2013,24340.0
+Grande Prairie,2014,25110.0
+Grande Prairie,2015,25688.0
+Grande Prairie,2016,25992.0
+Grande Prairie,2017,26535.0
+Grande Prairie,2018,26297.0
+Grande Prairie,2019,26539.0
+Grande Prairie,2020,26753.0
+Grande Prairie,2021,26870.0
+Grande Prairie,2022,27046.0
+Sexsmith,1994,441.0
+Sexsmith,1995,441.0
+Sexsmith,1996,401.0
+Sexsmith,1997,476.0
+Sexsmith,1998,487.0
+Sexsmith,1999,517.0
+Sexsmith,2000,495.0
+Sexsmith,2001,535.0
+Sexsmith,2002,549.0
+Sexsmith,2003,549.0
+Sexsmith,2004,620.0
+Sexsmith,2005,705.0
+Sexsmith,2006,791.0
+Sexsmith,2007,849.0
+Sexsmith,2008,862.0
+Sexsmith,2009,868.0
+Sexsmith,2010,874.0
+Sexsmith,2011,882.0
+Sexsmith,2012,898.0
+Sexsmith,2013,945.0
+Sexsmith,2014,960.0
+Sexsmith,2015,974.0
+Sexsmith,2016,980.0
+Sexsmith,2017,980.0
+Sexsmith,2018,984.0
+Sexsmith,2019,991.0
+Sexsmith,2020,992.0
+Sexsmith,2021,995.0
+Sexsmith,2022,996.0
+Sexsmith,2023,999.0
+Peace River,2023,2902.0
+Peace River,1994,2511.0
+Peace River,1995,2511.0
+Peace River,1996,2422.0
+Peace River,1997,2340.0
+Peace River,1998,2343.0
+Peace River,1999,2394.0
+Peace River,2000,2569.0
+Peace River,2001,2569.0
+Peace River,2002,2569.0
+Peace River,2003,2578.0
+Peace River,2004,2596.0
+Peace River,2005,2646.0
+Peace River,2006,2749.0
+Peace River,2007,2795.0
+Peace River,2008,2823.0
+Peace River,2009,2845.0
+Peace River,2010,2875.0
+Peace River,2011,2962.0
+Peace River,2012,2927.0
+Peace River,2013,3048.0
+Peace River,2014,2873.0
+Peace River,2015,2887.0
+Peace River,2016,2892.0
+Peace River,2017,2892.0
+Peace River,2018,2898.0
+Peace River,2019,2898.0
+Peace River,2020,2902.0
+Peace River,2021,2902.0
+Peace River,2022,2902.0
+Breton,1994,239.0
+Breton,1995,239.0
+Breton,1996,218.0
+Breton,1997,222.0
+Breton,1998,223.0
+Breton,1999,233.0
+Breton,2000,233.0
+Breton,2001,237.0
+Breton,2002,241.0
+Breton,2003,241.0
+Breton,2004,244.0
+Breton,2005,248.0
+Breton,2006,252.0
+Breton,2007,254.0
+Breton,2008,254.0
+Breton,2009,254.0
+Breton,2010,254.0
+Breton,2011,271.0
+Breton,2012,273.0
+Breton,2013,273.0
+Breton,2014,279.0
+Breton,2015,279.0
+Breton,2016,287.0
+Breton,2017,288.0
+Breton,2018,288.0
+Breton,2019,288.0
+Breton,2020,287.0
+Breton,2021,287.0
+Breton,2022,287.0
+Drayton Valley,1994,2052.0
+Drayton Valley,1995,2052.0
+Drayton Valley,1996,1846.0
+Drayton Valley,1997,1730.0
+Drayton Valley,1998,1954.0
+Drayton Valley,1999,1981.0
+Drayton Valley,2000,2024.0
+Drayton Valley,2001,2055.0
+Drayton Valley,2002,2169.0
+Drayton Valley,2003,2229.0
+Drayton Valley,2004,2275.0
+Drayton Valley,2005,2324.0
+Drayton Valley,2006,2414.0
+Drayton Valley,2007,2506.0
+Drayton Valley,2008,2537.0
+Drayton Valley,2009,2524.0
+Drayton Valley,2010,2560.0
+Drayton Valley,2011,2585.0
+Drayton Valley,2012,2619.0
+Drayton Valley,2013,2656.0
+Drayton Valley,2014,2703.0
+Drayton Valley,2015,2703.0
+Drayton Valley,2016,2703.0
+Drayton Valley,2017,2703.0
+Drayton Valley,2018,2703.0
+Drayton Valley,2019,2911.0
+Drayton Valley,2020,2911.0
+Drayton Valley,2021,2911.0
+Drayton Valley,2022,2920.0
+Drayton Valley,2023,2926.0
+Brazeau County,2023,3659.0
+Brazeau County,1994,2078.0
+Brazeau County,1995,2078.0
+Brazeau County,1996,2238.0
+Brazeau County,1997,2238.0
+Brazeau County,1998,2238.0
+Brazeau County,1999,2569.0
+Brazeau County,2000,2653.0
+Brazeau County,2001,2596.0
+Brazeau County,2002,2596.0
+Brazeau County,2003,2596.0
+Brazeau County,2004,2656.0
+Brazeau County,2005,2755.0
+Brazeau County,2006,2889.0
+Brazeau County,2007,3000.0
+Brazeau County,2008,3052.0
+Brazeau County,2009,3205.0
+Brazeau County,2010,3201.0
+Brazeau County,2011,3139.0
+Brazeau County,2012,3247.0
+Brazeau County,2013,3317.0
+Brazeau County,2014,3379.0
+Brazeau County,2015,3440.0
+Brazeau County,2016,3458.0
+Brazeau County,2017,3456.0
+Brazeau County,2018,3475.0
+Brazeau County,2019,3484.0
+Brazeau County,2020,3499.0
+Brazeau County,2021,3522.0
+Brazeau County,2022,3618.0
+Parkland County,1994,7152.0
+Parkland County,1995,7152.0
+Parkland County,1996,7755.0
+Parkland County,1997,9170.0
+Parkland County,1998,8200.0
+Parkland County,1999,9350.0
+Parkland County,2000,10031.0
+Parkland County,2001,10244.0
+Parkland County,2002,10500.0
+Parkland County,2003,10750.0
+Parkland County,2004,10965.0
+Parkland County,2005,11963.0
+Parkland County,2006,12153.0
+Parkland County,2007,11600.0
+Parkland County,2008,11936.0
+Parkland County,2009,12125.0
+Parkland County,2010,12829.0
+Parkland County,2011,12951.0
+Parkland County,2012,13124.0
+Parkland County,2013,13575.0
+Parkland County,2014,13754.0
+Parkland County,2015,13921.0
+Parkland County,2016,13983.0
+Parkland County,2017,14034.0
+Parkland County,2018,14150.0
+Parkland County,2019,14342.0
+Parkland County,2020,14319.0
+Parkland County,2021,14319.0
+Parkland County,2022,14319.0
+Parkland County,2023,14662.0
+Seba Beach,2023,341.0
+Seba Beach,1994,52.0
+Seba Beach,1995,52.0
+Seba Beach,1996,52.0
+Seba Beach,1997,58.0
+Seba Beach,1998,58.0
+Seba Beach,1999,58.0
+Seba Beach,2000,58.0
+Seba Beach,2001,58.0
+Seba Beach,2002,49.0
+Seba Beach,2003,49.0
+Seba Beach,2004,49.0
+Seba Beach,2005,49.0
+Seba Beach,2006,49.0
+Seba Beach,2007,49.0
+Seba Beach,2008,49.0
+Seba Beach,2009,49.0
+Seba Beach,2010,49.0
+Seba Beach,2011,49.0
+Seba Beach,2012,49.0
+Seba Beach,2013,49.0
+Seba Beach,2014,49.0
+Seba Beach,2015,49.0
+Seba Beach,2016,49.0
+Seba Beach,2017,49.0
+Seba Beach,2018,49.0
+Seba Beach,2019,49.0
+Seba Beach,2020,341.0
+Seba Beach,2021,341.0
+Seba Beach,2022,341.0
+Mannville,1994,325.0
+Mannville,1995,325.0
+Mannville,1996,345.0
+Mannville,1997,345.0
+Mannville,1998,346.0
+Mannville,1999,340.0
+Mannville,2000,347.0
+Mannville,2001,348.0
+Mannville,2002,345.0
+Mannville,2003,346.0
+Mannville,2004,351.0
+Mannville,2005,351.0
+Mannville,2006,448.0
+Mannville,2007,467.0
+Mannville,2008,474.0
+Mannville,2009,477.0
+Mannville,2010,479.0
+Mannville,2011,479.0
+Mannville,2012,479.0
+Mannville,2013,479.0
+Mannville,2014,479.0
+Mannville,2015,480.0
+Mannville,2016,482.0
+Mannville,2017,482.0
+Mannville,2018,482.0
+Mannville,2019,482.0
+Mannville,2020,482.0
+Mannville,2021,482.0
+Mannville,2022,482.0
+Mannville,2023,482.0
+Lloydminster (Part),2023,14044.0
+Lloydminster (Part),2013,10295.0
+Lloydminster (Part),2014,10895.0
+Lloydminster (Part),2015,11019.0
+Lloydminster (Part),2016,11077.0
+Lloydminster (Part),2017,12769.0
+Lloydminster (Part),2018,13209.0
+Lloydminster (Part),2019,13225.0
+Lloydminster (Part),2020,13464.0
+Lloydminster (Part),2021,13715.0
+Lloydminster (Part),2022,14015.0
+Kitscoty,1994,230.0
+Kitscoty,1995,233.0
+Kitscoty,1996,233.0
+Kitscoty,1997,233.0
+Kitscoty,1998,233.0
+Kitscoty,1999,235.0
+Kitscoty,2000,244.0
+Kitscoty,2001,245.0
+Kitscoty,2002,247.0
+Kitscoty,2003,249.0
+Kitscoty,2004,258.0
+Kitscoty,2005,274.0
+Kitscoty,2006,274.0
+Kitscoty,2007,282.0
+Kitscoty,2008,307.0
+Kitscoty,2009,312.0
+Kitscoty,2010,321.0
+Kitscoty,2011,326.0
+Kitscoty,2012,349.0
+Kitscoty,2013,350.0
+Kitscoty,2014,354.0
+Kitscoty,2015,352.0
+Kitscoty,2016,353.0
+Kitscoty,2017,356.0
+Kitscoty,2018,356.0
+Kitscoty,2019,356.0
+Kitscoty,2020,356.0
+Kitscoty,2021,356.0
+Kitscoty,2022,356.0
+Kitscoty,2023,356.0
+Kapasiwin,2023,47.0
+Kapasiwin,1994,6.0
+Kapasiwin,1995,6.0
+Kapasiwin,1996,6.0
+Kapasiwin,1997,6.0
+Kapasiwin,1998,6.0
+Kapasiwin,1999,6.0
+Kapasiwin,2000,9.0
+Kapasiwin,2001,9.0
+Kapasiwin,2002,8.0
+Kapasiwin,2003,8.0
+Kapasiwin,2004,8.0
+Kapasiwin,2005,8.0
+Kapasiwin,2006,9.0
+Kapasiwin,2007,9.0
+Kapasiwin,2008,9.0
+Kapasiwin,2009,9.0
+Kapasiwin,2010,9.0
+Kapasiwin,2011,8.0
+Kapasiwin,2012,8.0
+Kapasiwin,2013,8.0
+Kapasiwin,2014,12.0
+Kapasiwin,2015,12.0
+Kapasiwin,2016,12.0
+Kapasiwin,2017,12.0
+Kapasiwin,2018,12.0
+Kapasiwin,2019,12.0
+Kapasiwin,2020,47.0
+Kapasiwin,2021,47.0
+Kapasiwin,2022,47.0
+Spring Lake,2023,338.0
+Spring Lake,1994,126.0
+Spring Lake,1995,126.0
+Spring Lake,1996,147.0
+Spring Lake,1997,147.0
+Spring Lake,1998,149.0
+Spring Lake,1999,168.0
+Spring Lake,2000,170.0
+Spring Lake,2001,174.0
+Spring Lake,2002,182.0
+Spring Lake,2003,188.0
+Spring Lake,2004,193.0
+Spring Lake,2005,214.0
+Spring Lake,2006,200.0
+Spring Lake,2007,275.0
+Spring Lake,2008,277.0
+Spring Lake,2009,281.0
+Spring Lake,2010,286.0
+Spring Lake,2011,291.0
+Spring Lake,2012,294.0
+Spring Lake,2013,301.0
+Spring Lake,2014,302.0
+Spring Lake,2015,309.0
+Spring Lake,2016,317.0
+Spring Lake,2017,320.0
+Spring Lake,2018,335.0
+Spring Lake,2019,326.0
+Spring Lake,2020,367.0
+Spring Lake,2021,334.0
+Spring Lake,2022,334.0
+Stony Plain,1994,2628.0
+Stony Plain,1995,2628.0
+Stony Plain,1996,2836.0
+Stony Plain,1997,3172.0
+Stony Plain,1998,3209.0
+Stony Plain,1999,3259.0
+Stony Plain,2000,3385.0
+Stony Plain,2001,3.0
+Stony Plain,2002,4022.0
+Stony Plain,2003,4264.0
+Stony Plain,2004,4348.0
+Stony Plain,2005,4402.0
+Stony Plain,2006,4658.0
+Stony Plain,2007,5173.0
+Stony Plain,2008,5550.0
+Stony Plain,2009,5719.0
+Stony Plain,2010,5947.0
+Stony Plain,2011,6423.0
+Stony Plain,2012,6634.0
+Stony Plain,2013,6846.0
+Stony Plain,2014,6924.0
+Stony Plain,2015,7014.0
+Stony Plain,2016,7108.0
+Stony Plain,2017,7149.0
+Stony Plain,2018,7171.0
+Stony Plain,2019,7632.0
+Stony Plain,2020,7697.0
+Stony Plain,2021,7778.0
+Stony Plain,2022,8453.0
+Stony Plain,2023,8527.0
+Spruce Grove,2023,16862.0
+Spruce Grove,1994,4262.0
+Spruce Grove,1995,4262.0
+Spruce Grove,1996,4396.0
+Spruce Grove,1997,5233.0
+Spruce Grove,1998,5399.0
+Spruce Grove,1999,5657.0
+Spruce Grove,2000,5689.0
+Spruce Grove,2001,5959.0
+Spruce Grove,2002,6400.0
+Spruce Grove,2003,6868.0
+Spruce Grove,2004,7363.0
+Spruce Grove,2005,7849.0
+Spruce Grove,2006,8059.0
+Spruce Grove,2007,8726.0
+Spruce Grove,2008,9127.0
+Spruce Grove,2009,9433.0
+Spruce Grove,2010,9376.0
+Spruce Grove,2011,10340.0
+Spruce Grove,2012,10905.0
+Spruce Grove,2013,11542.0
+Spruce Grove,2014,12379.0
+Spruce Grove,2015,13183.0
+Spruce Grove,2016,13786.0
+Spruce Grove,2017,14120.0
+Spruce Grove,2018,14120.0
+Spruce Grove,2019,14005.0
+Spruce Grove,2020,14011.0
+Spruce Grove,2021,14345.0
+Spruce Grove,2022,14735.0
+Strathcona County,1994,20410.0
+Strathcona County,1995,20410.0
+Strathcona County,1996,21119.0
+Strathcona County,1997,21959.0
+Strathcona County,1998,22710.0
+Strathcona County,1999,23438.0
+Strathcona County,2000,23692.0
+Strathcona County,2001,24729.0
+Strathcona County,2002,25806.0
+Strathcona County,2003,26817.0
+Strathcona County,2004,27840.0
+Strathcona County,2005,27868.0
+Strathcona County,2006,29307.0
+Strathcona County,2007,30699.0
+Strathcona County,2008,31951.0
+Strathcona County,2009,32329.0
+Strathcona County,2010,32809.0
+Strathcona County,2011,33631.0
+Strathcona County,2012,34275.0
+Strathcona County,2013,35148.0
+Strathcona County,2014,35558.0
+Strathcona County,2015,35965.0
+Strathcona County,2016,36352.0
+Strathcona County,2017,37559.0
+Strathcona County,2018,38126.0
+Strathcona County,2019,38742.0
+Strathcona County,2020,38964.0
+Strathcona County,2021,39364.0
+Strathcona County,2022,39604.0
+Strathcona County,2023,41472.0
+Sturgeon County,2023,8183.0
+Sturgeon County,1994,4674.0
+Sturgeon County,1995,4674.0
+Sturgeon County,1996,4974.0
+Sturgeon County,1997,5248.0
+Sturgeon County,1998,5321.0
+Sturgeon County,1999,5435.0
+Sturgeon County,2000,5663.0
+Sturgeon County,2001,5877.0
+Sturgeon County,2002,6143.0
+Sturgeon County,2003,6149.0
+Sturgeon County,2004,6319.0
+Sturgeon County,2005,6481.0
+Sturgeon County,2006,6861.0
+Sturgeon County,2007,6606.0
+Sturgeon County,2008,6884.0
+Sturgeon County,2009,6815.0
+Sturgeon County,2010,6903.0
+Sturgeon County,2011,6969.0
+Sturgeon County,2012,7061.0
+Sturgeon County,2013,7120.0
+Sturgeon County,2014,7176.0
+Sturgeon County,2015,7038.0
+Sturgeon County,2016,7380.0
+Sturgeon County,2017,7830.0
+Sturgeon County,2018,7905.0
+Sturgeon County,2019,7935.0
+Sturgeon County,2020,7871.0
+Sturgeon County,2021,7913.0
+Sturgeon County,2022,7982.0
+Mackenzie County,1995,1841.0
+Mackenzie County,1996,1937.0
+Mackenzie County,1997,2042.0
+Mackenzie County,1998,2384.0
+Mackenzie County,1999,2432.0
+Mackenzie County,2000,2414.0
+Mackenzie County,2001,2414.0
+Mackenzie County,2002,2414.0
+Mackenzie County,2003,2831.0
+Mackenzie County,2004,3000.0
+Mackenzie County,2005,3169.0
+Mackenzie County,2006,2908.0
+Mackenzie County,2007,2894.0
+Mackenzie County,2008,2936.0
+Mackenzie County,2009,2924.0
+Mackenzie County,2010,2975.0
+Mackenzie County,2011,3001.0
+Mackenzie County,2012,3056.0
+Mackenzie County,2013,3140.0
+Mackenzie County,2014,3203.0
+Mackenzie County,2015,3284.0
+Mackenzie County,2016,3284.0
+Mackenzie County,2017,3088.0
+Mackenzie County,2018,3088.0
+Mackenzie County,2019,3088.0
+Mackenzie County,2020,3243.0
+Mackenzie County,2021,3382.0
+Mackenzie County,2022,3382.0
+Mackenzie County,2023,3533.0
+Rainbow Lake,2023,405.0
+Rainbow Lake,1994,309.0
+Rainbow Lake,1995,309.0
+Rainbow Lake,1996,378.0
+Rainbow Lake,1997,378.0
+Rainbow Lake,1998,389.0
+Rainbow Lake,1999,400.0
+Rainbow Lake,2000,411.0
+Rainbow Lake,2001,422.0
+Rainbow Lake,2002,422.0
+Rainbow Lake,2003,431.0
+Rainbow Lake,2004,436.0
+Rainbow Lake,2005,440.0
+Rainbow Lake,2006,443.0
+Rainbow Lake,2007,443.0
+Rainbow Lake,2008,446.0
+Rainbow Lake,2009,487.0
+Rainbow Lake,2010,487.0
+Rainbow Lake,2011,487.0
+Rainbow Lake,2012,487.0
+Rainbow Lake,2013,487.0
+Rainbow Lake,2014,487.0
+Rainbow Lake,2015,487.0
+Rainbow Lake,2016,475.0
+Rainbow Lake,2017,466.0
+Rainbow Lake,2018,466.0
+Rainbow Lake,2019,419.0
+Rainbow Lake,2020,405.0
+Rainbow Lake,2021,405.0
+Rainbow Lake,2022,405.0
+Devon,1994,1461.0
+Devon,1995,1461.0
+Devon,1996,1593.0
+Devon,1997,1625.0
+Devon,1998,1675.0
+Devon,1999,1725.0
+Devon,2000,1605.0
+Devon,2001,1656.0
+Devon,2002,1871.0
+Devon,2003,2132.0
+Devon,2004,1993.0
+Devon,2005,2328.0
+Devon,2006,2417.0
+Devon,2007,2429.0
+Devon,2008,2446.0
+Devon,2009,2452.0
+Devon,2010,2461.0
+Devon,2011,2548.0
+Devon,2012,2554.0
+Devon,2013,2564.0
+Devon,2014,2447.0
+Devon,2015,2456.0
+Devon,2016,2456.0
+Devon,2017,2622.0
+Devon,2018,2622.0
+Devon,2019,2630.0
+Devon,2020,2630.0
+Devon,2021,2630.0
+Devon,2022,2630.0
+Devon,2023,2680.0
+Calmar,2023,971.0
+Calmar,1994,660.0
+Calmar,1995,660.0
+Calmar,1996,665.0
+Calmar,1997,669.0
+Calmar,1998,671.0
+Calmar,1999,684.0
+Calmar,2000,696.0
+Calmar,2001,699.0
+Calmar,2002,699.0
+Calmar,2003,709.0
+Calmar,2004,744.0
+Calmar,2005,746.0
+Calmar,2006,766.0
+Calmar,2007,772.0
+Calmar,2008,775.0
+Calmar,2009,775.0
+Calmar,2010,775.0
+Calmar,2011,782.0
+Calmar,2012,0.0
+Calmar,2013,811.0
+Calmar,2014,871.0
+Calmar,2015,872.0
+Calmar,2016,875.0
+Calmar,2017,888.0
+Calmar,2018,902.0
+Calmar,2019,913.0
+Calmar,2020,919.0
+Calmar,2021,919.0
+Calmar,2022,944.0
+Improvement District No. 349,2016,1.0
+Improvement District No. 349,2019,1.0
+Improvement District No. 349,2020,1.0
+Clear Hills,1995,870.0
+Clear Hills,1996,870.0
+Clear Hills,1997,913.0
+Clear Hills,1998,913.0
+Clear Hills,1999,913.0
+Clear Hills,2000,913.0
+Clear Hills,2001,991.0
+Clear Hills,2002,996.0
+Clear Hills,2003,1028.0
+Clear Hills,2004,1028.0
+Clear Hills,2005,891.0
+Clear Hills,2006,891.0
+Clear Hills,2007,947.0
+Clear Hills,2008,947.0
+Clear Hills,2009,956.0
+Clear Hills,2010,996.0
+Clear Hills,2011,1027.0
+Clear Hills,2012,1149.0
+Clear Hills,2013,1149.0
+Clear Hills,2014,1177.0
+Clear Hills,2015,1204.0
+Clear Hills,2016,1062.0
+Clear Hills,2017,1072.0
+Clear Hills,2018,1081.0
+Clear Hills,2019,1083.0
+Clear Hills,2020,1150.0
+Clear Hills,2021,1150.0
+Clear Hills,2022,1169.0
+Clear Hills,2023,1185.0
+Hines Creek,2023,179.0
+Hines Creek,1994,170.0
+Hines Creek,1995,170.0
+Hines Creek,1996,183.0
+Hines Creek,1997,183.0
+Hines Creek,1998,186.0
+Hines Creek,1999,190.0
+Hines Creek,2000,192.0
+Hines Creek,2001,192.0
+Hines Creek,2002,192.0
+Hines Creek,2003,192.0
+Hines Creek,2004,192.0
+Hines Creek,2005,192.0
+Hines Creek,2006,192.0
+Hines Creek,2007,193.0
+Hines Creek,2008,193.0
+Hines Creek,2009,176.0
+Hines Creek,2010,179.0
+Hines Creek,2011,180.0
+Hines Creek,2012,180.0
+Hines Creek,2013,180.0
+Hines Creek,2014,180.0
+Hines Creek,2015,180.0
+Hines Creek,2016,181.0
+Hines Creek,2017,181.0
+Hines Creek,2018,181.0
+Hines Creek,2019,181.0
+Hines Creek,2020,181.0
+Hines Creek,2021,181.0
+Hines Creek,2022,181.0
+St. Albert,1994,14645.0
+St. Albert,1995,14645.0
+St. Albert,1996,15968.0
+St. Albert,1997,16457.0
+St. Albert,1998,17008.0
+St. Albert,1999,17550.0
+St. Albert,2000,18165.0
+St. Albert,2001,18758.0
+St. Albert,2002,19830.0
+St. Albert,2003,20338.0
+St. Albert,2004,20854.0
+St. Albert,2005,21401.0
+St. Albert,2006,21909.0
+St. Albert,2007,22475.0
+St. Albert,2008,22629.0
+St. Albert,2009,22843.0
+St. Albert,2010,23306.0
+St. Albert,2011,23446.0
+St. Albert,2012,24001.0
+St. Albert,2013,24714.0
+St. Albert,2014,25040.0
+St. Albert,2015,25285.0
+St. Albert,2016,26140.0
+St. Albert,2017,26541.0
+St. Albert,2018,26838.0
+St. Albert,2019,27062.0
+St. Albert,2020,27170.0
+St. Albert,2021,27493.0
+St. Albert,2022,27493.0
+St. Albert,2023,28167.0
+Canmore,2023,9173.0
+Canmore,1994,3272.0
+Canmore,1995,3272.0
+Canmore,1996,3927.0
+Canmore,1997,4169.0
+Canmore,1998,4583.0
+Canmore,1999,4820.0
+Canmore,2000,5147.0
+Canmore,2001,5583.0
+Canmore,2002,4550.0
+Canmore,2003,6201.0
+Canmore,2004,7072.0
+Canmore,2005,7072.0
+Canmore,2006,7551.0
+Canmore,2007,7551.0
+Canmore,2008,8252.0
+Canmore,2009,8473.0
+Canmore,2010,8473.0
+Canmore,2011,8303.0
+Canmore,2012,8303.0
+Canmore,2013,8303.0
+Canmore,2014,8248.0
+Canmore,2015,8248.0
+Canmore,2016,8248.0
+Canmore,2017,8248.0
+Canmore,2018,8248.0
+Canmore,2019,8248.0
+Canmore,2020,8248.0
+Canmore,2021,9173.0
+Canmore,2022,9173.0
+Fox Creek,1994,766.0
+Fox Creek,1995,766.0
+Fox Creek,1996,803.0
+Fox Creek,1997,803.0
+Fox Creek,1998,810.0
+Fox Creek,1999,820.0
+Fox Creek,2000,833.0
+Fox Creek,2001,840.0
+Fox Creek,2002,812.0
+Fox Creek,2003,826.0
+Fox Creek,2004,834.0
+Fox Creek,2005,841.0
+Fox Creek,2006,844.0
+Fox Creek,2007,844.0
+Fox Creek,2008,853.0
+Fox Creek,2009,854.0
+Fox Creek,2010,855.0
+Fox Creek,2011,857.0
+Fox Creek,2012,877.0
+Fox Creek,2013,880.0
+Fox Creek,2014,866.0
+Fox Creek,2015,867.0
+Fox Creek,2016,870.0
+Fox Creek,2017,872.0
+Fox Creek,2018,871.0
+Fox Creek,2019,871.0
+Fox Creek,2020,868.0
+Fox Creek,2021,868.0
+Greenview No. 16,2023,4352.0
+Greenview No. 16,1994,2854.0
+Greenview No. 16,1995,2854.0
+Greenview No. 16,1996,3263.0
+Greenview No. 16,1997,3280.0
+Greenview No. 16,1998,3284.0
+Greenview No. 16,1999,3284.0
+Greenview No. 16,2000,3896.0
+Greenview No. 16,2001,3931.0
+Greenview No. 16,2002,3979.0
+Greenview No. 16,2003,3887.0
+Greenview No. 16,2004,4027.0
+Greenview No. 16,2005,4221.0
+Greenview No. 16,2006,4435.0
+Greenview No. 16,2007,4526.0
+Greenview No. 16,2008,4653.0
+Greenview No. 16,2009,4692.0
+Greenview No. 16,2010,4745.0
+Greenview No. 16,2011,4630.0
+Greenview No. 16,2012,4651.0
+Greenview No. 16,2013,4729.0
+Greenview No. 16,2014,4766.0
+Greenview No. 16,2015,4316.0
+Greenview No. 16,2016,4311.0
+Greenview No. 16,2017,4344.0
+Greenview No. 16,2018,4352.0
+Greenview No. 16,2019,4257.0
+Greenview No. 16,2020,4257.0
+Greenview No. 16,2021,4525.0
+Greenview No. 16,2022,4550.0
+Grande Prairie County No. 1,1994,3929.0
+Grande Prairie County No. 1,1995,3929.0
+Grande Prairie County No. 1,1996,4867.0
+Grande Prairie County No. 1,1997,4989.0
+Grande Prairie County No. 1,1998,5289.0
+Grande Prairie County No. 1,1999,5540.0
+Grande Prairie County No. 1,2000,5632.0
+Grande Prairie County No. 1,2001,5855.0
+Grande Prairie County No. 1,2002,6092.0
+Grande Prairie County No. 1,2003,6307.0
+Grande Prairie County No. 1,2004,6535.0
+Grande Prairie County No. 1,2005,6830.0
+Grande Prairie County No. 1,2006,7165.0
+Grande Prairie County No. 1,2007,7478.0
+Grande Prairie County No. 1,2008,7704.0
+Grande Prairie County No. 1,2009,7860.0
+Grande Prairie County No. 1,2010,8018.0
+Grande Prairie County No. 1,2011,8226.0
+Grande Prairie County No. 1,2012,8381.0
+Grande Prairie County No. 1,2013,8381.0
+Grande Prairie County No. 1,2014,8616.0
+Grande Prairie County No. 1,2015,8512.0
+Grande Prairie County No. 1,2016,8710.0
+Grande Prairie County No. 1,2017,8753.0
+Grande Prairie County No. 1,2018,8939.0
+Grande Prairie County No. 1,2019,8896.0
+Grande Prairie County No. 1,2020,8937.0
+Grande Prairie County No. 1,2021,8937.0
+Grande Prairie County No. 1,2022,10096.0
+Grande Prairie County No. 1,2023,9385.0
+Hythe,1994,221.0
+Hythe,1995,221.0
+Hythe,1996,245.0
+Hythe,1997,245.0
+Hythe,1998,247.0
+Hythe,1999,254.0
+Hythe,2000,256.0
+Hythe,2001,281.0
+Hythe,2002,281.0
+Hythe,2003,283.0
+Hythe,2004,283.0
+Hythe,2005,291.0
+Hythe,2006,294.0
+Hythe,2007,299.0
+Hythe,2008,303.0
+Hythe,2009,304.0
+Hythe,2010,304.0
+Hythe,2011,329.0
+Hythe,2012,330.0
+Hythe,2013,331.0
+Hythe,2014,331.0
+Hythe,2015,332.0
+Hythe,2016,328.0
+Hythe,2017,326.0
+Hythe,2018,326.0
+Hythe,2019,326.0
+Hythe,2020,326.0
+Cold Lake,1994,2980.0
+Cold Lake,1995,2980.0
+Cold Lake,1996,6441.0
+Cold Lake,1997,3896.0
+Cold Lake,1998,4132.0
+Cold Lake,1999,4509.0
+Cold Lake,2000,4388.0
+Cold Lake,2001,4505.0
+Cold Lake,2002,4615.0
+Cold Lake,2003,4709.0
+Cold Lake,2004,4860.0
+Cold Lake,2005,4521.0
+Cold Lake,2006,5200.0
+Cold Lake,2007,4583.0
+Cold Lake,2008,5011.0
+Cold Lake,2009,5313.0
+Cold Lake,2010,5313.0
+Cold Lake,2011,6070.0
+Cold Lake,2012,5872.0
+Cold Lake,2013,6171.0
+Cold Lake,2014,6704.0
+Cold Lake,2015,6801.0
+Cold Lake,2016,6909.0
+Cold Lake,2017,7288.0
+Cold Lake,2018,7116.0
+Cold Lake,2019,7110.0
+Cold Lake,2020,6775.0
+Cold Lake,2021,7015.0
+Cold Lake,2022,7015.0
+Cold Lake,2023,7058.0
+Bonnyville No. 87,2023,6026.0
+Bonnyville No. 87,1994,3074.0
+Bonnyville No. 87,1995,3074.0
+Bonnyville No. 87,1996,3300.0
+Bonnyville No. 87,1997,3750.0
+Bonnyville No. 87,1998,2380.0
+Bonnyville No. 87,1999,2410.0
+Bonnyville No. 87,2000,2450.0
+Bonnyville No. 87,2001,3434.0
+Bonnyville No. 87,2002,3573.0
+Bonnyville No. 87,2003,3712.0
+Bonnyville No. 87,2004,3941.0
+Bonnyville No. 87,2005,4108.0
+Bonnyville No. 87,2006,4487.0
+Bonnyville No. 87,2007,4676.0
+Bonnyville No. 87,2008,4799.0
+Bonnyville No. 87,2009,4937.0
+Bonnyville No. 87,2010,5084.0
+Bonnyville No. 87,2011,5260.0
+Bonnyville No. 87,2012,5215.0
+Bonnyville No. 87,2013,5277.0
+Bonnyville No. 87,2014,5488.0
+Bonnyville No. 87,2015,5678.0
+Bonnyville No. 87,2016,5678.0
+Bonnyville No. 87,2017,5678.0
+Bonnyville No. 87,2018,5740.0
+Bonnyville No. 87,2019,5929.0
+Bonnyville No. 87,2020,5935.0
+Bonnyville No. 87,2021,5962.0
+Bonnyville No. 87,2022,5989.0
+Bonnyville,1994,1828.0
+Bonnyville,1995,1828.0
+Bonnyville,1996,2061.0
+Bonnyville,1997,1992.0
+Bonnyville,1998,2058.0
+Bonnyville,1999,2185.0
+Bonnyville,2000,2192.0
+Bonnyville,2001,2205.0
+Bonnyville,2002,2269.0
+Bonnyville,2003,2420.0
+Bonnyville,2004,2628.0
+Bonnyville,2005,2628.0
+Bonnyville,2006,2711.0
+Bonnyville,2007,2711.0
+Bonnyville,2008,2711.0
+Bonnyville,2009,2794.0
+Bonnyville,2010,2856.0
+Bonnyville,2011,2778.0
+Bonnyville,2012,2130.0
+Bonnyville,2013,2149.0
+Bonnyville,2014,2175.0
+Bonnyville,2015,2289.0
+Bonnyville,2016,2293.0
+Bonnyville,2017,2293.0
+Bonnyville,2018,2294.0
+Bonnyville,2019,2281.0
+Bonnyville,2020,2322.0
+Bonnyville,2021,2341.0
+Bonnyville,2022,2341.0
+Bonnyville,2023,2341.0
+Glendon,2023,256.0
+Glendon,1994,186.0
+Glendon,1995,186.0
+Glendon,1996,190.0
+Glendon,1997,190.0
+Glendon,1998,190.0
+Glendon,1999,190.0
+Glendon,2000,190.0
+Glendon,2001,190.0
+Glendon,2002,193.0
+Glendon,2003,195.0
+Glendon,2004,188.0
+Glendon,2005,190.0
+Glendon,2006,190.0
+Glendon,2007,196.0
+Glendon,2008,200.0
+Glendon,2009,202.0
+Glendon,2010,206.0
+Glendon,2011,222.0
+Glendon,2012,224.0
+Glendon,2013,224.0
+Glendon,2014,225.0
+Glendon,2015,225.0
+Glendon,2016,226.0
+Glendon,2017,223.0
+Glendon,2018,223.0
+Glendon,2019,223.0
+Glendon,2020,223.0
+Glendon,2021,223.0
+Glendon,2022,256.0
+St. Paul County No. 19,1994,2083.0
+St. Paul County No. 19,1995,2083.0
+St. Paul County No. 19,1996,3009.0
+St. Paul County No. 19,1997,3059.0
+St. Paul County No. 19,1998,3096.0
+St. Paul County No. 19,1999,3093.0
+St. Paul County No. 19,2000,3204.0
+St. Paul County No. 19,2001,3251.0
+St. Paul County No. 19,2002,3251.0
+St. Paul County No. 19,2003,3266.0
+St. Paul County No. 19,2004,3266.0
+St. Paul County No. 19,2005,3365.0
+St. Paul County No. 19,2006,3378.0
+St. Paul County No. 19,2007,3421.0
+St. Paul County No. 19,2008,3485.0
+St. Paul County No. 19,2009,3552.0
+St. Paul County No. 19,2010,3614.0
+St. Paul County No. 19,2011,3706.0
+St. Paul County No. 19,2012,3751.0
+St. Paul County No. 19,2013,3830.0
+St. Paul County No. 19,2014,3835.0
+St. Paul County No. 19,2015,3882.0
+St. Paul County No. 19,2016,3944.0
+St. Paul County No. 19,2017,3944.0
+St. Paul County No. 19,2018,3944.0
+St. Paul County No. 19,2019,3979.0
+St. Paul County No. 19,2020,4000.0
+St. Paul County No. 19,2021,4002.0
+St. Paul County No. 19,2022,4002.0
+St. Paul County No. 19,2023,4571.0
+Elk Point,2023,685.0
+Elk Point,1994,529.0
+Elk Point,1995,529.0
+Elk Point,1996,559.0
+Elk Point,1997,483.0
+Elk Point,1998,487.0
+Elk Point,1999,511.0
+Elk Point,2000,512.0
+Elk Point,2001,513.0
+Elk Point,2002,514.0
+Elk Point,2003,516.0
+Elk Point,2004,518.0
+Elk Point,2005,520.0
+Elk Point,2006,525.0
+Elk Point,2007,535.0
+Elk Point,2008,545.0
+Elk Point,2009,550.0
+Elk Point,2010,558.0
+Elk Point,2011,560.0
+Elk Point,2012,646.0
+Elk Point,2013,660.0
+Elk Point,2014,684.0
+Elk Point,2015,685.0
+Elk Point,2016,685.0
+Elk Point,2017,685.0
+Elk Point,2018,685.0
+Elk Point,2019,685.0
+Elk Point,2020,685.0
+Elk Point,2021,685.0
+Elk Point,2022,685.0
+St. Paul,1994,1926.0
+St. Paul,1995,1926.0
+St. Paul,1996,1994.0
+St. Paul,1997,1875.0
+St. Paul,1998,1994.0
+St. Paul,1999,1902.0
+St. Paul,2000,1924.0
+St. Paul,2001,1936.0
+St. Paul,2002,1990.0
+St. Paul,2003,2019.0
+St. Paul,2004,2032.0
+St. Paul,2005,2054.0
+St. Paul,2006,2096.0
+St. Paul,2007,2110.0
+St. Paul,2008,2132.0
+St. Paul,2009,2150.0
+St. Paul,2010,2200.0
+St. Paul,2011,2235.0
+St. Paul,2012,2247.0
+St. Paul,2013,2262.0
+St. Paul,2014,2309.0
+St. Paul,2015,2317.0
+St. Paul,2016,2345.0
+St. Paul,2017,2346.0
+St. Paul,2018,2348.0
+St. Paul,2019,2348.0
+St. Paul,2020,0.0
+St. Paul,2021,2071.0
+St. Paul,2022,2071.0
+St. Paul,2023,1978.0
+Smoky Lake County,2023,2086.0
+Smoky Lake County,1994,980.0
+Smoky Lake County,1995,980.0
+Smoky Lake County,1996,1014.0
+Smoky Lake County,1997,998.0
+Smoky Lake County,1998,998.0
+Smoky Lake County,1999,1001.0
+Smoky Lake County,2000,1052.0
+Smoky Lake County,2001,1001.0
+Smoky Lake County,2002,1600.0
+Smoky Lake County,2003,1600.0
+Smoky Lake County,2004,1620.0
+Smoky Lake County,2005,1650.0
+Smoky Lake County,2006,1665.0
+Smoky Lake County,2007,1699.0
+Smoky Lake County,2008,1719.0
+Smoky Lake County,2009,1781.0
+Smoky Lake County,2010,1792.0
+Smoky Lake County,2011,1817.0
+Smoky Lake County,2012,1861.0
+Smoky Lake County,2013,1865.0
+Smoky Lake County,2014,1944.0
+Smoky Lake County,2015,1944.0
+Smoky Lake County,2016,1945.0
+Smoky Lake County,2017,1974.0
+Smoky Lake County,2018,1974.0
+Smoky Lake County,2019,1974.0
+Smoky Lake County,2020,1992.0
+Smoky Lake County,2021,2021.0
+Smoky Lake County,2022,2086.0
+Ma-Me-O Beach,1994,40.0
+Ma-Me-O Beach,1995,40.0
+Ma-Me-O Beach,1996,43.0
+Ma-Me-O Beach,1997,43.0
+Ma-Me-O Beach,1998,43.0
+Ma-Me-O Beach,1999,43.0
+Ma-Me-O Beach,2000,43.0
+Ma-Me-O Beach,2001,269.0
+Ma-Me-O Beach,2002,267.0
+Ma-Me-O Beach,2003,270.0
+Ma-Me-O Beach,2004,272.0
+Ma-Me-O Beach,2005,272.0
+Ma-Me-O Beach,2006,273.0
+Ma-Me-O Beach,2007,273.0
+Ma-Me-O Beach,2008,273.0
+Ma-Me-O Beach,2009,56.0
+Ma-Me-O Beach,2010,56.0
+Ma-Me-O Beach,2011,50.0
+Ma-Me-O Beach,2012,49.0
+Ma-Me-O Beach,2013,49.0
+Ma-Me-O Beach,2014,49.0
+Ma-Me-O Beach,2015,49.0
+Ma-Me-O Beach,2016,49.0
+Ma-Me-O Beach,2017,49.0
+Ma-Me-O Beach,2018,49.0
+Ma-Me-O Beach,2019,49.0
+Ma-Me-O Beach,2020,49.0
+Ma-Me-O Beach,2021,49.0
+Ma-Me-O Beach,2022,49.0
+Ma-Me-O Beach,2023,49.0
+Bon Accord,2023,586.0
+Bon Accord,1994,439.0
+Bon Accord,1995,439.0
+Bon Accord,1996,474.0
+Bon Accord,1997,479.0
+Bon Accord,1998,479.0
+Bon Accord,1999,480.0
+Bon Accord,2000,486.0
+Bon Accord,2001,493.0
+Bon Accord,2002,494.0
+Bon Accord,2003,502.0
+Bon Accord,2004,502.0
+Bon Accord,2005,512.0
+Bon Accord,2006,526.0
+Bon Accord,2007,559.0
+Bon Accord,2008,563.0
+Bon Accord,2009,565.0
+Bon Accord,2010,591.0
+Bon Accord,2011,591.0
+Bon Accord,2012,591.0
+Bon Accord,2013,569.0
+Bon Accord,2014,594.0
+Bon Accord,2015,580.0
+Bon Accord,2016,583.0
+Bon Accord,2017,583.0
+Bon Accord,2018,585.0
+Bon Accord,2019,585.0
+Bon Accord,2020,585.0
+Bon Accord,2021,586.0
+Bon Accord,2022,586.0
+Peace No. 135,1994,486.0
+Peace No. 135,1995,486.0
+Peace No. 135,1996,486.0
+Peace No. 135,1997,500.0
+Peace No. 135,1998,505.0
+Peace No. 135,1999,513.0
+Peace No. 135,2000,510.0
+Peace No. 135,2001,513.0
+Peace No. 135,2002,517.0
+Peace No. 135,2003,518.0
+Peace No. 135,2004,524.0
+Peace No. 135,2005,530.0
+Peace No. 135,2006,547.0
+Peace No. 135,2007,555.0
+Peace No. 135,2008,565.0
+Peace No. 135,2009,571.0
+Peace No. 135,2010,574.0
+Peace No. 135,2011,589.0
+Peace No. 135,2012,594.0
+Peace No. 135,2013,611.0
+Peace No. 135,2014,617.0
+Peace No. 135,2015,626.0
+Peace No. 135,2016,632.0
+Peace No. 135,2017,638.0
+Peace No. 135,2018,643.0
+Peace No. 135,2019,648.0
+Peace No. 135,2020,650.0
+Peace No. 135,2021,658.0
+Peace No. 135,2022,658.0
+Peace No. 135,2023,658.0
+Berwyn,2023,270.0
+Berwyn,1994,247.0
+Berwyn,1995,247.0
+Berwyn,1996,240.0
+Berwyn,1997,243.0
+Berwyn,1998,244.0
+Berwyn,1999,244.0
+Berwyn,2000,244.0
+Berwyn,2001,235.0
+Berwyn,2002,235.0
+Berwyn,2003,235.0
+Berwyn,2004,235.0
+Berwyn,2005,237.0
+Berwyn,2006,237.0
+Berwyn,2007,237.0
+Berwyn,2008,244.0
+Berwyn,2009,246.0
+Berwyn,2010,246.0
+Berwyn,2011,259.0
+Berwyn,2012,259.0
+Berwyn,2013,260.0
+Berwyn,2014,264.0
+Berwyn,2015,269.0
+Berwyn,2016,270.0
+Berwyn,2017,270.0
+Berwyn,2018,270.0
+Berwyn,2019,270.0
+Berwyn,2020,270.0
+Berwyn,2021,270.0
+Berwyn,2022,270.0
+Grimshaw,1994,952.0
+Grimshaw,1995,952.0
+Grimshaw,1996,967.0
+Grimshaw,1997,996.0
+Grimshaw,1998,999.0
+Grimshaw,1999,1004.0
+Grimshaw,2000,1010.0
+Grimshaw,2001,1010.0
+Grimshaw,2002,1055.0
+Grimshaw,2003,1055.0
+Grimshaw,2004,1057.0
+Grimshaw,2005,1020.0
+Grimshaw,2006,1036.0
+Grimshaw,2007,1071.0
+Grimshaw,2008,1065.0
+Grimshaw,2009,1086.0
+Grimshaw,2010,1097.0
+Grimshaw,2011,1097.0
+Grimshaw,2012,1102.0
+Grimshaw,2013,1177.0
+Grimshaw,2014,1183.0
+Grimshaw,2015,1188.0
+Grimshaw,2016,1188.0
+Grimshaw,2017,1213.0
+Grimshaw,2018,1210.0
+Grimshaw,2019,1210.0
+Grimshaw,2020,1210.0
+Grimshaw,2021,1211.0
+Grimshaw,2022,1211.0
+Grimshaw,2023,1207.0
+Improvement District No. 25 Willmore Wilderness,2023,0.0
+Improvement District No. 25 Willmore Wilderness,2014,0.0
+Improvement District No. 25 Willmore Wilderness,2015,0.0
+Improvement District No. 25 Willmore Wilderness,2016,0.0
+Improvement District No. 25 Willmore Wilderness,2017,0.0
+Improvement District No. 25 Willmore Wilderness,2018,0.0
+Improvement District No. 25 Willmore Wilderness,2019,0.0
+Improvement District No. 25 Willmore Wilderness,2020,0.0
+Improvement District No. 25 Willmore Wilderness,2021,0.0
+Improvement District No. 25 Willmore Wilderness,2022,0.0
+Crowsnest Pass,1994,2613.0
+Crowsnest Pass,1995,2613.0
+Crowsnest Pass,1996,2802.0
+Crowsnest Pass,1997,2821.0
+Crowsnest Pass,1998,2844.0
+Crowsnest Pass,1999,2871.0
+Crowsnest Pass,2000,2955.0
+Crowsnest Pass,2001,2979.0
+Crowsnest Pass,2002,2979.0
+Crowsnest Pass,2003,3111.0
+Crowsnest Pass,2004,3135.0
+Crowsnest Pass,2005,3129.0
+Crowsnest Pass,2006,3126.0
+Crowsnest Pass,2007,3282.0
+Crowsnest Pass,2008,3315.0
+Crowsnest Pass,2009,3240.0
+Crowsnest Pass,2010,3270.0
+Crowsnest Pass,2011,3279.0
+Crowsnest Pass,2012,3299.0
+Crowsnest Pass,2013,3304.0
+Crowsnest Pass,2014,3299.0
+Crowsnest Pass,2015,3322.0
+Crowsnest Pass,2016,0.0
+Crowsnest Pass,2017,0.0
+Crowsnest Pass,2018,3883.0
+Crowsnest Pass,2019,3367.0
+Crowsnest Pass,2020,3367.0
+Crowsnest Pass,2021,3475.0
+Crowsnest Pass,2022,3525.0
+Crowsnest Pass,2023,4011.0
+Bighorn No. 8,2023,979.0
+Bighorn No. 8,1994,581.0
+Bighorn No. 8,1995,581.0
+Bighorn No. 8,1996,634.0
+Bighorn No. 8,1997,676.0
+Bighorn No. 8,1998,676.0
+Bighorn No. 8,1999,680.0
+Bighorn No. 8,2000,688.0
+Bighorn No. 8,2001,693.0
+Bighorn No. 8,2002,699.0
+Bighorn No. 8,2003,709.0
+Bighorn No. 8,2004,714.0
+Bighorn No. 8,2005,736.0
+Bighorn No. 8,2006,748.0
+Bighorn No. 8,2007,773.0
+Bighorn No. 8,2008,866.0
+Bighorn No. 8,2009,866.0
+Bighorn No. 8,2010,773.0
+Bighorn No. 8,2011,769.0
+Bighorn No. 8,2012,782.0
+Bighorn No. 8,2013,782.0
+Bighorn No. 8,2014,797.0
+Bighorn No. 8,2015,797.0
+Bighorn No. 8,2016,820.0
+Bighorn No. 8,2017,820.0
+Bighorn No. 8,2018,820.0
+Bighorn No. 8,2019,820.0
+Bighorn No. 8,2020,820.0
+Bighorn No. 8,2021,820.0
+Bighorn No. 8,2022,979.0
+Improvement District No.  9 Banff,1994,367.0
+Improvement District No.  9 Banff,1995,367.0
+Improvement District No.  9 Banff,1996,251.0
+Improvement District No.  9 Banff,1997,251.0
+Improvement District No.  9 Banff,1998,251.0
+Improvement District No.  9 Banff,1999,251.0
+Improvement District No.  9 Banff,2000,251.0
+Improvement District No.  9 Banff,2001,251.0
+Improvement District No.  9 Banff,2004,251.0
+Improvement District No.  9 Banff,2005,251.0
+Improvement District No.  9 Banff,2006,251.0
+Improvement District No.  9 Banff,2007,251.0
+Improvement District No.  9 Banff,2008,251.0
+Improvement District No.  9 Banff,2009,209.0
+Improvement District No.  9 Banff,2010,209.0
+Improvement District No.  9 Banff,2011,209.0
+Improvement District No.  9 Banff,2012,209.0
+Improvement District No.  9 Banff,2013,209.0
+Improvement District No.  9 Banff,2014,209.0
+Improvement District No.  9 Banff,2015,209.0
+Improvement District No.  9 Banff,2016,209.0
+Improvement District No.  9 Banff,2017,209.0
+Improvement District No.  9 Banff,2018,209.0
+Improvement District No.  9 Banff,2019,295.0
+Improvement District No.  9 Banff,2020,295.0
+Improvement District No.  9 Banff,2021,123.0
+Improvement District No.  9 Banff,2022,295.0
+Morinville,1994,1906.0
+Morinville,1995,1906.0
+Morinville,1996,1827.0
+Morinville,1997,1863.0
+Morinville,1998,1887.0
+Morinville,1999,1803.0
+Morinville,2000,2078.0
+Morinville,2001,2111.0
+Morinville,2002,2162.0
+Morinville,2003,2162.0
+Morinville,2004,2284.0
+Morinville,2005,2301.0
+Morinville,2006,2500.0
+Morinville,2007,2620.0
+Morinville,2008,2819.0
+Morinville,2009,2881.0
+Morinville,2010,3027.0
+Morinville,2011,3131.0
+Morinville,2012,3293.0
+Morinville,2013,3372.0
+Morinville,2014,3441.0
+Morinville,2015,3515.0
+Morinville,2016,3745.0
+Morinville,2017,3801.0
+Morinville,2018,3880.0
+Morinville,2019,3954.0
+Morinville,2020,3954.0
+Morinville,2021,3954.0
+Morinville,2022,3954.0
+Morinville,2023,3954.0
+Legal,2023,490.0
+Legal,1994,327.0
+Legal,1995,327.0
+Legal,1996,331.0
+Legal,1997,355.0
+Legal,1998,357.0
+Legal,1999,365.0
+Legal,2000,368.0
+Legal,2001,372.0
+Legal,2002,380.0
+Legal,2003,389.0
+Legal,2004,390.0
+Legal,2005,400.0
+Legal,2006,417.0
+Legal,2007,434.0
+Legal,2008,435.0
+Legal,2009,449.0
+Legal,2010,454.0
+Legal,2011,464.0
+Legal,2012,476.0
+Legal,2013,478.0
+Legal,2014,478.0
+Legal,2015,483.0
+Legal,2016,487.0
+Legal,2017,487.0
+Legal,2018,490.0
+Legal,2019,487.0
+Legal,2020,491.0
+Legal,2021,491.0
+Legal,2022,490.0
+Jasper,2001,1857.0
+Jasper,2002,1820.0
+Jasper,2003,1820.0
+Jasper,2016,1897.0
+Jasper,2019,2043.0
+Jasper,2020,2043.0
+Jasper,2021,2049.0
+Jasper,2022,2049.0
+Jasper,2023,2067.0
+Banff,2023,4257.0
+Banff,1994,3091.0
+Banff,1995,3091.0
+Banff,1996,3140.0
+Banff,1997,3413.0
+Banff,1998,3425.0
+Banff,1999,3425.0
+Banff,2000,3220.0
+Banff,2001,3220.0
+Banff,2002,3323.0
+Banff,2003,3465.0
+Banff,2004,3493.0
+Banff,2005,3756.0
+Banff,2006,3791.0
+Banff,2007,3627.0
+Banff,2008,3633.0
+Banff,2009,3639.0
+Banff,2010,3642.0
+Banff,2011,3646.0
+Banff,2012,3651.0
+Banff,2013,3651.0
+Banff,2014,3346.0
+Banff,2015,3346.0
+Banff,2016,3346.0
+Banff,2017,4091.0
+Banff,2018,4267.0
+Banff,2019,4101.0
+Banff,2020,4101.0
+Banff,2021,4177.0
+Banff,2022,4223.0
+Improvement District No. 12 Jasper Park,1994,1752.0
+Improvement District No. 12 Jasper Park,1995,1752.0
+Improvement District No. 12 Jasper Park,1996,20.0
+Improvement District No. 12 Jasper Park,1997,20.0
+Improvement District No. 12 Jasper Park,1998,20.0
+Improvement District No. 12 Jasper Park,1999,20.0
+Improvement District No. 12 Jasper Park,2000,20.0
+Improvement District No. 12 Jasper Park,2001,20.0
+Improvement District No. 12 Jasper Park,2002,20.0
+Improvement District No. 12 Jasper Park,2003,20.0
+Improvement District No. 12 Jasper Park,2004,20.0
+Improvement District No. 12 Jasper Park,2005,20.0
+Improvement District No. 12 Jasper Park,2006,20.0
+Improvement District No. 12 Jasper Park,2007,20.0
+Improvement District No. 12 Jasper Park,2008,20.0
+Improvement District No. 12 Jasper Park,2009,34.0
+Improvement District No. 12 Jasper Park,2010,34.0
+Improvement District No. 12 Jasper Park,2011,34.0
+Improvement District No. 12 Jasper Park,2012,34.0
+Improvement District No. 12 Jasper Park,2013,34.0
+Improvement District No. 12 Jasper Park,2014,34.0
+Improvement District No. 12 Jasper Park,2015,34.0
+Improvement District No. 12 Jasper Park,2016,34.0
+Improvement District No. 12 Jasper Park,2017,34.0
+Improvement District No. 12 Jasper Park,2018,34.0
+Improvement District No. 12 Jasper Park,2019,34.0
+Improvement District No. 12 Jasper Park,2020,34.0
+Improvement District No. 12 Jasper Park,2021,34.0
+Improvement District No. 12 Jasper Park,2022,34.0
+Improvement District No. 12 Jasper Park,2023,34.0
+Ranchland No. 66,2023,50.0
+Ranchland No. 66,1995,52.0
+Ranchland No. 66,1996,52.0
+Ranchland No. 66,1997,59.0
+Ranchland No. 66,1998,54.0
+Ranchland No. 66,1999,57.0
+Ranchland No. 66,2000,59.0
+Ranchland No. 66,2001,58.0
+Ranchland No. 66,2002,58.0
+Ranchland No. 66,2003,59.0
+Ranchland No. 66,2004,59.0
+Ranchland No. 66,2005,59.0
+Ranchland No. 66,2006,60.0
+Ranchland No. 66,2007,60.0
+Ranchland No. 66,2008,60.0
+Ranchland No. 66,2009,61.0
+Ranchland No. 66,2010,61.0
+Ranchland No. 66,2011,62.0
+Ranchland No. 66,2012,61.0
+Ranchland No. 66,2013,47.0
+Ranchland No. 66,2014,47.0
+Ranchland No. 66,2015,47.0
+Ranchland No. 66,2016,47.0
+Ranchland No. 66,2017,47.0
+Ranchland No. 66,2018,49.0
+Ranchland No. 66,2019,49.0
+Ranchland No. 66,2020,49.0
+Ranchland No. 66,2021,50.0
+Ranchland No. 66,2022,50.0
+Wood Buffalo,1995,11528.0
+Wood Buffalo,1996,11269.0
+Wood Buffalo,1997,11590.0
+Wood Buffalo,1998,13688.0
+Wood Buffalo,1999,14079.0
+Wood Buffalo,2000,14475.0
+Wood Buffalo,2001,16244.0
+Wood Buffalo,2002,17899.0
+Wood Buffalo,2003,18026.0
+Wood Buffalo,2004,19782.0
+Wood Buffalo,2005,21447.0
+Wood Buffalo,2006,20070.0
+Wood Buffalo,2007,21147.0
+Wood Buffalo,2008,24611.0
+Wood Buffalo,2009,25708.0
+Wood Buffalo,2010,27151.0
+Wood Buffalo,2011,28203.0
+Wood Buffalo,2012,28833.0
+Wood Buffalo,2013,30353.0
+Wood Buffalo,2014,30097.0
+Wood Buffalo,2015,30208.0
+Wood Buffalo,2016,30163.0
+Wood Buffalo,2017,28907.0
+Wood Buffalo,2018,29642.0
+Wood Buffalo,2019,29948.0
+Wood Buffalo,2020,29969.0
+Wood Buffalo,2021,30226.0
+Wood Buffalo,2022,30214.0
+Wood Buffalo,2023,30170.0
+Improvement District No. 24 Wood Buffalo,2023,48.0
+Improvement District No. 24 Wood Buffalo,1994,50.0
+Improvement District No. 24 Wood Buffalo,1995,50.0
+Improvement District No. 24 Wood Buffalo,1996,66.0
+Improvement District No. 24 Wood Buffalo,1997,66.0
+Improvement District No. 24 Wood Buffalo,1998,66.0
+Improvement District No. 24 Wood Buffalo,1999,66.0
+Improvement District No. 24 Wood Buffalo,2000,66.0
+Improvement District No. 24 Wood Buffalo,2001,66.0
+Improvement District No. 24 Wood Buffalo,2002,66.0
+Improvement District No. 24 Wood Buffalo,2003,66.0
+Improvement District No. 24 Wood Buffalo,2004,66.0
+Improvement District No. 24 Wood Buffalo,2005,66.0
+Improvement District No. 24 Wood Buffalo,2006,66.0
+Improvement District No. 24 Wood Buffalo,2007,66.0
+Improvement District No. 24 Wood Buffalo,2008,66.0
+Improvement District No. 24 Wood Buffalo,2009,48.0
+Improvement District No. 24 Wood Buffalo,2010,48.0
+Improvement District No. 24 Wood Buffalo,2011,48.0
+Improvement District No. 24 Wood Buffalo,2012,48.0
+Improvement District No. 24 Wood Buffalo,2013,48.0
+Improvement District No. 24 Wood Buffalo,2014,48.0
+Improvement District No. 24 Wood Buffalo,2015,48.0
+Improvement District No. 24 Wood Buffalo,2016,48.0
+Improvement District No. 24 Wood Buffalo,2017,48.0
+Improvement District No. 24 Wood Buffalo,2018,48.0
+Improvement District No. 24 Wood Buffalo,2019,48.0
+Improvement District No. 24 Wood Buffalo,2020,48.0
+Improvement District No. 24 Wood Buffalo,2021,48.0
+Improvement District No. 24 Wood Buffalo,2022,48.0
+Marwayne,1994,198.0
+Marwayne,1995,198.0
+Marwayne,1996,197.0
+Marwayne,1997,203.0
+Marwayne,1998,204.0
+Marwayne,1999,204.0
+Marwayne,2000,206.0
+Marwayne,2001,216.0
+Marwayne,2002,216.0
+Marwayne,2003,216.0
+Marwayne,2004,216.0
+Marwayne,2005,225.0
+Marwayne,2006,225.0
+Marwayne,2007,229.0
+Marwayne,2008,231.0
+Marwayne,2009,233.0
+Marwayne,2010,234.0
+Marwayne,2011,234.0
+Marwayne,2012,237.0
+Marwayne,2013,248.0
+Marwayne,2014,248.0
+Marwayne,2015,248.0
+Marwayne,2016,255.0
+Marwayne,2017,255.0
+Marwayne,2018,256.0
+Marwayne,2019,256.0
+Marwayne,2020,256.0
+Marwayne,2021,256.0
+Marwayne,2022,256.0
+Marwayne,2023,256.0
+Lamont,2023,714.0
+Lamont,1994,554.0
+Lamont,1995,554.0
+Lamont,1996,609.0
+Lamont,1997,595.0
+Lamont,1998,593.0
+Lamont,1999,594.0
+Lamont,2000,609.0
+Lamont,2001,677.0
+Lamont,2002,723.0
+Lamont,2003,724.0
+Lamont,2004,725.0
+Lamont,2005,730.0
+Lamont,2006,732.0
+Lamont,2007,742.0
+Lamont,2008,742.0
+Lamont,2009,768.0
+Lamont,2010,769.0
+Lamont,2011,871.0
+Lamont,2012,871.0
+Lamont,2013,871.0
+Lamont,2014,871.0
+Lamont,2015,707.0
+Lamont,2016,711.0
+Lamont,2017,715.0
+Lamont,2018,718.0
+Lamont,2019,718.0
+Lamont,2020,718.0
+Lamont,2021,718.0
+Lamont,2022,715.0
+Bruderheim,1994,395.0
+Bruderheim,1995,395.0
+Bruderheim,1996,450.0
+Bruderheim,1997,450.0
+Bruderheim,1998,453.0
+Bruderheim,1999,456.0
+Bruderheim,2000,442.0
+Bruderheim,2001,443.0
+Bruderheim,2002,448.0
+Bruderheim,2003,460.0
+Bruderheim,2004,468.0
+Bruderheim,2005,476.0
+Bruderheim,2006,484.0
+Bruderheim,2007,448.0
+Bruderheim,2008,435.0
+Bruderheim,2009,504.0
+Bruderheim,2010,507.0
+Bruderheim,2011,530.0
+Bruderheim,2012,537.0
+Bruderheim,2013,540.0
+Bruderheim,2014,544.0
+Bruderheim,2015,601.0
+Bruderheim,2016,549.0
+Bruderheim,2017,618.0
+Bruderheim,2018,618.0
+Bruderheim,2019,618.0
+Bruderheim,2020,618.0
+Bruderheim,2021,618.0
+Bruderheim,2022,619.0
+Bruderheim,2023,619.0
+Improvement District No. 13 Elk Island,2023,10.0
+Improvement District No. 13 Elk Island,1994,13.0
+Improvement District No. 13 Elk Island,1995,13.0
+Improvement District No. 13 Elk Island,1996,6.0
+Improvement District No. 13 Elk Island,1997,6.0
+Improvement District No. 13 Elk Island,1998,6.0
+Improvement District No. 13 Elk Island,1999,6.0
+Improvement District No. 13 Elk Island,2000,6.0
+Improvement District No. 13 Elk Island,2004,6.0
+Improvement District No. 13 Elk Island,2005,6.0
+Improvement District No. 13 Elk Island,2006,6.0
+Improvement District No. 13 Elk Island,2007,6.0
+Improvement District No. 13 Elk Island,2008,6.0
+Improvement District No. 13 Elk Island,2009,11.0
+Improvement District No. 13 Elk Island,2010,11.0
+Improvement District No. 13 Elk Island,2011,10.0
+Improvement District No. 13 Elk Island,2012,10.0
+Improvement District No. 13 Elk Island,2013,10.0
+Improvement District No. 13 Elk Island,2014,10.0
+Improvement District No. 13 Elk Island,2015,10.0
+Improvement District No. 13 Elk Island,2016,10.0
+Improvement District No. 13 Elk Island,2017,10.0
+Improvement District No. 13 Elk Island,2018,10.0
+Improvement District No. 13 Elk Island,2019,10.0
+Improvement District No. 13 Elk Island,2020,10.0
+Improvement District No. 13 Elk Island,2021,10.0
+Improvement District No. 13 Elk Island,2022,10.0
+Millet,1994,685.0
+Millet,1995,685.0
+Millet,1996,747.0
+Millet,1997,749.0
+Millet,1998,754.0
+Millet,1999,757.0
+Millet,2000,764.0
+Millet,2001,771.0
+Millet,2002,797.0
+Millet,2003,823.0
+Millet,2004,841.0
+Millet,2005,848.0
+Millet,2006,861.0
+Millet,2007,861.0
+Millet,2008,893.0
+Millet,2009,893.0
+Millet,2010,893.0
+Millet,2011,893.0
+Millet,2012,893.0
+Millet,2013,893.0
+Millet,2014,893.0
+Millet,2015,894.0
+Millet,2016,894.0
+Millet,2017,894.0
+Millet,2018,894.0
+Millet,2019,894.0
+Millet,2020,894.0
+Millet,2021,894.0
+Millet,2022,894.0
+Millet,2023,895.0
+Leduc County,2023,6592.0
+Leduc County,1994,3784.0
+Leduc County,1995,3784.0
+Leduc County,1996,4662.0
+Leduc County,1997,4693.0
+Leduc County,1998,4717.0
+Leduc County,1999,4769.0
+Leduc County,2000,4826.0
+Leduc County,2001,5021.0
+Leduc County,2002,5090.0
+Leduc County,2003,5300.0
+Leduc County,2004,5235.0
+Leduc County,2005,5302.0
+Leduc County,2006,5405.0
+Leduc County,2007,5552.0
+Leduc County,2008,5648.0
+Leduc County,2009,5715.0
+Leduc County,2010,6018.0
+Leduc County,2011,6111.0
+Leduc County,2012,6189.0
+Leduc County,2013,6277.0
+Leduc County,2014,6358.0
+Leduc County,2015,6480.0
+Leduc County,2016,6537.0
+Leduc County,2017,6537.0
+Leduc County,2018,6610.0
+Leduc County,2019,6180.0
+Leduc County,2020,6207.0
+Leduc County,2021,6344.0
+Leduc County,2022,6420.0
+Beaumont,1994,1646.0
+Beaumont,1995,1646.0
+Beaumont,1996,1789.0
+Beaumont,1997,1837.0
+Beaumont,1998,1920.0
+Beaumont,1999,2024.0
+Beaumont,2000,2106.0
+Beaumont,2001,2177.0
+Beaumont,2002,2377.0
+Beaumont,2003,2460.0
+Beaumont,2004,2679.0
+Beaumont,2005,3019.0
+Beaumont,2006,3097.0
+Beaumont,2007,3796.0
+Beaumont,2008,3499.0
+Beaumont,2009,4056.0
+Beaumont,2010,4402.0
+Beaumont,2011,4670.0
+Beaumont,2012,4912.0
+Beaumont,2013,5154.0
+Beaumont,2014,5823.0
+Beaumont,2015,6125.0
+Beaumont,2016,6433.0
+Beaumont,2017,6433.0
+Beaumont,2018,6820.0
+Beaumont,2019,6820.0
+Beaumont,2020,6820.0
+Beaumont,2021,6820.0
+Beaumont,2022,7224.0
+Beaumont,2023,8146.0
+Wetaskiwin County No. 10,2023,6362.0
+Wetaskiwin County No. 10,1994,3319.0
+Wetaskiwin County No. 10,1995,3319.0
+Wetaskiwin County No. 10,1996,4007.0
+Wetaskiwin County No. 10,1997,4105.0
+Wetaskiwin County No. 10,1998,4174.0
+Wetaskiwin County No. 10,1999,4303.0
+Wetaskiwin County No. 10,2000,4380.0
+Wetaskiwin County No. 10,2001,4475.0
+Wetaskiwin County No. 10,2002,4519.0
+Wetaskiwin County No. 10,2003,4594.0
+Wetaskiwin County No. 10,2004,4618.0
+Wetaskiwin County No. 10,2005,4720.0
+Wetaskiwin County No. 10,2006,4770.0
+Wetaskiwin County No. 10,2007,5000.0
+Wetaskiwin County No. 10,2008,5432.0
+Wetaskiwin County No. 10,2009,5657.0
+Wetaskiwin County No. 10,2010,5737.0
+Wetaskiwin County No. 10,2011,5825.0
+Wetaskiwin County No. 10,2012,5912.0
+Wetaskiwin County No. 10,2013,6025.0
+Wetaskiwin County No. 10,2014,6222.0
+Wetaskiwin County No. 10,2015,6229.0
+Wetaskiwin County No. 10,2016,6251.0
+Wetaskiwin County No. 10,2017,6251.0
+Wetaskiwin County No. 10,2018,6251.0
+Wetaskiwin County No. 10,2019,6251.0
+Wetaskiwin County No. 10,2020,6348.0
+Wetaskiwin County No. 10,2021,6362.0
+Wetaskiwin County No. 10,2022,6362.0
+Northern Lights County,1995,1269.0
+Northern Lights County,1996,1332.0
+Northern Lights County,1997,1298.0
+Northern Lights County,1998,1298.0
+Northern Lights County,1999,1298.0
+Northern Lights County,2000,1306.0
+Northern Lights County,2001,1402.0
+Northern Lights County,2002,1402.0
+Northern Lights County,2003,1402.0
+Northern Lights County,2004,1402.0
+Northern Lights County,2005,1402.0
+Northern Lights County,2006,1402.0
+Northern Lights County,2007,1402.0
+Northern Lights County,2008,1536.0
+Northern Lights County,2009,1547.0
+Northern Lights County,2010,1566.0
+Northern Lights County,2011,1549.0
+Northern Lights County,2012,1560.0
+Northern Lights County,2013,1600.0
+Northern Lights County,2014,1600.0
+Northern Lights County,2015,1636.0
+Northern Lights County,2016,1648.0
+Northern Lights County,2017,1648.0
+Northern Lights County,2018,1648.0
+Northern Lights County,2019,1691.0
+Northern Lights County,2020,1700.0
+Northern Lights County,2021,1700.0
+Northern Lights County,2022,1738.0
+Northern Lights County,2023,1738.0
+Manning,2023,655.0
+Manning,1994,432.0
+Manning,1995,432.0
+Manning,1996,453.0
+Manning,1997,499.0
+Manning,1998,509.0
+Manning,1999,505.0
+Manning,2000,510.0
+Manning,2001,521.0
+Manning,2002,524.0
+Manning,2003,526.0
+Manning,2004,527.0
+Manning,2005,527.0
+Manning,2006,560.0
+Manning,2007,560.0
+Manning,2008,598.0
+Manning,2009,591.0
+Manning,2010,593.0
+Manning,2011,593.0
+Manning,2012,593.0
+Manning,2013,593.0
+Manning,2014,593.0
+Manning,2015,595.0
+Manning,2016,654.0
+Manning,2017,654.0
+Manning,2018,654.0
+Manning,2019,654.0
+Manning,2020,654.0
+Manning,2021,655.0
+Manning,2022,655.0
+High Level,1994,957.0
+High Level,1995,957.0
+High Level,1996,1002.0
+High Level,1997,1021.0
+High Level,1998,909.0
+High Level,1999,973.0
+High Level,2000,1060.0
+High Level,2001,1060.0
+High Level,2002,1193.0
+High Level,2003,1435.0
+High Level,2004,1435.0
+High Level,2005,1498.0
+High Level,2006,1530.0
+High Level,2007,1552.0
+High Level,2008,1556.0
+High Level,2009,1548.0
+High Level,2010,1382.0
+High Level,2011,1162.0
+High Level,2012,1162.0
+High Level,2013,1163.0
+High Level,2014,1163.0
+High Level,2015,1163.0
+High Level,2016,1160.0
+High Level,2017,1322.0
+High Level,2018,1324.0
+High Level,2019,1324.0
+High Level,2020,1324.0
+High Level,2021,1467.0
+Thorhild County,1994,297.0
+Thorhild County,1995,297.0
+Thorhild County,1996,239.0
+Thorhild County,1997,239.0
+Thorhild County,1998,239.0
+Thorhild County,1999,239.0
+Thorhild County,2000,239.0
+Thorhild County,2001,1300.0
+Thorhild County,2002,1587.0
+Thorhild County,2003,1840.0
+Thorhild County,2004,241.0
+Thorhild County,2005,242.0
+Thorhild County,2006,244.0
+Thorhild County,2007,251.0
+Thorhild County,2008,250.0
+Athabasca County,1994,2160.0
+Athabasca County,1995,2160.0
+Athabasca County,1996,3308.0
+Athabasca County,1997,5260.0
+Athabasca County,1998,3421.0
+Athabasca County,1999,3427.0
+Athabasca County,2000,3546.0
+Athabasca County,2001,3568.0
+Athabasca County,2002,3627.0
+Athabasca County,2003,3781.0
+Athabasca County,2004,3785.0
+Athabasca County,2005,4201.0
+Athabasca County,2006,4201.0
+Athabasca County,2007,4216.0
+Athabasca County,2008,4259.0
+Athabasca County,2009,4276.0
+Athabasca County,2010,4400.0
+Athabasca County,2011,4727.0
+Athabasca County,2012,4966.0
+Athabasca County,2013,5113.0
+Athabasca County,2014,5291.0
+Athabasca County,2015,5406.0
+Athabasca County,2016,5525.0
+Athabasca County,2017,5243.0
+Athabasca County,2018,5254.0
+Athabasca County,2019,4053.0
+Athabasca County,2020,4349.0
+Athabasca County,2021,4515.0
+Athabasca County,2022,4515.0
+Athabasca County,2023,4515.0
+Boyle,2023,426.0
+Boyle,1994,368.0
+Boyle,1995,368.0
+Boyle,1996,346.0
+Boyle,1997,355.0
+Boyle,1998,358.0
+Boyle,1999,360.0
+Boyle,2000,363.0
+Boyle,2001,363.0
+Boyle,2002,360.0
+Boyle,2003,361.0
+Boyle,2004,366.0
+Boyle,2005,368.0
+Boyle,2006,380.0
+Boyle,2007,392.0
+Boyle,2008,400.0
+Boyle,2009,405.0
+Boyle,2010,415.0
+Boyle,2011,415.0
+Boyle,2012,420.0
+Boyle,2013,428.0
+Boyle,2014,430.0
+Boyle,2015,430.0
+Boyle,2016,432.0
+Boyle,2017,432.0
+Boyle,2018,432.0
+Boyle,2019,432.0
+Boyle,2020,432.0
+Boyle,2021,432.0
+Boyle,2022,431.0
+Athabasca,1994,948.0
+Athabasca,1995,948.0
+Athabasca,1996,953.0
+Athabasca,1997,859.0
+Athabasca,1998,863.0
+Athabasca,1999,873.0
+Athabasca,2000,873.0
+Athabasca,2001,880.0
+Athabasca,2002,975.0
+Athabasca,2003,997.0
+Athabasca,2004,997.0
+Athabasca,2005,1029.0
+Athabasca,2006,997.0
+Athabasca,2007,1024.0
+Athabasca,2008,1241.0
+Athabasca,2009,1241.0
+Athabasca,2010,1241.0
+Athabasca,2011,1241.0
+Athabasca,2012,1241.0
+Athabasca,2013,1324.0
+Athabasca,2014,1333.0
+Athabasca,2015,1343.0
+Athabasca,2016,1343.0
+Athabasca,2017,1344.0
+Athabasca,2018,1341.0
+Athabasca,2019,1341.0
+Athabasca,2020,1341.0
+Athabasca,2021,1341.0
+Athabasca,2022,1341.0
+Athabasca,2023,1341.0
+Island Lake,2023,84.0
+Island Lake,1994,55.0
+Island Lake,1995,55.0
+Island Lake,1996,72.0
+Island Lake,1997,72.0
+Island Lake,1998,73.0
+Island Lake,1999,75.0
+Island Lake,2000,77.0
+Island Lake,2001,79.0
+Island Lake,2002,84.0
+Island Lake,2003,86.0
+Island Lake,2004,87.0
+Island Lake,2005,89.0
+Island Lake,2006,94.0
+Island Lake,2007,102.0
+Island Lake,2008,102.0
+Island Lake,2009,105.0
+Island Lake,2010,108.0
+Island Lake,2011,108.0
+Island Lake,2012,108.0
+Island Lake,2013,81.0
+Island Lake,2014,81.0
+Island Lake,2015,81.0
+Island Lake,2016,81.0
+Island Lake,2017,81.0
+Island Lake,2018,81.0
+Island Lake,2019,84.0
+Island Lake,2020,84.0
+Island Lake,2021,84.0
+Island Lake,2022,84.0
+Island Lake South,1994,27.0
+Island Lake South,1995,27.0
+Island Lake South,1996,26.0
+Island Lake South,1997,26.0
+Island Lake South,1998,26.0
+Island Lake South,1999,26.0
+Island Lake South,2000,27.0
+Island Lake South,2001,27.0
+Island Lake South,2002,27.0
+Island Lake South,2003,32.0
+Island Lake South,2004,32.0
+Island Lake South,2005,32.0
+Island Lake South,2006,76.0
+Island Lake South,2007,76.0
+Island Lake South,2008,76.0
+Island Lake South,2009,77.0
+Island Lake South,2010,77.0
+Island Lake South,2011,77.0
+Island Lake South,2012,77.0
+Island Lake South,2013,77.0
+Island Lake South,2014,77.0
+Island Lake South,2015,77.0
+Island Lake South,2016,78.0
+Island Lake South,2017,78.0
+Island Lake South,2018,78.0
+Island Lake South,2019,78.0
+Island Lake South,2020,78.0
+Island Lake South,2021,78.0
+Island Lake South,2022,78.0
+Island Lake South,2023,78.0
+South Baptiste,2023,82.0
+South Baptiste,1994,27.0
+South Baptiste,1995,27.0
+South Baptiste,1996,21.0
+South Baptiste,1997,22.0
+South Baptiste,1998,23.0
+South Baptiste,1999,22.0
+South Baptiste,2000,23.0
+South Baptiste,2001,23.0
+South Baptiste,2002,23.0
+South Baptiste,2003,23.0
+South Baptiste,2004,23.0
+South Baptiste,2005,23.0
+South Baptiste,2006,23.0
+South Baptiste,2007,23.0
+South Baptiste,2008,23.0
+South Baptiste,2009,23.0
+South Baptiste,2010,28.0
+South Baptiste,2011,28.0
+South Baptiste,2012,29.0
+South Baptiste,2013,29.0
+South Baptiste,2014,18.0
+South Baptiste,2015,18.0
+South Baptiste,2016,18.0
+South Baptiste,2017,18.0
+South Baptiste,2018,18.0
+South Baptiste,2019,18.0
+South Baptiste,2020,18.0
+South Baptiste,2021,18.0
+South Baptiste,2022,18.0
+Lesser Slave River No.124,1995,1077.0
+Lesser Slave River No.124,1996,1119.0
+Lesser Slave River No.124,1997,1126.0
+Lesser Slave River No.124,1998,1179.0
+Lesser Slave River No.124,1999,1175.0
+Lesser Slave River No.124,2000,1229.0
+Lesser Slave River No.124,2001,1250.0
+Lesser Slave River No.124,2002,1248.0
+Lesser Slave River No.124,2003,1277.0
+Lesser Slave River No.124,2004,1310.0
+Lesser Slave River No.124,2005,1310.0
+Lesser Slave River No.124,2006,1329.0
+Lesser Slave River No.124,2007,1336.0
+Lesser Slave River No.124,2008,1372.0
+Lesser Slave River No.124,2009,1383.0
+Lesser Slave River No.124,2010,1419.0
+Lesser Slave River No.124,2011,1426.0
+Lesser Slave River No.124,2012,1436.0
+Lesser Slave River No.124,2013,1479.0
+Lesser Slave River No.124,2014,1479.0
+Lesser Slave River No.124,2015,1685.0
+Lesser Slave River No.124,2016,1693.0
+Lesser Slave River No.124,2017,1704.0
+Lesser Slave River No.124,2018,1708.0
+Lesser Slave River No.124,2019,1708.0
+Lesser Slave River No.124,2020,1726.0
+Lesser Slave River No.124,2021,1726.0
+Lesser Slave River No.124,2022,1726.0
+Lesser Slave River No.124,2023,1726.0
+Nampa,2023,182.0
+Nampa,1994,180.0
+Nampa,1995,180.0
+Nampa,1996,177.0
+Nampa,1997,169.0
+Nampa,1998,169.0
+Nampa,1999,167.0
+Nampa,2000,170.0
+Nampa,2001,170.0
+Nampa,2002,170.0
+Nampa,2003,171.0
+Nampa,2004,171.0
+Nampa,2005,172.0
+Nampa,2006,173.0
+Nampa,2007,176.0
+Nampa,2008,176.0
+Nampa,2009,177.0
+Nampa,2010,177.0
+Nampa,2011,177.0
+Nampa,2012,181.0
+Nampa,2013,184.0
+Nampa,2014,184.0
+Nampa,2015,175.0
+Nampa,2016,0.0
+Nampa,2017,180.0
+Nampa,2018,180.0
+Nampa,2019,180.0
+Nampa,2020,180.0
+Nampa,2021,182.0
+Nampa,2022,182.0
+Beaverlodge,1994,643.0
+Beaverlodge,1995,643.0
+Beaverlodge,1996,629.0
+Beaverlodge,1997,651.0
+Beaverlodge,1998,667.0
+Beaverlodge,1999,687.0
+Beaverlodge,2000,705.0
+Beaverlodge,2001,865.0
+Beaverlodge,2002,711.0
+Beaverlodge,2003,721.0
+Beaverlodge,2004,735.0
+Beaverlodge,2005,749.0
+Beaverlodge,2006,785.0
+Beaverlodge,2007,910.0
+Beaverlodge,2008,932.0
+Beaverlodge,2009,936.0
+Beaverlodge,2010,965.0
+Beaverlodge,2011,974.0
+Beaverlodge,2012,981.0
+Beaverlodge,2013,1138.0
+Beaverlodge,2014,1144.0
+Beaverlodge,2015,1136.0
+Beaverlodge,2016,1142.0
+Beaverlodge,2017,1147.0
+Beaverlodge,2018,1152.0
+Beaverlodge,2019,1161.0
+Beaverlodge,2020,1166.0
+Beaverlodge,2021,1167.0
+Beaverlodge,2022,1167.0
+Beaverlodge,2023,1165.0
+Lamont County,2023,1891.0
+Lamont County,1994,1511.0
+Lamont County,1995,1511.0
+Lamont County,1996,1707.0
+Lamont County,1997,1709.0
+Lamont County,1998,1729.0
+Lamont County,1999,1735.0
+Lamont County,2000,1778.0
+Lamont County,2001,1778.0
+Lamont County,2002,1816.0
+Lamont County,2003,1822.0
+Lamont County,2004,1870.0
+Lamont County,2005,1894.0
+Lamont County,2006,1676.0
+Lamont County,2007,1700.0
+Lamont County,2008,1805.0
+Lamont County,2009,1832.0
+Lamont County,2010,1859.0
+Lamont County,2011,1877.0
+Lamont County,2012,1887.0
+Lamont County,2013,2057.0
+Lamont County,2014,1894.0
+Lamont County,2015,1925.0
+Lamont County,2016,1875.0
+Lamont County,2017,1869.0
+Lamont County,2018,1872.0
+Lamont County,2019,1872.0
+Lamont County,2020,1883.0
+Lamont County,2021,1888.0
+Lamont County,2022,1886.0
+Two Hills County No. 21,2023,1812.0
+Two Hills County No. 21,1994,987.0
+Two Hills County No. 21,1995,987.0
+Two Hills County No. 21,1996,1500.0
+Two Hills County No. 21,1997,1018.0
+Two Hills County No. 21,1998,1020.0
+Two Hills County No. 21,1999,1022.0
+Two Hills County No. 21,2000,1024.0
+Two Hills County No. 21,2001,1104.0
+Two Hills County No. 21,2002,1106.0
+Two Hills County No. 21,2003,1108.0
+Two Hills County No. 21,2004,1041.0
+Two Hills County No. 21,2005,1053.0
+Two Hills County No. 21,2006,1435.0
+Two Hills County No. 21,2007,1400.0
+Two Hills County No. 21,2008,1400.0
+Two Hills County No. 21,2009,1897.0
+Two Hills County No. 21,2010,1427.0
+Two Hills County No. 21,2011,1427.0
+Two Hills County No. 21,2012,1631.0
+Two Hills County No. 21,2013,1634.0
+Two Hills County No. 21,2014,1652.0
+Two Hills County No. 21,2015,1693.0
+Two Hills County No. 21,2016,1889.0
+Two Hills County No. 21,2017,1743.0
+Two Hills County No. 21,2018,1762.0
+Two Hills County No. 21,2019,1772.0
+Two Hills County No. 21,2020,1770.0
+Two Hills County No. 21,2021,1779.0
+Two Hills County No. 21,2022,1788.0
+Myrnam,1994,160.0
+Myrnam,1995,160.0
+Myrnam,1996,147.0
+Myrnam,1997,147.0
+Myrnam,1998,147.0
+Myrnam,1999,147.0
+Myrnam,2000,147.0
+Myrnam,2001,147.0
+Myrnam,2002,147.0
+Myrnam,2003,248.0
+Myrnam,2004,248.0
+Myrnam,2005,247.0
+Myrnam,2006,247.0
+Myrnam,2007,245.0
+Myrnam,2008,245.0
+Myrnam,2009,244.0
+Myrnam,2010,245.0
+Myrnam,2011,245.0
+Myrnam,2012,245.0
+Myrnam,2013,245.0
+Myrnam,2014,244.0
+Myrnam,2015,244.0
+Myrnam,2016,177.0
+Myrnam,2017,176.0
+Myrnam,2018,176.0
+Myrnam,2019,176.0
+Myrnam,2020,176.0
+Myrnam,2021,176.0
+Myrnam,2022,176.0
+Myrnam,2023,176.0
+Andrew,1994,231.0
+Andrew,1995,231.0
+Andrew,1996,232.0
+Andrew,1997,307.0
+Andrew,1998,307.0
+Andrew,1999,307.0
+Andrew,2000,307.0
+Andrew,2001,307.0
+Andrew,2002,308.0
+Andrew,2003,308.0
+Andrew,2004,308.0
+Andrew,2005,309.0
+Andrew,2006,308.0
+Andrew,2007,308.0
+Andrew,2008,308.0
+Andrew,2009,308.0
+Andrew,2010,308.0
+Andrew,2011,308.0
+Andrew,2012,308.0
+Andrew,2013,308.0
+Andrew,2014,312.0
+Andrew,2015,312.0
+Andrew,2016,313.0
+Andrew,2017,313.0
+Andrew,2018,313.0
+Andrew,2019,313.0
+Andrew,2020,313.0
+Andrew,2021,313.0
+Mundare,1994,265.0
+Mundare,1995,265.0
+Mundare,1996,265.0
+Mundare,1997,293.0
+Mundare,1998,295.0
+Mundare,1999,297.0
+Mundare,2000,300.0
+Mundare,2001,312.0
+Mundare,2002,317.0
+Mundare,2003,326.0
+Mundare,2004,335.0
+Mundare,2005,370.0
+Mundare,2006,373.0
+Mundare,2007,389.0
+Mundare,2008,430.0
+Mundare,2009,433.0
+Mundare,2010,434.0
+Mundare,2011,444.0
+Mundare,2012,444.0
+Mundare,2013,448.0
+Mundare,2014,449.0
+Mundare,2015,449.0
+Mundare,2016,449.0
+Mundare,2017,449.0
+Mundare,2018,449.0
+Mundare,2019,449.0
+Mundare,2020,449.0
+Mundare,2021,453.0
+Mundare,2022,453.0
+Mundare,2023,453.0
+Chipman,2023,148.0
+Chipman,1994,87.0
+Chipman,1995,87.0
+Chipman,1996,98.0
+Chipman,1997,116.0
+Chipman,1998,116.0
+Chipman,1999,116.0
+Chipman,2000,116.0
+Chipman,2001,120.0
+Chipman,2002,122.0
+Chipman,2003,129.0
+Chipman,2004,133.0
+Chipman,2005,134.0
+Chipman,2006,137.0
+Chipman,2007,137.0
+Chipman,2008,139.0
+Chipman,2009,141.0
+Chipman,2010,144.0
+Chipman,2011,148.0
+Chipman,2012,148.0
+Chipman,2013,148.0
+Chipman,2014,148.0
+Chipman,2015,148.0
+Chipman,2016,148.0
+Chipman,2017,148.0
+Chipman,2018,148.0
+Chipman,2019,148.0
+Chipman,2020,148.0
+Chipman,2021,148.0
+Chipman,2022,148.0
+Innisfree,1994,112.0
+Innisfree,1995,112.0
+Innisfree,1996,125.0
+Innisfree,1997,112.0
+Innisfree,1998,112.0
+Innisfree,1999,112.0
+Innisfree,2000,112.0
+Innisfree,2001,112.0
+Innisfree,2002,112.0
+Innisfree,2003,112.0
+Innisfree,2004,112.0
+Innisfree,2005,112.0
+Innisfree,2006,114.0
+Innisfree,2007,115.0
+Innisfree,2008,120.0
+Innisfree,2009,120.0
+Innisfree,2010,120.0
+Innisfree,2011,120.0
+Innisfree,2012,120.0
+Innisfree,2013,120.0
+Innisfree,2014,120.0
+Innisfree,2015,120.0
+Innisfree,2016,124.0
+Innisfree,2017,124.0
+Innisfree,2018,124.0
+Innisfree,2019,124.0
+Innisfree,2020,124.0
+Innisfree,2021,124.0
+Innisfree,2022,124.0
+Innisfree,2023,131.0
+Hinton,2023,2989.0
+Hinton,1994,3414.0
+Hinton,1995,3414.0
+Hinton,1996,3414.0
+Hinton,1997,3484.0
+Hinton,1998,3362.0
+Hinton,1999,3435.0
+Hinton,2000,3444.0
+Hinton,2001,3833.0
+Hinton,2002,3501.0
+Hinton,2003,3896.0
+Hinton,2004,3916.0
+Hinton,2005,3918.0
+Hinton,2006,3993.0
+Hinton,2007,4462.0
+Hinton,2008,4514.0
+Hinton,2009,4177.0
+Hinton,2010,4264.0
+Hinton,2011,4277.0
+Hinton,2012,4296.0
+Hinton,2013,4291.0
+Hinton,2014,4346.0
+Hinton,2015,4341.0
+Hinton,2016,4344.0
+Hinton,2017,4344.0
+Hinton,2018,4344.0
+Hinton,2019,3936.0
+Hinton,2020,3937.0
+Hinton,2021,3937.0
+Hinton,2022,4254.0
+Edson,1994,2631.0
+Edson,1995,2631.0
+Edson,1996,2977.0
+Edson,1997,2977.0
+Edson,1998,2997.0
+Edson,1999,2999.0
+Edson,2000,3017.0
+Edson,2001,3033.0
+Edson,2002,3080.0
+Edson,2003,3120.0
+Edson,2004,3180.0
+Edson,2005,2803.0
+Edson,2006,3406.0
+Edson,2007,3531.0
+Edson,2008,3578.0
+Edson,2009,3710.0
+Edson,2010,3599.0
+Edson,2011,3733.0
+Edson,2012,3795.0
+Edson,2013,3797.0
+Edson,2014,3822.0
+Edson,2015,4067.0
+Edson,2016,3695.0
+Edson,2017,3730.0
+Edson,2018,3722.0
+Edson,2019,3723.0
+Edson,2020,3723.0
+Edson,2021,3723.0
+Edson,2022,3723.0
+Edson,2023,3723.0
+Gibbons,1994,840.0
+Gibbons,1995,840.0
+Gibbons,1996,881.0
+Gibbons,1997,883.0
+Gibbons,1998,886.0
+Gibbons,1999,888.0
+Gibbons,2000,890.0
+Gibbons,2001,894.0
+Gibbons,2002,901.0
+Gibbons,2003,920.0
+Gibbons,2004,925.0
+Gibbons,2005,952.0
+Gibbons,2006,1035.0
+Gibbons,2007,1080.0
+Gibbons,2008,1108.0
+Gibbons,2009,1118.0
+Gibbons,2010,1174.0
+Gibbons,2011,1193.0
+Gibbons,2012,1207.0
+Gibbons,2013,1227.0
+Gibbons,2014,1235.0
+Gibbons,2015,1237.0
+Gibbons,2016,1238.0
+Gibbons,2017,1238.0
+Gibbons,2018,1238.0
+Gibbons,2019,1244.0
+Gibbons,2020,1244.0
+Gibbons,2021,1247.0
+Gibbons,2022,1247.0
+Redwater,1994,758.0
+Redwater,1995,758.0
+Redwater,1996,754.0
+Redwater,1997,754.0
+Redwater,1998,758.0
+Redwater,1999,758.0
+Redwater,2000,765.0
+Redwater,2001,808.0
+Redwater,2002,818.0
+Redwater,2003,828.0
+Redwater,2004,828.0
+Redwater,2005,859.0
+Redwater,2006,894.0
+Redwater,2007,898.0
+Redwater,2008,892.0
+Redwater,2009,893.0
+Redwater,2010,894.0
+Redwater,2011,895.0
+Redwater,2012,900.0
+Redwater,2013,905.0
+Redwater,2014,909.0
+Redwater,2015,911.0
+Redwater,2016,905.0
+Redwater,2017,918.0
+Redwater,2018,922.0
+Redwater,2019,925.0
+Redwater,2020,926.0
+Redwater,2021,926.0
+Redwater,2022,926.0
+Redwater,2023,923.0
